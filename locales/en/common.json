@@ -1,6 +1,51 @@
 {
-  "welcome": {
-      "title": "Welcome to {{framework}}",
-      "intro": "To get started, edit <1><0></0></1> and save to reload."
+  "logo": {
+    "alt": "NCI Cancer Moonshot Biobank logo",
+    "title": "NCI Cancer Moonshot Biobank"
+  },
+  "nav": {
+    "topLevel": {
+      "about": "About",
+      "expect": "What to expect",
+      "participation": "Your participation"
+    },
+    "about": "About the Biobank",
+    "eligibility": "Eligibility and locations",
+    "research": "Biobanking drives research",
+    "consent": "Give your consent",
+    "donate": "Donate samples",
+    "testing": "Get a biomarker test",
+    "activate": "Activate your account",
+    "privacy": "Protecting your privacy"
+  },
+  "footer": {
+    "logo": {
+      "alt": "NCI logo",
+      "title": "NIH | National Cancer Institute"
+    },
+    "links": {
+      "email": "moonshotbiobank@nih.gov",
+      "phone": "(202) 222 - 2222",
+      "CIS": "Cancer Information Services",
+      "policy_title": "Policy Information",
+      "disclaimer": "Disclaimer Policy",
+      "privacy": "Privacy Policy",
+      "accessibility": "Accessibility",
+      "foia": "FOIA",
+      "resources_title": "More Resources",
+      "bio": "Biorepositories & Biospecimen Research Branch",
+      "nci": "National Cancer Institute",
+      "nih": "National Institutes of Health",
+      "hhs": "U.S. Department of Health and Human Services",
+      "usa": "USA.gov"
+    },
+    "tagline": "NIH … Turning Discovery Into Health ®"
+  },
+  "buttons": {
+    "sign_in": "Sign In",
+    "sign_out": "Sign Out"
+  },
+  "aria": {
+    "menu": "menu"
   }
 }
