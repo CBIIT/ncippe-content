@@ -1,7 +1,65 @@
 {
-  "hero": {
-    "title": "The Cancer Moonshot<sup>SM</sup> Biobank",
-    "subtitle": "Help change the future of cancer treatment.",
-    "subtitle_mobile": "Help change the future <br /> of cancer treatment."
-  }
+	"hero": {
+		"subtitle": "Help change the future of cancer treatment.",
+		"subtitle_mobile": "Help change the future <br /> of cancer treatment.",
+		"title": "The Cancer Moonshot<sup>SM</sup> Biobank"
+	},
+	"how_it_works": {
+		"cards": {
+			"0": {
+				"alt_text": "patient icon",
+				"body": "People with cancer donate blood and tissue samples during their treatment, for up to 5 years."
+			},
+			"1": {
+				"alt_text": "multiple test tubes icon",
+				"body": "The Biobank receives the samples and sends them to researchers."
+			},
+			"2": {
+				"alt_text": "lightbulb icon",
+				"body": "Researchers develop ideas to test on many different samples and advance their understanding of cancer."
+			},
+			"3": {
+				"alt_text": "breakthrough icon",
+				"body": "Researchers work to find discoveries that improve cancer treatments and increase survival."
+			}
+		},
+		"title": "How it works"
+	},
+	"mission": {
+		"body": "The Cancer Moonshot<sup>SM</sup> Biobank is a 5-year project to learn more about cancer with the help of participants who donate samples as they receive treatment.",
+		"link": "What to expect if you participate",
+		"title": "Our Mission"
+	},
+	"modal": {
+		"closed_account": {
+			"body": "Please contact your clinical research coordinator if you have any questions.",
+			"title": "Your account is closed."
+		}
+	},
+	"pageRoute": "/",
+	"pageTitle": "Home Page",
+	"participate": {
+		"body": "By joining the Biobank, you will be a part of the discovery of new cancer therapies, helping patients everywhere.",
+		"cards": {
+			"0": {
+				"alt_text": "doctor reviewing information with patient",
+				"body": "Participants get a biomarker test, which can help your doctor find new treatments or clinical trials specific to your individual cancer. There is no charge for the test.",
+				"link": "Learn about biomarker tests",
+				"title": "Biomarker tests tell you more about your cancer."
+			},
+			"1": {
+				"alt_text": "friends and family",
+				"body": "Cancer treatments don't work the same way for everyone&mdash;samples from many different communities will help researchers understand why this is and how to improve cancer care.",
+				"link": "",
+				"title": "Diverse populations are important for research."
+			},
+			"2": {
+				"alt_text": "test tubes",
+				"body": "By collecting samples over time, researchers can observe how cancer changes and how to stop it from growing and spreading.",
+				"link": "Learn about research",
+				"title": "Together we can advance our understanding of cancer."
+			}
+		},
+		"title": "Why should I participate?"
+	}
 }

@@ -1,0 +1,27 @@
+{
+	"introText": "The Cancer Moonshot<sup>SM</sup> Biobank will start out by collecting samples from patients with specific types of cancer, who are being treated at participating hospitals. Other cancer types and more hospitals may be added in future phases of the Biobank program.",
+	"pageRoute": "/about/eligibility",
+	"pageTitle": "Eligibility and locations",
+	"sections": {
+		"0": {
+			"alt_text": "reassuring hands",
+			"body": {
+				"list": "<ul class='bulletList bulletList--spreadOut'><li>Have been diagnosed with locally advanced or metastatic:<ul><li>Colon cancer</li><li>Lung cancer</li><li>Prostate cancer</li><li>Melanoma</li><li>Gastroesophageal cancer</li><li>Acute Myeloid luekemia</li><li>Multiple Myeloma</li></ul></li><li>Are being treated at a hospital that is taking part inthe Biobank</li><li>Are receiving standard treatment (not experimentaltreatment)</li><li>Are at least 13 years old</li></ul>"
+			},
+			"subtitle": "You may be eligible if you:",
+			"title": "Eligibility"
+		},
+		"1": {
+			"body": "The Cancer Moonshot<sup>SM</sup> Biobank is working with the NCI Community Oncology Research Program (NCORP), a national network that brings cancer clinical trials and care delivery studies to people in their own communities.",
+			"subtitle": "To participate in the Biobank, you must be in the care of a doctor at one of these hospitals.",
+			"title": "Participating hospitals"
+		},
+		"2": {
+			"body": {
+				"list": "<ul class='bulletList bulletList--spreadOut'><li><a href='https://www.joinallofus.org/en' rel='noopener noreferrer' target='_blank'>All of Us</a> &mdash; a large-scale project to gather data from one million or more people living in the United States to accelerate research and improve health</li><li><a href='https://www.cancer.gov/pediatric-adult-rare-tumor/' rel='noopener noreferrer' target='_blank'>My Pediatric and Adult Rare Tumor (MyPART)</a> &mdash; for people with certain rare tumors</li><li><a href='https://www.cancer.gov/rare-brain-spine-tumor/' rel='noopener noreferrer' target='_blank'>Comprehensive Oncology Network Evaluating Rare CNS Tumors (NCI-CONNECT)</a> &mdash; for people with rare brain and spine tumors</li><li><a href='https://www.cancer.gov/about-cancer/treatment/clinical-trials/search' rel='noopener noreferrer' target='_blank'>National Cancer Institute Clinical Trials</a> &mdash; search for NCI-sponsored clinical trials</li></ul>",
+				"text": "If you can't join the Cancer Moonshot Biobank, consider making a difference by participating in projects at NIH or NCI."
+			},
+			"title": "Not eligible? Join another study"
+		}
+	}
+}
