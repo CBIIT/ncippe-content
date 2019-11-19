@@ -1,0 +1,65 @@
+{
+	"hero": {
+		"subtitle": "Ayuda a cambiar el futuro del tratamiento del cáncer.",
+		"subtitle_mobile": "Ayuda a cambiar el futuro <br /> del tratamiento del cáncer.",
+		"title": "El Biobanco Moonshot<sup>SM</sup> del Cáncer"
+	},
+	"how_it_works": {
+		"cards": {
+			"0": {
+				"alt_text": "icono de paciente",
+				"body": "Las personas con cáncer donan muestras de sangre y tejidos durante su tratamiento, hasta por 5 años."
+			},
+			"1": {
+				"alt_text": "icono de tubos de ensayo múltiples",
+				"body": "El Biobanco recibe las muestras y las envía a los investigadores."
+			},
+			"2": {
+				"alt_text": "icono de bombilla",
+				"body": "Los investigadores desarrollan ideas para evaluar en muchas muestras diferentes y avanzar en su comprensión del cáncer."
+			},
+			"3": {
+				"alt_text": "icono de avance",
+				"body": "Los investigadores trabajan para encontrar descubrimientos que mejoren los tratamientos contra el cáncer y aumenten la supervivencia."
+			}
+		},
+		"title": "Cómo funciona"
+	},
+	"mission": {
+		"body": "El Biobanco Cancer Moonshot<sup>SM</sup> es un proyecto de 5 años para aprender más sobre el cáncer con la ayuda de los participantes que donan muestras mientras reciben tratamiento.",
+		"link": "Que esperar si participas",
+		"title": "Nuestra Misión"
+	},
+	"modal": {
+		"closed_account": {
+			"body": "Póngase en contacto con su coordinador de investigación clínica si tiene alguna pregunta.",
+			"title": "Tu cuenta está cerrada."
+		}
+	},
+	"pageRoute": "/",
+	"pageTitle": "Página de Inicio",
+	"participate": {
+		"body": "Al unirse al Biobanco, usted será parte del descubrimiento de nuevas terapias contra el cáncer, ayudando a pacientes en todas partes.",
+		"cards": {
+			"0": {
+				"alt_text": "médico revisando información con el paciente",
+				"body": "Los participantes reciben una prueba de biomarcadores, que puede ayudar a su médico a encontrar nuevos tratamientos o ensayos clínicos específicos para su cáncer individual. No hay cargo por la prueba.",
+				"link": "Aprenda sobre las pruebas de biomarcadores",
+				"title": "Las pruebas de biomarcadores le informan más sobre su cáncer."
+			},
+			"1": {
+				"alt_text": "Amigos y familia",
+				"body": "Los tratamientos contra el cáncer no funcionan de la misma manera para todos&mdash;las muestras de muchas comunidades diferentes ayudarán a los investigadores a comprender por qué esto es así y cómo mejorar la atención del cáncer.",
+				"link": "",
+				"title": "Diversas poblaciones son importantes para la investigación."
+			},
+			"2": {
+				"alt_text": "Tubos de ensayo",
+				"body": "Al recolectar muestras a lo largo del tiempo, los investigadores pueden observar cómo cambia el cáncer y cómo detener su crecimiento y propagación.",
+				"link": "Aprende sobre la investigación",
+				"title": "Juntos podemos avanzar en nuestra comprensión del cáncer."
+			}
+		},
+		"title": "¿Por qué debería participar?"
+	}
+}

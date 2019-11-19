@@ -1,0 +1,41 @@
+{
+	"intro_text": "",
+	"pageRoute": "",
+	"pageTitle": "",
+	"sections": {
+		"0": {
+			"alt_text": "",
+			"body": ""
+		},
+		"1": {
+			"body": "La prueba de biomarcadores implica tres pasos:",
+			"stepper": {
+				"0": {
+					"description": "El Biobank enviará la muestra donada de su sangre o tejido a un laboratorio.",
+					"label": "Compartir"
+				},
+				"1": {
+					"description": "El laboratorio analizará el tumor o la muestra de sangre para detectar ciertos cambios genéticos o biomarcadores. Estos biomarcadores pueden ayudar a sugerir las terapias específicas, inmunoterapias o ensayos clínicos que podrían ser adecuados para usted.",
+					"label": "Analizar"
+				},
+				"2": {
+					"description": "Su informe estará disponible para que lo descargue a través de su cuenta de Biobank. También se enviará a su médico para que puedan analizar los resultados juntos.",
+					"label": "Reporte"
+				}
+			},
+			"title": "¿Cómo se realiza el examen?"
+		},
+		"2": {
+			"title": "Reporte de muestra"
+		},
+		"3": {
+			"alt_text": "trabajando en la computadora portátil",
+			"links": {
+				"0": "Secuenciación de DNA tumoral",
+				"1": "Recursos para profesionales de la salud y educadores.",
+				"2": "Servicio de Información Sobre el Cáncer del NCI"
+			},
+			"title": "¿Dónde puedo aprender más?"
+		}
+	}
+}

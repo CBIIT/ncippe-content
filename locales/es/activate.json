@@ -1,0 +1,74 @@
+{
+	"alt_text": {
+		"0": "Madre e hijo mirando tablet PC"
+	},
+	"intro_text": "<p>Después de inscribirse en el Biobanco a través de su médico o coordinador de investigación, recibirá una invitación por correo electrónico para activar su cuenta. </p> <p> Su cuenta en línea del Biobanco le permitirá descargar informes de prueba de biomarcadores y formularios de consentimiento firmados. , gestione su participación en Biobank y escuche directamente de Biobank.</p>",
+	"pageRoute": "/participation/activate",
+	"pageTitle": "Activa tu cuenta",
+	"sections": {
+		"0": {
+			"links": {
+				"0": "Necesito crear una cuenta login.gov",
+				"1": "Ya tengo una cuenta login.gov"
+			},
+			"title": "Para mantener su información segura, el Biobank utiliza login.gov."
+		},
+		"1": {
+			"link": "Cree una cuenta login.gov",
+			"security_options": {
+				"0": {
+					"alt_text": "icono de tarjeta",
+					"description": "Reciba un código por mensaje de texto (SMS) o llamada telefónica.",
+					"label": "Teléfono"
+				},
+				"1": {
+					"alt_text": "icono de tarjeta",
+					"description": "Reciba un código seguro a través de una aplicación de autenticación (como Google Authenticator o Microsoft Authenticator).",
+					"label": "Aplicación de autenticación"
+				},
+				"2": {
+					"alt_text": "icono de tarjeta",
+					"description": "Conecte una llave USB para acceder a su cuenta.",
+					"label": "Clave de seguridad"
+				},
+				"3": {
+					"alt_text": "icono de tarjeta",
+					"description": "Le damos un conjunto de 10 códigos que puede usar cuando inicie sesión. Si selecciona esta opción, asegúrese de guardar sus códigos en un lugar seguro.",
+					"label": "Códigos de respaldo"
+				}
+			},
+			"stepper": {
+				"0": {
+					"description": "Esta debe ser la misma dirección de correo electrónico donde recibió la invitación al Biobanco.",
+					"label": "Ingrese y confirme su correo electrónico"
+				},
+				"1": {
+					"description": "Esta contraseña debe tener 12 caracteres y no debe ser una contraseña de uso común.",
+					"label": "Crea una contraseña segura"
+				},
+				"2": {
+					"description": "Cada método funciona de manera diferente. Escoge de:",
+					"label": "Seleccione un segundo método de seguridad."
+				},
+				"3": {
+					"description": "No usará esto para iniciar sesión cada vez, pero es importante configurarlo en caso de que pierda el acceso a su segundo método.",
+					"label": "Seleccione un método de respaldo para seguridad"
+				},
+				"4": {
+					"description": "La próxima vez que inicie sesión, ingresará su correo electrónico y contraseña y utilizará el segundo método que elija por seguridad.",
+					"label": "¡Se registrará en su portal de Biobank!"
+				}
+			},
+			"title": "Para crear su cuenta login.gov:"
+		},
+		"2": {
+			"alt_text": "logo de login.gov",
+			"links": {
+				"0": "centro de ayuda login.gov",
+				"1": "Póngase en contacto con el equipo login.gov",
+				"2": "Revise las instrucciones paso-a-paso con capturas de pantalla"
+			},
+			"title": "Más información sobre login.gov"
+		}
+	}
+}
