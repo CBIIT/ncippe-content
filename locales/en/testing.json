@@ -1,0 +1,41 @@
+{
+	"intro_text": "<p>Your cancer is unique to you.</p><p>After you donate blood and tissue samples to the Biobank, we will run a biomarker test on your samples. Your doctor may be able to use the report to create a more personalized treatment plan for you.</p>",
+	"pageRoute": "/expect/testing",
+	"pageTitle": "Get your biomarker test",
+	"sections": {
+		"0": {
+			"alt_text": "doctor and microscope",
+			"body": "<h3>Biomarker testing</h3>A biomarker test looks specifically at the genetic errors and other changes in your cancer. It does not provide information about genes you were born with. This type of testing may also be called tumor profiling, genomic profiling, molecular testing, tumor DNA sequencing, or genomic cancer testing."
+		},
+		"1": {
+			"body": "The biomarker test involves three steps:",
+			"stepper": {
+				"0": {
+					"description": "The Biobank will send the donated sample of your blood or tissue to a lab.",
+					"label": "Share"
+				},
+				"1": {
+					"description": "The lab will analyze the tumor or blood sample for certain genetic changes, or biomarkers. These biomarkers can help suggest the targeted therapies, immunotherapies, or clinical trials that might be right for you.",
+					"label": "Analyze"
+				},
+				"2": {
+					"description": "Your report will be available for you to download through your Biobank account. It will also be sent to your doctor so you can discuss the results together.",
+					"label": "Report"
+				}
+			},
+			"title": "How is the test performed?"
+		},
+		"2": {
+			"title": "Sample reports"
+		},
+		"3": {
+			"alt_text": "working on laptop",
+			"links": {
+				"0": "Tumor DNA sequencing",
+				"1": "Resources for health care providers and educators",
+				"2": "NCI Cancer Information Service"
+			},
+			"title": "Where can I learn more?"
+		}
+	}
+}

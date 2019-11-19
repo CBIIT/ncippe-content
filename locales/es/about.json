@@ -1,0 +1,13 @@
+{
+	"landing_pageTitle": "Qué esperar si te unes al Biobanco",
+	"pageRoute": "/about",
+	"pageTitle": "Sobre el Biobanco",
+	"sections": {
+		"0": {
+			"alt_text": "manos tranquilizadoras",
+			"body": "<p>El Biobanco Moonshot de Cáncer es un esfuerzo sin precedentes para aprender cómo se comportan los cánceres con el tiempo. </p> <p> El Biobanco está pidiendo a las personas con ciertos tipos de cáncer que donen muestras de su sangre y tejido, durante todo el tratamiento, para hasta 5 años Esas muestras se almacenarán en un biobanco & mdash; una biblioteca segura de muestras e información médica. </p> <p> Los investigadores podrán acceder a muestras donadas e información compartida para estudiar cómo el cáncer responde al tratamiento y por qué algunos se vuelven resistentes al tratamiento. . </p> <p> El Biobanco forma parte del <a href = 'https: //www.cancer.gov/research/key-initiatives/moonshot-cancer-initiative' rel = 'noopener noreferrer' target = '_blank'> Cancer Moonshot </a>, una iniciativa para acelerar la investigación del cáncer. Está dirigido por la <a href='https://biospecimens.cancer.gov/default.asp' rel='noopener noreferrer' target='_blank'> Biorepository and Biospecimen Research Branch </a> en la <a href = 'https: //www.cancer.gov/' rel = 'noopener noreferrer' target = '_ blank'> Instituto Nacional del Cáncer </a>, parte del <a href = 'https: //www.nih.gov / 'rel =' noopener noreferrer 'target =' _ blank '> Institutos Nacionales de Salud (NIH) </a>. </p>",
+			"subtitle": "El Biobanco comienza contigo.",
+			"title": "¿Qué es el Biobanco Cancer Moonshot<sup>SM</sup>?"
+		}
+	}
+}

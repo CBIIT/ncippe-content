@@ -1,0 +1,74 @@
+{
+	"alt_text": {
+		"0": "Mother and son looking at tablet computer"
+	},
+	"intro_text": "<p>After you enroll in the Biobank through your doctor or research coordinator, you’ll receive an email invitation to activate your account.</p><p>Your online Biobank account will let you download biomarker test reports and signed consent forms, manage your Biobank participation, and hear directly from the Biobank.</p>",
+	"pageRoute": "/participation/activate",
+	"pageTitle": "Activate your account",
+	"sections": {
+		"0": {
+			"links": {
+				"0": "I need to create a login.gov account",
+				"1": "I already have a login.gov account"
+			},
+			"title": "To keep your information secure, the Biobank uses login.gov."
+		},
+		"1": {
+			"link": "Create a login.gov account",
+			"security_options": {
+				"0": {
+					"alt_text": "card icon",
+					"description": "Receive a code via text message (SMS) or phone call.",
+					"label": "Phone"
+				},
+				"1": {
+					"alt_text": "card icon",
+					"description": "Receive a secure code through an authentication application (such as Google Authenticator or Microsoft Authenticator).",
+					"label": "Authentication application"
+				},
+				"2": {
+					"alt_text": "card icon",
+					"description": "Plug in a USB key to access your account.",
+					"label": "Security key"
+				},
+				"3": {
+					"alt_text": "card icon",
+					"description": "We give you a set of 10 codes that you can use when you sign in. If you select this option, make sure to keep your codes in a safe place.",
+					"label": "Backup codes"
+				}
+			},
+			"stepper": {
+				"0": {
+					"description": "This must be the same email address where you received the invitation to the Biobank.",
+					"label": "Enter and confirm your email"
+				},
+				"1": {
+					"description": "This password must be 12 characters long and not be a commonly used password.",
+					"label": "Create a strong password"
+				},
+				"2": {
+					"description": "Each method works differently. Choose from:",
+					"label": "Select a second method for security"
+				},
+				"3": {
+					"description": "You won’t use this to sign in each time, but it is important to set up in case you lose access to your second method.",
+					"label": "Select a backup method for security"
+				},
+				"4": {
+					"description": "The next time you sign in, you will enter your email and password and use the second method you chose for security.",
+					"label": "You will be signed into your Biobank portal!"
+				}
+			},
+			"title": "To create your login.gov account:"
+		},
+		"2": {
+			"alt_text": "login.gov logo",
+			"links": {
+				"0": "login.gov help center",
+				"1": "Contact the login.gov team",
+				"2": "Review step-by-step instructions with screen shots"
+			},
+			"title": "More information about login.gov"
+		}
+	}
+}

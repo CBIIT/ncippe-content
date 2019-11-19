@@ -1,0 +1,27 @@
+{
+	"introText": "El Biobanco Cancer Moonshot <sup> SM </sup> comenzará recolectando muestras de pacientes con tipos específicos de cáncer, que están siendo tratados en los hospitales participantes. Se pueden agregar otros tipos de cáncer y más hospitales en las fases futuras del programa Biobank.",
+	"pageRoute": "/about/eligibility",
+	"pageTitle": "Elegibilidad y ubicaciones",
+	"sections": {
+		"0": {
+			"alt_text": "manos tranquilizadoras",
+			"body": {
+				"list": "<ul class='bulletList bulletList--spreadOut'><li>Han sido diagnosticados con metastásico o avanzado localmente:<ul><li>Cáncer de colon</li><li>Cáncer de pulmón</li><li>Cáncer de próstata</li><li>Melanoma</li><li>Cáncer gastroesofágico</li><li>Luekemia mieloide aguda</li><li>Mieloma múltiple</li></ul></li><li>Están recibiendo tratamiento en un hospital que participa en el Biobanco</li><li>Están recibiendo tratamiento estándar (no tratamiento experimental)</li><li>Tienen al menos 13 años de edad</li></ul>"
+			},
+			"subtitle": "Puede ser elegible si usted:",
+			"title": "Elegibilidad"
+		},
+		"1": {
+			"body": "El Biobanco Cancer Moonshot <sup> SM </sup> está trabajando con el NCI Community Oncology Research Program (NCORP), una red nacional que ofrece ensayos clínicos sobre el cáncer y estudios de atención a las personas en sus propias comunidades.",
+			"subtitle": "Para participar en el Biobanco, debe estar al cuidado de un médico en uno de estos hospitales.",
+			"title": "Hospitales participantes"
+		},
+		"2": {
+			"body": {
+				"list": "<ul class = 'bulletList bulletList--spreadOut'><li><a href='https://www.joinallofus.org/en' rel='noopener noreferrer' target='_blank'>Todos nosotros</a> &mdash; un proyecto a gran escala para recopilar datos de un millón o más de personas que viven en los Estados Unidos para acelerar la investigación y mejorar la salud</li><li><a href='https://www.cancer.gov/pediatric-adult-rare-tumor/' rel='noopener noreferrer' target='_blank'>Mi tumor raro pediátrico y adulto (MyPART)</a> &mdash; para personas con ciertos tumores raros</li><li><a href='https://www.cancer.gov/rare-brain-spine-tumor/' rel='noopener noreferrer' target='_blank'>Completo Red de oncología que evalúa tumores raros del SNC (NCI-CONNECT)</a> &mdash; para personas con tumores raros de cerebro y columna vertebral</li><li><a href='https://www.cancer.gov/about-cancer/treatment/clinical-trials/search' rel='noopener noreferrer' target ='_blank'> Ensayos clínicos del Instituto Nacional del Cáncer</a> &mdash; buscar ensayos clínicos patrocinados por el NCI</li></ul>",
+				"text": "Si no puede unirse al Biobanco de Cancer Moonshot, considere hacer una diferencia participando en proyectos en NIH o NCI."
+			},
+			"title": "¿No elegible? Únete a otro estudio"
+		}
+	}
+}

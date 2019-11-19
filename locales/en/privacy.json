@@ -1,0 +1,32 @@
+{
+	"cards": {
+		"0": {
+			"description": "Researchers will not know your name, phone number, or where you live.",
+			"title": "We will never give researchers your name."
+		},
+		"1": {
+			"description": "Only trained staff will see your medical information and know who you are.",
+			"title": "Access to your personal information will be protected."
+		},
+		"2": {
+			"description": "We won't tell anyone, including your health insurance company or your employer, that you're a participant in the Biobank.",
+			"title": "We keep your participation private."
+		},
+		"3": {
+			"description": "We test our systems to protect you from data breaches and other security threats.",
+			"title": "We test our data systems to keep them secure."
+		},
+		"4": {
+			"description": "They must agree to ethical and secure practices before they can use your samples and medical information.",
+			"title": "Researchers must apply to use your samples and medical information."
+		},
+		"5": {
+			"description": "<a href='https://www.cancer.gov/resources-for/researchers/certificates-confidentiality' rel='noopener noreferrer' target='_blank'>Certificate of Confidentiality</a> <br/> <a href='https://www.hhs.gov/hipaa/for-professionals/privacy/index.html' rel='noopener noreferrer' target='_blank'>HIPPA Privacy Rule</a>",
+			"title": "There are laws to protect your privacy and prevent discrimination."
+		}
+	},
+	"disclaimer": "Once your information is shared with the Biobank, it may no longer be protected by patient privacy rules (like HIPAA). However, it will still be protected by other privacy rules and agreements. These include the rules and agreements that researchers must follow to access the Biobank scientific database.",
+	"pageRoute": "/participation/privacy",
+	"pageTitle": "Protecting your privacy",
+	"subtitle": "Your privacy is important to us."
+}

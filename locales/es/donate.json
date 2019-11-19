@@ -1,0 +1,10 @@
+{
+	"alt_text": {
+		"0": "doctor y paciente",
+		"1": "tubos de ensayo"
+	},
+	"body": "<h3> Muestras de sangre </h3> El personal del hospital extraerá unos tubos de sangre adicionales para el Biobanco durante su atención de rutina. <h3> Muestras de tejido </h3> Su médico recolectará muestras adicionales para el Biobanco durante una biopsia de rutina cuando sea posible. También es posible que su médico programe una biopsia solo para obtener tejido para el Biobanco. <h3> Información médica </h3> <p> Recopilaremos información de su registro médico, como su diagnóstico y tratamientos anteriores. Su información permanecerá segura. Obtenga más información sobre <a data-route href='/participation/privacy'> privacidad y el Biobanco </a>. </p> <p> Muchos factores pueden influir en si alguien contrae cáncer y cómo responde al tratamiento. Los investigadores utilizarán su información médica junto con sus muestras para realizar investigaciones que puedan ayudarlos a comprender mejor cómo tratar el cáncer. </p>",
+	"intro_text": "Después de que usted y su médico discutan sobre el Biobanco y decidan que les gustaría participar, se les dará un formulario de consentimiento para revisar y firmar. La participación en el Biobanco es voluntaria y la decisión de no participar no afectará su atención. También puede abandonar el programa en cualquier momento.",
+	"pageRoute": "/expect/donate",
+	"pageTitle": "Done muestras"
+}
