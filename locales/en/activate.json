@@ -1,7 +1,38 @@
 {
 	"alt_text": {
-		"0": "Mother and son looking at tablet computer"
+		"0": "Father and daughter looking at tablet computer"
 	},
+	"faqs": {
+		"0": {
+			"answer": "You must use the same email you provided when you signed up for the Biobank. This is the same email where you received an email notice to activate your account. Please contact your research coordinator if you have further questions.",
+			"question": "What email should I use to create my login.gov account?"
+		},
+		"1": {
+			"answer": "You may have created a login.gov account to access USAJobs or another government service. In that case, you don’t need to create another account. Just make sure that that the email you used to sign up for the Biobank is associated with your login.gov account, or add it before signing into the Biobank.",
+			"question": "What if I already have a login.gov account?"
+		},
+		"2": {
+			"answer": "<p>Yes, you can change your email after you finish setting up an account using the email you were invited with.</p><p>To change your email address, sign in to your login.gov account at <a href='https://secure.login.gov'>https://secure.login.gov</a>. From here you can manage your account, including adding a new email and deleting unwanted ones. Once you change your email in login.gov, we will use that email to send you Biobank notifications and news.</p>",
+			"question": "Can I change the email I use with my online Biobank account?"
+		},
+		"3": {
+			"answer": "If you close your login.gov account, your online Biobank account will automatically close. Closing your online Biobank account won’t end your participation in the Biobank.",
+			"question": "What happens if I close my login.gov account?"
+		},
+		"4": {
+			"answer": "No. If you prefer not to access your online Biobank account, you can always get copies of your biomarker test results and signed consent forms from your research coordinator or your provider.",
+			"question": "Do I need an online Biobank account to participate in the Biobank?"
+		},
+		"5": {
+			"answer": "<p>For adults, at this time only program participants can manage their own Biobank accounts.</p><p>If you’re under 18, your parent or legal guardian can create an online account to manage your participation in the Biobank. Once you turn 18, the account will be transferred to you.</p>",
+			"question": "Can someone manage my online Biobank account for me?"
+		},
+		"6": {
+			"answer": "Login.gov adds a layer of security to your online Biobank account by requiring multi-factor authentication and strong passwords to access your account. For more information, read the <a href='https://www.login.gov/policy/' rel='noopener noreferrer' target='_blank'>login.gov security and privacy policy</a>.",
+			"question": "How does login.gov keep my information safe?"
+		}
+	},
+	"faqs_title": "Frequently asked Questions about your online Biobank account",
 	"intro_text": "<p>After you enroll in the Biobank through your doctor or research coordinator, you’ll receive an email invitation to activate your account.</p><p>Your online Biobank account will let you download biomarker test reports and signed consent forms, manage your Biobank participation, and hear directly from the Biobank.</p>",
 	"pageRoute": "/participation/activate",
 	"pageTitle": "Activate your account",
