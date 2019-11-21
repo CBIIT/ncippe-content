@@ -1,11 +1,38 @@
 {
-	"intro_text": "",
-	"pageRoute": "",
-	"pageTitle": "",
+	"faqs": {
+		"0": {
+			"answer": "Un biomarcador es una molécula biológica que se encuentra en la sangre, los tejidos u otros fluidos corporales. Se puede usar para indicar una enfermedad o como una forma de ver si el cuerpo está respondiendo al tratamiento.",
+			"question": "¿Qué es exactamente un biomarcador?"
+		},
+		"1": {
+			"answer": "Una prueba de biomarcadores solo analiza los genes en su cáncer. Es diferente de las pruebas genéticas, como las pruebas de ascendencia disponibles comercialmente o las pruebas de riesgo de cáncer que analizan los genes que heredó de sus padres.",
+			"question": "¿Una prueba de biomarcador es lo mismo que una prueba genética?"
+		},
+		"2": {
+			"answer": "<p>Usted, su médico y el coordinador de investigación obtendrán su informe de biomarcadores.</p><p>Una versión de su informe de biomarcadores sin ninguna información personal también se incluirá en el Biobanco para que los investigadores aprobados puedan ver los resultados.</p><p>El Biobank no compartirá los resultados de su prueba de biomarcadores con sus compañías de seguros o su empleador. <a href='/participation/privacy' data-route> Obtenga más información sobre cómo protegemos su privacidad.</a></p>",
+			"question": "¿Quién puede ver los resultados de mi prueba de biomarcadores?"
+		},
+		"3": {
+			"answer": "No, la prueba de biomarcadores no tiene ningún costo.",
+			"question": "¿Tendré que pagar para obtener el examen?"
+		},
+		"4": {
+			"answer": "<p>Si tiene un cáncer en un tejido sólido, entonces el Laboratorio de Caracterización Molecular (MoCha) del Frederick National Laboratory for Cancer Research realizará la prueba de biomarcadores en su muestra de tejido.</p><p>Si tiene un cáncer de sangre y luego Foundation Medicine, Inc. (FMI) realizará la prueba de biomarcadores en su muestra de sangre.</p>",
+			"question": "¿Quién hará la prueba de biomarcadores?"
+		},
+		"5": {
+			"answer": "Los resultados de su prueba de biomarcadores pueden ayudar a su médico a encontrar tratamientos más individualizados para su atención, como una terapia dirigida que funcione para su tipo de cáncer. Los resultados también pueden incluir información que muestre que usted podría calificar para otro estudio de investigación o un ensayo clínico. Es posible que la prueba de biomarcadores no cambie su plan de tratamiento si demuestra que su tratamiento actual es el mejor para usted.",
+			"question": "¿Pueden los resultados de mi prueba de biomarcadores cambiar mi plan de tratamiento?"
+		}
+	},
+	"faqs_title": "Preguntas frecuentes sobre pruebas de biomarcadores",
+	"intro_text": "<p>Su cáncer es exclusivo para usted.</p><p>Después de donar muestras de sangre y tejidos al Biobanco, realizaremos una prueba de biomarcadores en sus muestras. Es posible que su médico pueda usar el informe para crear un plan de tratamiento más personalizado para usted.</p>",
+	"pageRoute": "/expect/testing",
+	"pageTitle": "Obtenga su prueba de biomarcadores",
 	"sections": {
 		"0": {
-			"alt_text": "",
-			"body": ""
+			"alt_text": "doctor y microscopio",
+			"body": "<h3>Prueba de biomarcadores</h3>Una prueba de biomarcadores analiza específicamente los errores genéticos y otros cambios en su cáncer. No proporciona información sobre los genes con los que nació. Este tipo de prueba también puede denominarse perfil tumoral, perfil genómico, prueba molecular, secuenciación de ADN tumoral o prueba de cáncer genómico."
 		},
 		"1": {
 			"body": "La prueba de biomarcadores implica tres pasos:",
@@ -26,6 +53,18 @@
 			"title": "¿Cómo se realiza el examen?"
 		},
 		"2": {
+			"samples": {
+				"0": {
+					"alt_text": "Muestra de página de informe de prueba de tumor sólido",
+					"link": "Ver informe de muestra completo",
+					"title": "Informes de prueba de tumor sólido"
+				},
+				"1": {
+					"alt_text": "Muestra de página de informe de prueba de cáncer de sangre",
+					"link": "Ver informe de muestra completo",
+					"title": "Informes de prueba de cáncer de sangre"
+				}
+			},
 			"title": "Reporte de muestra"
 		},
 		"3": {
