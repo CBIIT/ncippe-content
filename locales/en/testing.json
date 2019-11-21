@@ -1,4 +1,31 @@
 {
+	"faqs": {
+		"0": {
+			"answer": "A biomarker is a biological molecule found in blood, tissue, or other bodily fluids. It can be used to indicate a disease, or as a way to see if the body is responding to treatment.",
+			"question": "What is a biomarker, exactly?"
+		},
+		"1": {
+			"answer": "A biomarker test only analyzes the genes in your cancer. It’s different from genetic testing like commercially available ancestry tests or cancer risk testing which look at the genes you inherited from your parents.",
+			"question": "Is a biomarker test the same as a genetic test?"
+		},
+		"2": {
+			"answer": "<p>You, your doctor, and the research coordinator will get your biomarker report.</p><p>A version of your biomarker report without any personal information will also be included in the Biobank so approved researchers can see the results.</p><p>The Biobank won’t share your biomarker test results with your insurance companies or your employer. <a href='/participation/privacy' data-route>Learn more about how we protect your privacy.</a></p>",
+			"question": "Who can see the results of my biomarker test?"
+		},
+		"3": {
+			"answer": "No, there’s no cost to you for the biomarker test.",
+			"question": "Will I have to pay to get the test?"
+		},
+		"4": {
+			"answer": "<p>If you have a cancer in a solid tissue, then the Molecular Characterization Laboratory (MoCha) at the Frederick National Laboratory for Cancer Research will do the biomarker test on your tissue sample.</p><p>If you have a blood cancer then Foundation Medicine, Inc. (FMI) will do the biomarker test on your blood sample.</p>",
+			"question": "Who will do the biomarker test?"
+		},
+		"5": {
+			"answer": "The results of your biomarker test may help your doctor find more individualized treatments for your care, such as a targeted therapy that will work for your kind of cancer. The results may also include information that shows you might qualify for another research study or a clinical trial. It’s possible that the biomarker test won’t change your treatment plan at all if it shows that your current treatment is the best one for you.",
+			"question": "Can results of my biomarker test change my treatment plan?"
+		}
+	},
+	"faqs_title": "Frequently asked Questions about biomarker tests",
 	"intro_text": "<p>Your cancer is unique to you.</p><p>After you donate blood and tissue samples to the Biobank, we will run a biomarker test on your samples. Your doctor may be able to use the report to create a more personalized treatment plan for you.</p>",
 	"pageRoute": "/expect/testing",
 	"pageTitle": "Get your biomarker test",
@@ -26,6 +53,18 @@
 			"title": "How is the test performed?"
 		},
 		"2": {
+			"samples": {
+				"0": {
+					"alt_text": "Solid tumor test report page sample",
+					"link": "View full sample report",
+					"title": "Solid tumor test reports"
+				},
+				"1": {
+					"alt_text": "Blood cancer test report page sample",
+					"link": "View full sample report",
+					"title": "Blood cancer test reports"
+				}
+			},
 			"title": "Sample reports"
 		},
 		"3": {

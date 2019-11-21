@@ -4,6 +4,7 @@
 	},
 	"buttons": {
 		"close": "Cerrar",
+		"collapse": "Desplegar todo",
 		"search": "Buscar",
 		"sign_in": "Registrarse",
 		"sign_out": "Desconectar"
