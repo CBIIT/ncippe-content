@@ -3,7 +3,7 @@
 		"0": "doctor and patient",
 		"1": "test tubes"
 	},
-	"body": "<h3>Blood samples</h3>The hospital staff will draw a few extra tubes of blood for the Biobank during your routine care.<h3>Tissue samples</h3>Your doctor will collect extra samples for the Biobank during a routine biopsy whenever possible. It's also possible your doctor may schedule a biopsy just to get tissue for the Biobank.<h3>Medical information</h3><p>We’ll collect information from your medical record, such as your diagnosis and past treatments. Your information will remain secure. Learn more about <a data-route href='/participation/privacy'>privacy and the Biobank</a>.</p><p>Many factors can influence whether someone gets cancer and how they respond to treatment. Researchers will use your medical information along with your samples to do research that can help them better understand how to treat cancer.</p>",
+	"body": "<h3>Blood samples</h3>The hospital staff will draw a few extra tubes of blood for the Biobank during your routine care.<h3>Tissue samples</h3>Your doctor will collect extra samples for the Biobank during a routine biopsy whenever possible. It's also possible your doctor may schedule a biopsy just to get tissue for the Biobank.<h3>Medical information</h3><p>We’ll collect information from your medical record, such as your diagnosis and past treatments. Your information will remain secure. <a data-route href='/participation/privacy'>Learn more about privacy and the Biobank</a>.</p><p>Many things can influence whether someone gets cancer and how they respond to treatment. Researchers will use your medical information along with your samples to do research that can help them better understand how to treat cancer.</p>",
 	"faqs": {
 		"0": {
 			"answer": "We won't share your name or any other information that identifies you with researchers. Only the Biobank program staff at your hospital will contact you directly if there are questions about your participation.",
@@ -15,7 +15,7 @@
 		}
 	},
 	"faqs_title": "Frequently asked Questions about sample donation",
-	"intro_text": "After you and your doctor discuss the Biobank and you decide you'd like to take part, you’ll be given a consent form to review and sign. Participation in the Biobank is voluntary and deciding not to participate won’t affect your care. You can also leave the program at any time.",
+	"intro_text": "During the course of your treatment, you’ll donate samples of blood and tissue. Those samples will be securely stored in the Biobank until they’re shared with researchers.",
 	"pageRoute": "/expect/donate",
 	"pageTitle": "Donate samples"
 }
