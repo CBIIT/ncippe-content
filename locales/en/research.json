@@ -1,11 +1,11 @@
 {
 	"pageRoute": "/about/research",
-	"pageTitle": "Biobanking drives research",
+	"pageTitle": "Biobanks are important for research",
 	"sections": {
 		"0": {
 			"alt_text": "researchers share results",
 			"body": "<p>The main causes of death from cancer are when the disease spreads or becomes resistant to treatment. To understand why these happen, researchers need to look at cancer tissue donated by patients over the course of their treatment.</p><p>These kinds of samples have been hard to get&mdash;but the Cancer Moonshot<sup>SM</sup>  Biobank wants to change that. By donating your samples to the Biobank over the course of your care, for up to 5 years, researchers can study how cancers change over time, and how to fight later-stage cancers.</p>",
-			"title": "It's important to understand how cancer changes over time."
+			"title": "We need to understand how cancer changes over time."
 		},
 		"1": {
 			"alt_text": "researchers at microscope",

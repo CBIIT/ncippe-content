@@ -17,7 +17,7 @@
 			"question": "Will I have to pay to get the test?"
 		},
 		"4": {
-			"answer": "<p>If you have a cancer in a solid tissue, then the Molecular Characterization Laboratory (MoCha) at the Frederick National Laboratory for Cancer Research will do the biomarker test on your tissue sample.</p><p>If you have a blood cancer then Foundation Medicine, Inc. (FMI) will do the biomarker test on your blood sample.</p>",
+			"answer": "<p>If you have a cancer in a solid tissue, then the Molecular Characterization Laboratory (MoCha) at the <a href='https://frederick.cancer.gov/' rel='noopener noreferrer' target='_blank'>Frederick National Laboratory for Cancer Research</a> will do the biomarker test on your tissue sample.</p><p>If you have a blood cancer then <a href='https://www.foundationmedicine.com/' rel='noopener noreferrer' target='_blank'>Foundation Medicine, Inc. (FMI)</a> will do the biomarker test on your blood sample.</p>",
 			"question": "Who will do the biomarker test?"
 		},
 		"5": {
@@ -26,19 +26,19 @@
 		}
 	},
 	"faqs_title": "Frequently asked Questions about biomarker tests",
-	"intro_text": "<p>Your cancer is unique to you.</p><p>After you donate blood and tissue samples to the Biobank, we will run a biomarker test on your samples. Your doctor may be able to use the report to create a more personalized treatment plan for you.</p>",
+	"intro_text": "<p>Your cancer is unique to you.</p><p>After you donate blood and tissue samples to the Biobank, we'll run a biomarker test on your samples. Your doctor may be able to use the report to create a more personalized treatment plan for you.</p>",
 	"pageRoute": "/expect/testing",
 	"pageTitle": "Get your biomarker test",
 	"sections": {
 		"0": {
 			"alt_text": "doctor and microscope",
-			"body": "<h3>Biomarker testing</h3>A biomarker test looks specifically at the genetic errors and other changes in your cancer. It does not provide information about genes you were born with. This type of testing may also be called tumor profiling, genomic profiling, molecular testing, tumor DNA sequencing, or genomic cancer testing."
+			"body": "<h3>Biomarker testing</h3><p>A biomarker test looks specifically at the genetic errors and other changes in your cancer. It does not provide information about genes you were born with.</p><p>Biomarker testing may also be called tumor profiling, genomic profiling, molecular testing, tumor DNA sequencing, or genomic cancer testing.</p>"
 		},
 		"1": {
 			"body": "The biomarker test involves three steps:",
 			"stepper": {
 				"0": {
-					"description": "The Biobank will send the donated sample of your blood or tissue to a lab.",
+					"description": "The Biobank will send your donated sample of your blood or tissue sample to a lab.",
 					"label": "Share"
 				},
 				"1": {
@@ -46,7 +46,7 @@
 					"label": "Analyze"
 				},
 				"2": {
-					"description": "Your report will be available for you to download through your Biobank account. It will also be sent to your doctor so you can discuss the results together.",
+					"description": "Your report will be available for you to download through your online Biobank account. It will also be sent to your doctor so you can discuss the results together.",
 					"label": "Report"
 				}
 			},
