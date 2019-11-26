@@ -4,7 +4,8 @@
 	},
 	"buttons": {
 		"close": "Close",
-		"collapse": "Collapse all",
+    "collapse": "Collapse all",
+    "expand": "Expand all",
 		"search": "Search",
 		"sign_in": "Sign In",
 		"sign_out": "Sign Out"

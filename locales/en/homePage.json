@@ -39,7 +39,7 @@
 	"pageRoute": "/",
 	"pageTitle": "Home Page",
 	"participate": {
-		"body": "By joining the Biobank, you will be a part of the discovery of new cancer therapies, helping patients everywhere.",
+		"body": "By joining the Biobank, you can be a part of the discovery of new cancer therapies, helping patients everywhere.",
 		"cards": {
 			"0": {
 				"alt_text": "doctor reviewing information with patient",
@@ -49,9 +49,9 @@
 			},
 			"1": {
 				"alt_text": "friends and family",
-				"body": "Cancer treatments don't work the same way for everyone&mdash;samples from many different communities will help researchers understand why this is and how to improve cancer care.",
+				"body": "Cancer treatments don't work the same way for everyone&mdash;samples from many different communities will help us understand why this is and how to improve cancer care.",
 				"link": "",
-				"title": "Diverse populations are important for research."
+				"title": "Diverse participation improves cancer care."
 			},
 			"2": {
 				"alt_text": "test tubes",

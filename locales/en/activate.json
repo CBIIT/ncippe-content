@@ -33,9 +33,9 @@
 		}
 	},
 	"faqs_title": "Frequently asked Questions about your online Biobank account",
-	"intro_text": "<p>After you enroll in the Biobank through your doctor or research coordinator, you’ll receive an email invitation to activate your account.</p><p>Your online Biobank account will let you download biomarker test reports and signed consent forms, manage your Biobank participation, and hear directly from the Biobank.</p>",
+	"intro_text": "<p>After you enroll in the Biobank through your doctor or research coordinator, you’ll receive an email invitation to activate your online Biobank account.</p><p>Your account will let you download biomarker test reports and signed consent forms, manage your Biobank participation, and hear directly from the Biobank.</p>",
 	"pageRoute": "/participation/activate",
-	"pageTitle": "Activate your account",
+	"pageTitle": "Activate your online Biobank account",
 	"sections": {
 		"0": {
 			"links": {
@@ -54,7 +54,7 @@
 				},
 				"1": {
 					"alt_text": "card icon",
-					"description": "Receive a secure code through an authentication application (such as Google Authenticator or Microsoft Authenticator).",
+					"description": "Receive a secure code through an authentication application (like Google Authenticator or Microsoft Authenticator).",
 					"label": "Authentication application"
 				},
 				"2": {
@@ -64,7 +64,7 @@
 				},
 				"3": {
 					"alt_text": "card icon",
-					"description": "We give you a set of 10 codes that you can use when you sign in. If you select this option, make sure to keep your codes in a safe place.",
+					"description": "Receive a set of 10 codes that you can use when you sign in. If you select this option, make sure to keep your codes in a safe place.",
 					"label": "Backup codes"
 				}
 			},
@@ -86,8 +86,8 @@
 					"label": "Select a backup method for security"
 				},
 				"4": {
-					"description": "The next time you sign in, you will enter your email and password and use the second method you chose for security.",
-					"label": "You will be signed into your Biobank portal!"
+					"description": "The next time you sign in, you'll enter your email and password and use the second method you chose for security.",
+					"label": "You'll be signed into your online Biobank account!"
 				}
 			},
 			"title": "To create your login.gov account:"
