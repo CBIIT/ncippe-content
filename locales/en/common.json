@@ -12,9 +12,9 @@
 	},
 	"footer": {
 		"links": {
-			"CIS": "Cancer Information Services",
+			"CIS": "Cancer Information Service",
 			"accessibility": "Accessibility",
-			"bio": "Biorepositories & Biospecimen Research Branch",
+			"bio": "Biorepositories and Biospecimen Research Branch",
 			"disclaimer": "Disclaimer Policy",
 			"email": "moonshotbiobank@nih.gov",
 			"foia": "FOIA",
@@ -22,7 +22,7 @@
 			"nci": "National Cancer Institute",
 			"nih": "National Institutes of Health",
 			"phone": "(202) 222 - 2222",
-			"policy_title": "Policy Information",
+			"policy_title": "Website Policies",
 			"privacy": "Privacy Policy",
 			"resources_title": "More Resources",
 			"usa": "USA.gov"
