@@ -1,4 +1,10 @@
 {
+  "metaData": {
+    "title": "About the Biobank | Cancer Moonshot Biobank",
+    "OG_title": "About the Biobank | Cancer Moonshot Biobank",
+    "description": "The Cancer Moonshot Biobank is an unprecedented effort to learn how cancers behave over time.",
+    "OG_description": "The Cancer Moonshot Biobank is an unprecedented effort to learn how cancers behave over time."
+  },
 	"landing_pageTitle": "What to expect if you join the Biobank",
 	"pageRoute": "/about",
 	"pageTitle": "About the Biobank",

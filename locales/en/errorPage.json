@@ -1,6 +1,11 @@
 {
-  "pageRoute": "/notfound",
-	"pageTitle": "Error 404",
-  "subtitle": "Page could not be found",
+  "metaData": {
+    "title": "Error Page | Cancer Moonshot Biobank",
+    "OG_title": "Error Page | Cancer Moonshot Biobank",
+    "description": "You have encountered a page error.",
+    "OG_description": "You have encountered a page error."
+  },
+  "pageRoute": "/errorPage",
+	"pageTitle": "Error",
   "buttonText": "Go to Homepage"
 }

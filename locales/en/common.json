@@ -1,4 +1,8 @@
 {
+  "metaData": {
+    "site_name": "Cancer Moonshot Biobank",
+    "twitter_image_alt": "Cancer Moonshot Biobank – Help change the future of cancer treatment"
+  },
 	"aria": {
 		"menu": "menu"
 	},
