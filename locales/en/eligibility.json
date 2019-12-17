@@ -1,4 +1,10 @@
 {
+  "metaData": {
+    "title": "Eligibility and locations | Cancer Moonshot Biobank",
+    "OG_title": "Eligibility and locations | Cancer Moonshot Biobank",
+    "description": "To start, the Cancer Moonshot Biobank is working with specific hospitals across the country to find participants with certain kinds of cancer.",
+    "OG_description": "To start, the Cancer Moonshot Biobank is working with specific hospitals across the country to find participants with certain kinds of cancer."
+  },
 	"introText": "The Cancer Moonshot<sup>SM</sup> Biobank will start out by collecting samples from patients with specific types of cancer, who are being treated at participating hospitals. Other cancer types and more hospitals may be added in future phases of the Biobank program.",
 	"pageRoute": "/about/eligibility",
 	"pageTitle": "Eligibility and locations",

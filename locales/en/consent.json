@@ -1,4 +1,10 @@
 {
+  "metaData": {
+    "title": "What to expect – giving consent | Cancer Moonshot Biobank",
+    "OG_title": "What to expect – giving consent | Cancer Moonshot Biobank",
+    "description": "After you and your doctor discuss the Biobank and you decide you'd like to join you’ll be given a consent form to review and sign.",
+    "OG_description": "After you and your doctor discuss the Biobank and you decide you'd like to join you’ll be given a consent form to review and sign."
+  },
 	"form_link_adult": "Adult consent form",
 	"form_link_minors": "Assent form for minors",
 	"form_link_parental": "Parental permission form",
