@@ -54,22 +54,22 @@
 			"link": "Create a login.gov account",
 			"security_options": {
 				"0": {
-					"alt_text": "card icon",
+					"alt_text": "cell phone icon",
 					"description": "Receive a code via text message (SMS) or phone call.",
 					"label": "Phone"
 				},
 				"1": {
-					"alt_text": "card icon",
+					"alt_text": "authentication application icon",
 					"description": "Receive a secure code through an authentication application (like Google Authenticator or Microsoft Authenticator).",
 					"label": "Authentication application"
 				},
 				"2": {
-					"alt_text": "card icon",
+					"alt_text": "USB security key icon",
 					"description": "Plug in a USB key to access your account.",
 					"label": "Security key"
 				},
 				"3": {
-					"alt_text": "card icon",
+					"alt_text": "laptop icon",
 					"description": "Receive a set of 10 codes that you can use when you sign in. If you select this option, make sure to keep your codes in a safe place.",
 					"label": "Backup codes"
 				}
