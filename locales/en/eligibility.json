@@ -10,7 +10,7 @@
 	"pageTitle": "Eligibility and locations",
 	"sections": {
 		"0": {
-			"alt_text": "reassuring hands",
+			"alt_text": "nurse reassuring elderly patient",
 			"body": {
 				"list": "<ul class='bulletList bulletList--spreadOut'><li>Have been diagnosed with locally advanced or metastatic:<ul><li>Colon cancer</li><li>Lung cancer</li><li>Prostate cancer</li><li>Melanoma</li><li>Gastroesophageal cancer</li><li>Acute myeloid luekemia</li><li>Multiple myeloma</li></ul></li><li>Are being treated at a hospital that is taking part in the Biobank</li><li>Are receiving standard treatment (not experimental treatment)</li><li>Are at least 13 years old</li></ul>"
 			},
@@ -23,6 +23,7 @@
 			"title": "Participating hospitals"
 		},
 		"2": {
+      "alt_text": "nurse reviewing tablet with woman",
 			"body": {
 				"list": "<ul class='bulletList bulletList--spreadOut'><li><a href='https://www.cancer.gov/about-cancer/treatment/clinical-trials/search' rel='noopener noreferrer' target='_blank'>National Cancer Institute Clinical Trials</a> &mdash; search for NCI-sponsored clinical trials</li><li><a href='https://www.cancer.gov/rare-brain-spine-tumor/' rel='noopener noreferrer' target='_blank'>Comprehensive Oncology Network Evaluating Rare CNS Tumors (NCI-CONNECT)</a> &mdash; for people with rare brain and spine tumors</li><li><a href='https://www.cancer.gov/pediatric-adult-rare-tumor/' rel='noopener noreferrer' target='_blank'>My Pediatric and Adult Rare Tumor (MyPART)</a> &mdash; for people with certain rare tumors</li><li><a href='https://www.joinallofus.org/en' rel='noopener noreferrer' target='_blank'>All of Us</a> &mdash; a large-scale project to gather data from one million or more people living in the United States to accelerate research and improve health</li></ul>",
 				"text": "If you can't join the Cancer Moonshot Biobank, consider making a difference by participating in projects at NIH or NCI."
