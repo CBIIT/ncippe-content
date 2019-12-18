@@ -37,7 +37,7 @@
 	"pageTitle": "Get your biomarker test",
 	"sections": {
 		"0": {
-			"alt_text": "doctor and microscope",
+			"alt_text": "doctor working with a microscope",
 			"body": "<h3>Biomarker testing</h3><p>A biomarker test looks specifically at the genetic errors and other changes in your cancer. It does not provide information about genes you were born with.</p><p>Biomarker testing may also be called tumor profiling, genomic profiling, molecular testing, tumor DNA sequencing, or genomic cancer testing.</p>"
 		},
 		"1": {
@@ -63,18 +63,20 @@
 				"0": {
 					"alt_text": "Solid tumor test report page sample",
 					"link": "View full sample report",
-					"title": "Solid tumor test reports"
+					"title": "Solid tumor test reports",
+					"title_aria": "View a solid tumor test report PDF sample file"
 				},
 				"1": {
 					"alt_text": "Blood cancer test report page sample",
 					"link": "View full sample report",
-					"title": "Blood cancer test reports"
+					"title": "Blood cancer test reports",
+					"title_aria": "View a blood cancer test report PDF sample file"
 				}
 			},
 			"title": "Sample reports"
 		},
 		"3": {
-			"alt_text": "working on laptop",
+			"alt_text": "man working on a laptop",
 			"links": {
 				"0": "Tumor DNA sequencing",
 				"1": "Resources for health care providers and educators",
