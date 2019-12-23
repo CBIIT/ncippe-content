@@ -55,11 +55,18 @@
 			"expect": "What to expect",
 			"participation": "Your participation"
 		}
-	},
+  },
+  "tabs": {
+    "expect": {
+      "consent": "Give your consent",
+      "donate": "Donate samples",
+      "testing": "Get a biomarker test"
+    }
+  },
 	"search": {
 		"input_placeholder": "Search",
 		"results_none": "Sorry, no results found.",
-		"results_title": "Results for:",
+		"results_title": "results for:",
 		"title": "Search results"
 	}
 }

@@ -38,7 +38,7 @@
 			"question": "How does login.gov keep my information safe?"
 		}
 	},
-	"faqs_title": "Frequently asked Questions about your online Biobank account",
+	"faqs_title": "Frequently asked questions about your online Biobank account",
 	"intro_text": "<p>After you enroll in the Biobank through your doctor or research coordinator, you’ll receive an email invitation to activate your online Biobank account.</p><p>Your account will let you download biomarker test reports and signed consent forms, manage your Biobank participation, and hear directly from the Biobank.</p>",
 	"pageRoute": "/participation/activate",
 	"pageTitle": "Activate your online Biobank account",
@@ -48,7 +48,7 @@
 				"0": "I need to create a login.gov account",
 				"1": "I already have a login.gov account"
 			},
-			"title": "To keep your information secure, the Biobank uses login.gov."
+			"title": "To keep your information secure, the Biobank uses login.gov"
 		},
 		"1": {
 			"link": "Create a login.gov account",

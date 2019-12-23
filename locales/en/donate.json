@@ -20,8 +20,8 @@
 			"question": "Will I be told anything about the research done on my samples?"
 		}
 	},
-	"faqs_title": "Frequently asked Questions about sample donation",
+	"faqs_title": "Frequently asked questions about sample donation",
 	"intro_text": "During the course of your treatment, you’ll donate samples of blood and tissue. Those samples will be securely stored in the Biobank until they’re shared with researchers.",
 	"pageRoute": "/expect/donate",
-	"pageTitle": "Donate samples"
+	"pageTitle": "What to expect if you join the Biobank"
 }
