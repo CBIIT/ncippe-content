@@ -1,12 +1,6 @@
 {
-  "metaData": {
-    "title": "Home Page | Cancer Moonshot Biobank",
-    "OG_title": "Home Page | Cancer Moonshot Biobank",
-    "description": "The Cancer Moonshot Biobank is a 5-year project to learn more about cancer with the help of participants who donate samples as they receive treatment.",
-    "OG_description": "The Cancer Moonshot Biobank is a 5-year project to learn more about cancer with the help of participants who donate samples as they receive treatment."
-  },
 	"hero": {
-		"subtitle": "Help change the future of cancer treatment.",
+		"subtitle": "Help change the future of cancer treatments.",
 		"subtitle_mobile": "Help change the future <br /> of cancer treatment.",
 		"title": "The Cancer Moonshot<sup>SM</sup> Biobank"
 	},
@@ -30,6 +24,12 @@
 			}
 		},
 		"title": "How it works"
+	},
+	"metaData": {
+		"OG_description": "The Cancer Moonshot Biobank is a 5-year project to learn more about cancer with the help of participants who donate samples as they receive treatment.",
+		"OG_title": "Home Page | Cancer Moonshot Biobank",
+		"description": "The Cancer Moonshot Biobank is a 5-year project to learn more about cancer with the help of participants who donate samples as they receive treatment.",
+		"title": "Home Page | Cancer Moonshot Biobank"
 	},
 	"mission": {
 		"body": "The Cancer Moonshot<sup>SM</sup> Biobank is a 5-year project to learn more about cancer with the help of participants who donate samples as they receive treatment.",
