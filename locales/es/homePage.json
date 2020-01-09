@@ -1,6 +1,6 @@
 {
 	"hero": {
-		"subtitle": "Ayuda a cambiar el futuro del tratamiento del cáncer.",
+		"subtitle": "Ayuda a cambiar el futuro del tratamientos del cáncer.",
 		"subtitle_mobile": "Ayuda a cambiar el futuro <br /> del tratamiento del cáncer.",
 		"title": "El Biobanco Moonshot<sup>SM</sup> del Cáncer"
 	},
@@ -24,6 +24,12 @@
 			}
 		},
 		"title": "Cómo funciona"
+	},
+	"metaData": {
+		"OG_description": "",
+		"OG_title": "",
+		"description": "",
+		"title": ""
 	},
 	"mission": {
 		"body": "El Biobanco Cancer Moonshot<sup>SM</sup> es un proyecto de 5 años para aprender más sobre el cáncer con la ayuda de los participantes que donan muestras mientras reciben tratamiento.",
