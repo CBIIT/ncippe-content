@@ -50,16 +50,28 @@
       "telephone": "(555) 555-5555"
     },
     "4": {
-      "gps_coordinates": "40.8800853,-73.8798439",
-      "title": "Monte Minority Underserved NCORP",
-      "pin_popup_text": "Monte Medical Center",
-      "address_1": "112 East 210th Street",
+      "gps_coordinates": "40.768375,-73.924843",
+      "title": "Minority Underserved NCORP",
+      "pin_popup_text": "Medical Center",
+      "address_1": "25-10 30th Ave",
       "address_2": "",
-      "city": "Bronx",
+      "city": "Long Island City",
       "state": "New York",
-      "zip": "10467",
+      "zip": "11102",
       "poc": "Heather Clark",
-      "telephone": "(555) 555-5000"
+      "telephone": "(555) 555-5555"
+    },
+    "5": {
+      "gps_coordinates": "40.76,-73.92",
+      "title": "Mount Sinai NCORP",
+      "pin_popup_text": "Mount Sinai Medical Center",
+      "address_1": "25-10 30th Ave",
+      "address_2": "",
+      "city": "Long Island City",
+      "state": "New York",
+      "zip": "11102",
+      "poc": "Heather Clark",
+      "telephone": "(555) 555-5555"
     }
   }
 }
