@@ -51,15 +51,15 @@
     },
     "4": {
       "gps_coordinates": "40.8800853,-73.8798439",
-      "title": "Montefiore Minority Underserved NCORP",
-      "pin_popup_text": "Montefiore Medical Center",
-      "address_1": "111 East 210th Street",
+      "title": "Monte Minority Underserved NCORP",
+      "pin_popup_text": "Monte Medical Center",
+      "address_1": "112 East 210th Street",
       "address_2": "",
       "city": "Bronx",
       "state": "New York",
       "zip": "10467",
       "poc": "Heather Clark",
-      "telephone": "(555) 555-5555"
+      "telephone": "(555) 555-5000"
     }
   }
 }
