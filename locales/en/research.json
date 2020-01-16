@@ -1,10 +1,10 @@
 {
-  "metaData": {
-    "title": "Biobanking is important to research | Cancer Moonshot Biobank",
-    "OG_title": "Biobanking is important to research | Cancer Moonshot Biobank",
-    "description": "Researchers need tissue donated by patients over the course of their treatment to learn how why some cancers become resistant to treatment.",
-    "OG_description": "Researchers need tissue donated by patients over the course of their treatment to learn how why some cancers become resistant to treatment."
-  },
+	"metaData": {
+		"OG_description": "Researchers need tissue donated by patients over the course of their treatment to learn how why some cancers become resistant to treatment.",
+		"OG_title": "Biobanking is important to research | Cancer Moonshot Biobank",
+		"description": "Researchers need tissue donated by patients over the course of their treatment to learn how why some cancers become resistant to treatment.",
+		"title": "Biobanking is important to research | Cancer Moonshot Biobank"
+	},
 	"pageRoute": "/about/research",
 	"pageTitle": "Biobanks are important for research",
 	"sections": {

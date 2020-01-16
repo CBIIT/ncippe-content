@@ -1,5 +1,11 @@
 {
 	"introText": "El Biobanco Cancer Moonshot <sup> SM </sup> comenzará recolectando muestras de pacientes con tipos específicos de cáncer, que están siendo tratados en los hospitales participantes. Se pueden agregar otros tipos de cáncer y más hospitales en las fases futuras del programa Biobank.",
+	"metaData": {
+		"OG_description": "Para comenzar, el Cancer Moonshot Biobank está trabajando con hospitales específicos en todo el país para encontrar participantes con ciertos tipos de cáncer.",
+		"OG_title": "Elegibilidad y ubicaciones | Biobanco Moonshot de cáncer",
+		"description": "Para comenzar, el Cancer Moonshot Biobank está trabajando con hospitales específicos en todo el país para encontrar participantes con ciertos tipos de cáncer.",
+		"title": "Elegibilidad y ubicaciones | Biobanco Moonshot de cáncer"
+	},
 	"pageRoute": "/about/eligibility",
 	"pageTitle": "Elegibilidad y ubicaciones",
 	"sections": {
@@ -17,6 +23,7 @@
 			"title": "Hospitales participantes"
 		},
 		"2": {
+			"alt_text": "enfermera revisando tableta con mujer",
 			"body": {
 				"list": "<ul class = 'bulletList bulletList--spreadOut'><li><a href='https://www.joinallofus.org/en' rel='noopener noreferrer' target='_blank'>Todos nosotros</a> &mdash; un proyecto a gran escala para recopilar datos de un millón o más de personas que viven en los Estados Unidos para acelerar la investigación y mejorar la salud</li><li><a href='https://www.cancer.gov/pediatric-adult-rare-tumor/' rel='noopener noreferrer' target='_blank'>Mi tumor raro pediátrico y adulto (MyPART)</a> &mdash; para personas con ciertos tumores raros</li><li><a href='https://www.cancer.gov/rare-brain-spine-tumor/' rel='noopener noreferrer' target='_blank'>Completo Red de oncología que evalúa tumores raros del SNC (NCI-CONNECT)</a> &mdash; para personas con tumores raros de cerebro y columna vertebral</li><li><a href='https://www.cancer.gov/about-cancer/treatment/clinical-trials/search' rel='noopener noreferrer' target ='_blank'> Ensayos clínicos del Instituto Nacional del Cáncer</a> &mdash; buscar ensayos clínicos patrocinados por el NCI</li></ul>",
 				"text": "Si no puede unirse al Biobanco de Cancer Moonshot, considere hacer una diferencia participando en proyectos en NIH o NCI."

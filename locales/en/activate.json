@@ -1,10 +1,4 @@
 {
-  "metaData": {
-    "title": "Activate your account | Cancer Moonshot Biobank",
-    "OG_title": "Activate your account | Cancer Moonshot Biobank",
-    "description": "After you enroll in the Biobank through your doctor or research coordinator, you’ll receive an email invitation to activate your online Biobank account.",
-    "OG_description": "After you enroll in the Biobank through your doctor or research coordinator, you’ll receive an email invitation to activate your online Biobank account."
-  },
 	"alt_text": {
 		"0": "Father and daughter looking at tablet computer"
 	},
@@ -40,6 +34,12 @@
 	},
 	"faqs_title": "Frequently asked questions about your online Biobank account",
 	"intro_text": "<p>After you enroll in the Biobank through your doctor or research coordinator, you’ll receive an email invitation to activate your online Biobank account.</p><p>Your account will let you download biomarker test reports and signed consent forms, manage your Biobank participation, and hear directly from the Biobank.</p>",
+	"metaData": {
+		"OG_description": "After you enroll in the Biobank through your doctor or research coordinator, you’ll receive an email invitation to activate your online Biobank account.",
+		"OG_title": "Activate your account | Cancer Moonshot Biobank",
+		"description": "After you enroll in the Biobank through your doctor or research coordinator, you’ll receive an email invitation to activate your online Biobank account.",
+		"title": "Activate your account | Cancer Moonshot Biobank"
+	},
 	"pageRoute": "/participation/activate",
 	"pageTitle": "Activate your online Biobank account",
 	"sections": {

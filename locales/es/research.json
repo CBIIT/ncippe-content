@@ -1,4 +1,10 @@
 {
+	"metaData": {
+		"OG_description": "Los investigadores necesitan tejidos donados por los pacientes en el transcurso de su tratamiento para saber cómo algunos cánceres se vuelven resistentes al tratamiento.",
+		"OG_title": "El biobanco es importante para la investigación | Biobanco Moonshot de cáncer",
+		"description": "Los investigadores necesitan tejidos donados por los pacientes en el transcurso de su tratamiento para saber cómo algunos cánceres se vuelven resistentes al tratamiento.",
+		"title": "El biobanco es importante para la investigación | Biobanco Moonshot de cáncer"
+	},
 	"pageRoute": "/about/research",
 	"pageTitle": "Biobanking impulsa la investigación",
 	"sections": {

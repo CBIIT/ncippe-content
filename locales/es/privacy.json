@@ -1,31 +1,43 @@
 {
 	"cards": {
 		"0": {
+			"alt_text": "icono de tarjeta de identificación personal",
 			"description": "Los investigadores no sabrán su nombre, número de teléfono o dónde vive.",
 			"title": "Nunca le daremos a los investigadores su nombre."
 		},
 		"1": {
+			"alt_text": "icono de carpeta bloqueada",
 			"description": "Solo el personal capacitado verá su información médica y sabrá quién es usted.",
 			"title": "El acceso a su información personal estará protegido."
 		},
 		"2": {
+			"alt_text": "icono de doctor",
 			"description": "No le diremos a nadie, incluida su compañía de seguros de salud o su empleador, que usted es un participante en el Biobanco.",
 			"title": "Mantenemos su participación privada."
 		},
 		"3": {
+			"alt_text": "lupa sobre icono de documento",
 			"description": "Probamos nuestros sistemas para protegerlo de violaciones de datos y otras amenazas de seguridad.",
 			"title": "Probamos nuestros sistemas de datos para mantenerlos seguros."
 		},
 		"4": {
+			"alt_text": "icono de escudo de prácticas seguras",
 			"description": "Deben aceptar prácticas éticas y seguras antes de que puedan usar sus muestras e información médica.",
 			"title": "Los investigadores deben solicitar el uso de sus muestras e información médica."
 		},
 		"5": {
+			"alt_text": "icono de martillo y martillo",
 			"description": "<a href='https://www.cancer.gov/resources-for/researchers/certificates-confidentiality' rel='noopener noreferrer' target='_blank'> Certificado de Confidencialidad</a><br/><a href='https://www.hhs.gov/hipaa/for-professionals/privacy/index.html' rel='noopener noreferrer' target='_ blank'> Regla de privacidad de HIPPA</a>",
 			"title": "Existen leyes para proteger su privacidad y evitar la discriminación."
 		}
 	},
 	"disclaimer": "Una vez que su información se comparte con el Biobanco, es posible que ya no esté protegida por las reglas de privacidad del paciente (como HIPAA). Sin embargo, aún estará protegido por otras reglas y acuerdos de privacidad. Estos incluyen las reglas y acuerdos que los investigadores deben seguir para acceder a la base de datos científica del Biobanco.",
+	"metaData": {
+		"OG_description": "Protegemos sus datos y su privacidad controlando quién puede acceder a su información identificable, no compartiendo su participación y probando nuestros sistemas regularmente.",
+		"OG_title": "Protegiendo tu privacidad | Biobanco Moonshot de cáncer",
+		"description": "Protegemos sus datos y su privacidad controlando quién puede acceder a su información identificable, no compartiendo su participación y probando nuestros sistemas regularmente.",
+		"title": "Protegiendo tu privacidad | Biobanco Moonshot de cáncer"
+	},
 	"pageRoute": "/participation/privacy",
 	"pageTitle": "Protegiendo tu privacidad",
 	"subtitle": "Su privacidad es importante para nosotros."

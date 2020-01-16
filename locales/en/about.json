@@ -1,10 +1,10 @@
 {
-  "metaData": {
-    "title": "About the Biobank | Cancer Moonshot Biobank",
-    "OG_title": "About the Biobank | Cancer Moonshot Biobank",
-    "description": "The Cancer Moonshot Biobank aims to accelerate research into why cancers become resistant to treatment. With your help we can improve future cancer therapies.",
-    "OG_description": "The Cancer Moonshot Biobank aims to accelerate research into why cancers become resistant to treatment. With your help we can improve future cancer therapies."
-  },
+	"metaData": {
+		"OG_description": "The Cancer Moonshot Biobank aims to accelerate research into why cancers become resistant to treatment. With your help we can improve future cancer therapies.",
+		"OG_title": "About the Biobank | Cancer Moonshot Biobank",
+		"description": "The Cancer Moonshot Biobank aims to accelerate research into why cancers become resistant to treatment. With your help we can improve future cancer therapies.",
+		"title": "About the Biobank | Cancer Moonshot Biobank"
+	},
 	"pageRoute": "/about",
 	"pageTitle": "About the Biobank",
 	"sections": {

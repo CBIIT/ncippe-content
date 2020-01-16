@@ -5,6 +5,7 @@
 	"buttons": {
 		"close": "Cerrar",
 		"collapse": "Desplegar todo",
+		"expand": "",
 		"search": "Buscar",
 		"sign_in": "Registrarse",
 		"sign_out": "Desconectar"
@@ -36,6 +37,10 @@
 		"alt_text": "Logotipo del NCI Cáncer Moonshot Biobanco",
 		"title": "NCI Cáncer Moonshot Biobanco"
 	},
+	"metaData": {
+		"site_name": "Biobanco Moonshot de Cáncer",
+		"twitter_image_alt": "Biobanco Moonshot de Cáncer - Ayuda a cambiar el futuro del tratamiento del cáncer"
+	},
 	"nav": {
 		"about": "Sobre el Biobanco",
 		"activate": "Activa tu cuenta",
@@ -56,5 +61,12 @@
 		"results_none": "Lo sentimos, no se encontraron resultados.",
 		"results_title": "Resultados para:",
 		"title": "Resultados de la búsqueda"
+	},
+	"tabs": {
+		"expect": {
+			"consent": "Dar su consentimiento",
+			"donate": "Done muestras",
+			"testing": "Hazte una prueba de biomarcadores"
+		}
 	}
 }

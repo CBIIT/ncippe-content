@@ -1,15 +1,11 @@
 {
-  "metaData": {
-    "site_name": "Cancer Moonshot Biobank",
-    "twitter_image_alt": "Cancer Moonshot Biobank – Help change the future of cancer treatment"
-  },
 	"aria": {
 		"menu": "menu"
 	},
 	"buttons": {
 		"close": "Close",
-    "collapse": "Collapse all",
-    "expand": "Expand all",
+		"collapse": "Collapse all",
+		"expand": "Expand all",
 		"search": "Search",
 		"sign_in": "Sign In",
 		"sign_out": "Sign Out"
@@ -41,6 +37,10 @@
 		"alt_text": "NCI Cancer Moonshot Biobank logo",
 		"title": "NCI Cancer Moonshot Biobank"
 	},
+	"metaData": {
+		"site_name": "Cancer Moonshot Biobank",
+		"twitter_image_alt": "Cancer Moonshot Biobank – Help change the future of cancer treatment"
+	},
 	"nav": {
 		"about": "About the Biobank",
 		"activate": "Activate your account",
@@ -55,18 +55,18 @@
 			"expect": "What to expect",
 			"participation": "Your participation"
 		}
-  },
-  "tabs": {
-    "expect": {
-      "consent": "Give your consent",
-      "donate": "Donate samples",
-      "testing": "Get a biomarker test"
-    }
-  },
+	},
 	"search": {
 		"input_placeholder": "Search",
 		"results_none": "Sorry, no results found.",
 		"results_title": "results for:",
 		"title": "Search results"
+	},
+	"tabs": {
+		"expect": {
+			"consent": "Give your consent",
+			"donate": "Donate samples",
+			"testing": "Get a biomarker test"
+		}
 	}
 }
