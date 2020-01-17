@@ -56,12 +56,6 @@
 			"participation": "Tu participación"
 		}
 	},
-	"search": {
-		"input_placeholder": "Buscar",
-		"results_none": "Lo sentimos, no se encontraron resultados.",
-		"results_title": "Resultados para:",
-		"title": "Resultados de la búsqueda"
-	},
 	"tabs": {
 		"expect": {
 			"consent": "Dar su consentimiento",

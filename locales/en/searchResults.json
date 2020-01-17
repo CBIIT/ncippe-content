@@ -1,0 +1,12 @@
+{
+	"input_placeholder": "Search",
+	"metaData": {
+		"OG_description": "search results page for content within the Cancer Moonshot Biobank site",
+		"OG_title": "Search results | Cancer Moonshot Biobank",
+		"description": "search results page for content within the Cancer Moonshot Biobank site",
+		"title": "Search results | Cancer Moonshot Biobank"
+	},
+	"results_none": "Sorry, no results found.",
+	"results_title": "results for:",
+	"title": "Search results"
+}
