@@ -56,6 +56,9 @@
 			"participation": "Your participation"
 		}
 	},
+	"search": {
+		"input_placeholder": "Search"
+	},
 	"tabs": {
 		"expect": {
 			"consent": "Give your consent",

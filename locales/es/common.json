@@ -56,6 +56,9 @@
 			"participation": "Tu participación"
 		}
 	},
+	"search": {
+		"input_placeholder": "Buscar"
+	},
 	"tabs": {
 		"expect": {
 			"consent": "Dar su consentimiento",
