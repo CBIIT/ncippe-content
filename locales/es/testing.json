@@ -44,11 +44,11 @@
 			"body": "La prueba de biomarcadores implica tres pasos:",
 			"stepper": {
 				"0": {
-					"description": "El Biobank enviará la muestra donada de su sangre o tejido a un laboratorio.",
+					"description": "El Biobank enviará su muestra de sangre o tejido donada a un laboratorio.",
 					"label": "Compartir"
 				},
 				"1": {
-					"description": "El laboratorio analizará el tumor o la muestra de sangre para detectar ciertos cambios genéticos o biomarcadores. Estos biomarcadores pueden ayudar a sugerir las terapias específicas, inmunoterapias o ensayos clínicos que podrían ser adecuados para usted.",
+					"description": "El laboratorio analizará la muestra para detectar ciertos cambios genéticos o biomarcadores. Estos biomarcadores pueden ayudar a sugerir las terapias específicas, las inmunoterapias o los ensayos clínicos que podrían ser adecuados para usted.",
 					"label": "Analizar"
 				},
 				"2": {

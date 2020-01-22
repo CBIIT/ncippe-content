@@ -44,11 +44,11 @@
 			"body": "The biomarker test involves three steps:",
 			"stepper": {
 				"0": {
-					"description": "The Biobank will send your donated sample of your blood or tissue sample to a lab.",
+					"description": "The Biobank will send your donated blood or tissue sample to a lab.",
 					"label": "Share"
 				},
 				"1": {
-					"description": "The lab will analyze the tumor or blood sample for certain genetic changes, or biomarkers. These biomarkers can help suggest the targeted therapies, immunotherapies, or clinical trials that might be right for you.",
+					"description": "The lab will analyze the sample for certain genetic changes, or biomarkers. These biomarkers can help suggest the targeted therapies, immunotherapies, or clinical trials that might be right for you.",
 					"label": "Analyze"
 				},
 				"2": {
