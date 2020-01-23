@@ -33,6 +33,9 @@
 		},
 		"tagline": "NIH … Turning Discovery Into Health ®"
 	},
+	"links": {
+		"language_toggle": "Leer en Español"
+	},
 	"logo": {
 		"alt_text": "NCI Cancer Moonshot Biobank logo",
 		"title": "NCI Cancer Moonshot Biobank"

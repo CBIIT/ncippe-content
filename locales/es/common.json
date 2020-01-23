@@ -33,6 +33,9 @@
 		},
 		"tagline": "NIH ... Convirtiendo el Descubrimiento en Salud ®"
 	},
+	"links": {
+		"language_toggle": "View in English"
+	},
 	"logo": {
 		"alt_text": "Logotipo del NCI Cáncer Moonshot Biobanco",
 		"title": "NCI Cáncer Moonshot Biobanco"
