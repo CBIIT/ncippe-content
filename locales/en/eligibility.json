@@ -1,11 +1,11 @@
 {
-  "metaData": {
-    "title": "Eligibility and locations | Cancer Moonshot Biobank",
-    "OG_title": "Eligibility and locations | Cancer Moonshot Biobank",
-    "description": "To start, the Cancer Moonshot Biobank is working with specific hospitals across the country to find participants with certain kinds of cancer.",
-    "OG_description": "To start, the Cancer Moonshot Biobank is working with specific hospitals across the country to find participants with certain kinds of cancer."
-  },
 	"introText": "The Cancer Moonshot<sup>SM</sup> Biobank will start out by collecting samples from patients with specific types of cancer, who are being treated at participating hospitals. Other cancer types and more hospitals may be added in future phases of the Biobank program.",
+	"metaData": {
+		"OG_description": "To start, the Cancer Moonshot Biobank is working with specific hospitals across the country to find participants with certain kinds of cancer.",
+		"OG_title": "Eligibility and locations | Cancer Moonshot Biobank",
+		"description": "To start, the Cancer Moonshot Biobank is working with specific hospitals across the country to find participants with certain kinds of cancer.",
+		"title": "Eligibility and locations | Cancer Moonshot Biobank"
+	},
 	"pageRoute": "/about/eligibility",
 	"pageTitle": "Eligibility and locations",
 	"sections": {
@@ -23,7 +23,7 @@
 			"title": "Participating hospitals"
 		},
 		"2": {
-      "alt_text": "nurse reviewing tablet with woman",
+			"alt_text": "nurse reviewing tablet with woman",
 			"body": {
 				"list": "<ul class='bulletList bulletList--spreadOut'><li><a href='https://www.cancer.gov/about-cancer/treatment/clinical-trials/search' rel='noopener noreferrer' target='_blank'>National Cancer Institute Clinical Trials</a> &mdash; search for NCI-sponsored clinical trials</li><li><a href='https://www.cancer.gov/rare-brain-spine-tumor/' rel='noopener noreferrer' target='_blank'>Comprehensive Oncology Network Evaluating Rare CNS Tumors (NCI-CONNECT)</a> &mdash; for people with rare brain and spine tumors</li><li><a href='https://www.cancer.gov/pediatric-adult-rare-tumor/' rel='noopener noreferrer' target='_blank'>My Pediatric and Adult Rare Tumor (MyPART)</a> &mdash; for people with certain rare tumors</li><li><a href='https://www.joinallofus.org/en' rel='noopener noreferrer' target='_blank'>All of Us</a> &mdash; a large-scale project to gather data from one million or more people living in the United States to accelerate research and improve health</li></ul>",
 				"text": "If you can't join the Cancer Moonshot Biobank, consider making a difference by participating in projects at NIH or NCI."

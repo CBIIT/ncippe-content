@@ -27,6 +27,12 @@
 	},
 	"faqs_title": "Preguntas frecuentes sobre pruebas de biomarcadores",
 	"intro_text": "<p>Su cáncer es exclusivo para usted.</p><p>Después de donar muestras de sangre y tejidos al Biobanco, realizaremos una prueba de biomarcadores en sus muestras. Es posible que su médico pueda usar el informe para crear un plan de tratamiento más personalizado para usted.</p>",
+	"metaData": {
+		"OG_description": "El Biobank realizará una prueba de biomarcadores tumorales en tu muestra de tumor donada. Esto puede ayudar a su médico a comprender mejor cómo tratar su cáncer o ayudarlo a encontrar opciones de ensayos clínicos.",
+		"OG_title": "Qué esperar: hacerse una prueba de biomarcadores | Biobanco Moonshot de cáncer",
+		"description": "El Biobank realizará una prueba de biomarcadores tumorales en tu muestra de tumor donada. Esto puede ayudar a su médico a comprender mejor cómo tratar su cáncer o ayudarlo a encontrar opciones de ensayos clínicos.",
+		"title": "Qué esperar: hacerse una prueba de biomarcadores | Biobanco Moonshot de cáncer"
+	},
 	"pageRoute": "/expect/testing",
 	"pageTitle": "Obtenga su prueba de biomarcadores",
 	"sections": {
@@ -38,11 +44,11 @@
 			"body": "La prueba de biomarcadores implica tres pasos:",
 			"stepper": {
 				"0": {
-					"description": "El Biobank enviará la muestra donada de su sangre o tejido a un laboratorio.",
+					"description": "El Biobank enviará su muestra de sangre o tejido donada a un laboratorio.",
 					"label": "Compartir"
 				},
 				"1": {
-					"description": "El laboratorio analizará el tumor o la muestra de sangre para detectar ciertos cambios genéticos o biomarcadores. Estos biomarcadores pueden ayudar a sugerir las terapias específicas, inmunoterapias o ensayos clínicos que podrían ser adecuados para usted.",
+					"description": "El laboratorio analizará la muestra para detectar ciertos cambios genéticos o biomarcadores. Estos biomarcadores pueden ayudar a sugerir las terapias específicas, las inmunoterapias o los ensayos clínicos que podrían ser adecuados para usted.",
 					"label": "Analizar"
 				},
 				"2": {
@@ -57,12 +63,14 @@
 				"0": {
 					"alt_text": "Muestra de página de informe de prueba de tumor sólido",
 					"link": "Ver informe de muestra completo",
-					"title": "Informes de prueba de tumor sólido"
+					"title": "Informes de prueba de tumor sólido",
+					"title_aria": "Ver un informe de prueba de tumor sólido Archivo de muestra PDF"
 				},
 				"1": {
 					"alt_text": "Muestra de página de informe de prueba de cáncer de sangre",
 					"link": "Ver informe de muestra completo",
-					"title": "Informes de prueba de cáncer de sangre"
+					"title": "Informes de prueba de cáncer de sangre",
+					"title_aria": "Ver un informe de prueba de cáncer de sangre Archivo de muestra en PDF"
 				}
 			},
 			"title": "Reporte de muestra"

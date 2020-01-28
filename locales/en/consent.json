@@ -1,18 +1,18 @@
 {
-  "metaData": {
-    "title": "What to expect – giving consent | Cancer Moonshot Biobank",
-    "OG_title": "What to expect – giving consent | Cancer Moonshot Biobank",
-    "description": "After you and your doctor discuss the Biobank and you decide you'd like to join you’ll be given a consent form to review and sign.",
-    "OG_description": "After you and your doctor discuss the Biobank and you decide you'd like to join you’ll be given a consent form to review and sign."
-  },
 	"form_link_adult": "Adult consent form",
 	"form_link_minors": "Assent form for minors",
 	"form_link_parental": "Parental permission form",
 	"intro_text": "<p>After you and your doctor discuss the Biobank and you decide you'd like to take part, you’ll be given a consent form to review and sign.</p><p>Participation in the Biobank is voluntary and deciding not to participate won’t affect your care. You can also leave the program at any time.</p>",
 	"link": "Review a sample adult consent form",
+	"metaData": {
+		"OG_description": "After you and your doctor discuss the Biobank and you decide you'd like to join you’ll be given a consent form to review and sign.",
+		"OG_title": "What to expect – giving consent | Cancer Moonshot Biobank",
+		"description": "After you and your doctor discuss the Biobank and you decide you'd like to join you’ll be given a consent form to review and sign.",
+		"title": "What to expect – giving consent | Cancer Moonshot Biobank"
+	},
 	"pageRoute": "/expect/consent",
 	"pageTitle": "What to expect if you join the Biobank",
 	"sample_title": "Sample participant consent forms",
-  "video_title": "A Dialogue on Cancer Disparities, Prevention, and Research: Facebook Live",
-  "video_caption": "You’ll watch this video as a part of the informed consent process"
+	"video_caption": "You’ll watch this video as a part of the informed consent process",
+	"video_title": "A Dialogue on Cancer Disparities, Prevention, and Research: Facebook Live"
 }

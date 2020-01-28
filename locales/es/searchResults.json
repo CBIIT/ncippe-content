@@ -1,0 +1,12 @@
+{
+	"input_placeholder": "Buscar",
+	"metaData": {
+		"OG_description": "página de resultados de búsqueda para contenido dentro del sitio del Biobanco de Moonshot del cáncer",
+		"OG_title": "Resultados de busqueda | Biobanco Moonshot de Cáncer",
+		"description": "página de resultados de búsqueda para contenido dentro del sitio del Biobanco de Moonshot del cáncer",
+		"title": "Resultados de busqueda | Biobanco Moonshot de Cáncer"
+	},
+	"results_none": "Lo sentimos, no se encontraron resultados.",
+	"results_title": "Resultados para:",
+	"title": "Resultados de la búsqueda"
+}

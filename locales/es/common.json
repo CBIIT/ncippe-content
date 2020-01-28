@@ -5,6 +5,7 @@
 	"buttons": {
 		"close": "Cerrar",
 		"collapse": "Desplegar todo",
+		"expand": "",
 		"search": "Buscar",
 		"sign_in": "Registrarse",
 		"sign_out": "Desconectar"
@@ -32,9 +33,16 @@
 		},
 		"tagline": "NIH ... Convirtiendo el Descubrimiento en Salud ®"
 	},
+	"links": {
+		"language_toggle": "View in English"
+	},
 	"logo": {
 		"alt_text": "Logotipo del NCI Cáncer Moonshot Biobanco",
 		"title": "NCI Cáncer Moonshot Biobanco"
+	},
+	"metaData": {
+		"site_name": "Biobanco Moonshot de Cáncer",
+		"twitter_image_alt": "Biobanco Moonshot de Cáncer - Ayuda a cambiar el futuro del tratamiento del cáncer"
 	},
 	"nav": {
 		"about": "Sobre el Biobanco",
@@ -52,9 +60,13 @@
 		}
 	},
 	"search": {
-		"input_placeholder": "Buscar",
-		"results_none": "Lo sentimos, no se encontraron resultados.",
-		"results_title": "Resultados para:",
-		"title": "Resultados de la búsqueda"
+		"input_placeholder": "Buscar"
+	},
+	"tabs": {
+		"expect": {
+			"consent": "Dar su consentimiento",
+			"donate": "Done muestras",
+			"testing": "Hazte una prueba de biomarcadores"
+		}
 	}
 }

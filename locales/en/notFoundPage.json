@@ -1,12 +1,12 @@
 {
-  "metaData": {
-    "title": "Page Not Found | Cancer Moonshot Biobank",
-    "OG_title": "Page Not Found | Cancer Moonshot Biobank",
-    "description": "The requested url could not be found.",
-    "OG_description": "The requested url could not be found."
-  },
-  "pageRoute": "/notfound",
+	"buttonText": "Go to Homepage",
+	"metaData": {
+		"OG_description": "The requested url could not be found.",
+		"OG_title": "Page Not Found | Cancer Moonshot Biobank",
+		"description": "The requested url could not be found.",
+		"title": "Page Not Found | Cancer Moonshot Biobank"
+	},
+	"pageRoute": "/notfound",
 	"pageTitle": "Page Not Found",
-  "subtitle": "Page could not be found",
-  "buttonText": "Go to Homepage"
+	"subtitle": "Page could not be found"
 }

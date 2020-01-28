@@ -1,10 +1,4 @@
 {
-  "metaData": {
-    "title": "What to expect – getting a biomarker test | Cancer Moonshot Biobank",
-    "OG_title": "What to expect – getting a biomarker test | Cancer Moonshot Biobank",
-    "description": "The Biobank will run a tumor biomarker test on your donated tumor sample. This may help your doctor better understand how to treat your cancer, or help you find clinical trial options.",
-    "OG_description": "The Biobank will run a tumor biomarker test on your donated tumor sample. This may help your doctor better understand how to treat your cancer, or help you find clinical trial options."
-  },
 	"faqs": {
 		"0": {
 			"answer": "A biomarker is a biological molecule found in blood, tissue, or other bodily fluids. It can be used to indicate a disease, or as a way to see if the body is responding to treatment.",
@@ -33,6 +27,12 @@
 	},
 	"faqs_title": "Frequently asked questions about biomarker tests",
 	"intro_text": "<p>Your cancer is unique to you.</p><p>After you donate blood and tissue samples to the Biobank, we'll run a biomarker test on your samples. Your doctor may be able to use the report to create a more personalized treatment plan for you.</p>",
+	"metaData": {
+		"OG_description": "The Biobank will run a tumor biomarker test on your donated tumor sample. This may help your doctor better understand how to treat your cancer, or help you find clinical trial options.",
+		"OG_title": "What to expect – getting a biomarker test | Cancer Moonshot Biobank",
+		"description": "The Biobank will run a tumor biomarker test on your donated tumor sample. This may help your doctor better understand how to treat your cancer, or help you find clinical trial options.",
+		"title": "What to expect – getting a biomarker test | Cancer Moonshot Biobank"
+	},
 	"pageRoute": "/expect/testing",
 	"pageTitle": "What to expect if you join the Biobank",
 	"sections": {
@@ -44,11 +44,11 @@
 			"body": "The biomarker test involves three steps:",
 			"stepper": {
 				"0": {
-					"description": "The Biobank will send your donated sample of your blood or tissue sample to a lab.",
+					"description": "The Biobank will send your donated blood or tissue sample to a lab.",
 					"label": "Share"
 				},
 				"1": {
-					"description": "The lab will analyze the tumor or blood sample for certain genetic changes, or biomarkers. These biomarkers can help suggest the targeted therapies, immunotherapies, or clinical trials that might be right for you.",
+					"description": "The lab will analyze the sample for certain genetic changes, or biomarkers. These biomarkers can help suggest the targeted therapies, immunotherapies, or clinical trials that might be right for you.",
 					"label": "Analyze"
 				},
 				"2": {

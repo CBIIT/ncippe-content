@@ -1,11 +1,11 @@
 {
-  "metaData": {
-    "title": "Error Page | Cancer Moonshot Biobank",
-    "OG_title": "Error Page | Cancer Moonshot Biobank",
-    "description": "You have encountered a page error.",
-    "OG_description": "You have encountered a page error."
-  },
-  "pageRoute": "/errorPage",
-	"pageTitle": "Error",
-  "buttonText": "Go to Homepage"
+	"buttonText": "Go to Homepage",
+	"metaData": {
+		"OG_description": "You have encountered a page error.",
+		"OG_title": "Error Page | Cancer Moonshot Biobank",
+		"description": "You have encountered a page error.",
+		"title": "Error Page | Cancer Moonshot Biobank"
+	},
+	"pageRoute": "/errorPage",
+	"pageTitle": "Error"
 }
