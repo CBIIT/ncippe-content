@@ -61,5 +61,6 @@
 			"zip": "10467"
 		}
 	},
-	"pageRoute": "/about/eligibility"
+	"pageRoute": "/about/eligibility",
+	"pageTitle": "Eligibility and locations"
 }
