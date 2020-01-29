@@ -27,7 +27,7 @@
 		},
 		"5": {
 			"alt_text": "hammer and gavel icon",
-			"description": "<a href='https://www.cancer.gov/resources-for/researchers/certificates-confidentiality' rel='noopener noreferrer' target='_blank'>Certificate of Confidentiality</a> <br/> <a href='https://www.hhs.gov/hipaa/for-professionals/privacy/index.html' rel='noopener noreferrer' target='_blank'>HIPAA Privacy Rule</a>",
+			"description": "<a href='https://www.cancer.gov/resources-for/researchers/certificates-confidentiality' rel='noopener noreferrer' target='_blank'>Certificate of Confidentiality</a><a href='https://www.hhs.gov/hipaa/for-professionals/privacy/index.html' rel='noopener noreferrer' target='_blank'>HIPAA Privacy Rule</a>",
 			"title": "There are laws to protect your privacy and prevent discrimination."
 		}
 	},

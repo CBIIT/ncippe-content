@@ -27,7 +27,7 @@
 		},
 		"5": {
 			"alt_text": "icono de martillo y martillo",
-			"description": "<a href='https://www.cancer.gov/resources-for/researchers/certificates-confidentiality' rel='noopener noreferrer' target='_blank'> Certificado de Confidencialidad</a><br/><a href='https://www.hhs.gov/hipaa/for-professionals/privacy/index.html' rel='noopener noreferrer' target='_ blank'> Regla de privacidad de HIPPA</a>",
+			"description": "<a href='https://www.cancer.gov/resources-for/researchers/certificates-confidentiality' rel='noopener noreferrer' target='_blank'> Certificado de Confidencialidad</a><a href='https://www.hhs.gov/hipaa/for-professionals/privacy/index.html' rel='noopener noreferrer' target='_ blank'> Regla de privacidad de HIPPA</a>",
 			"title": "Existen leyes para proteger su privacidad y evitar la discriminación."
 		}
 	},
