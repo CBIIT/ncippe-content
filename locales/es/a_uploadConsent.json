@@ -1,0 +1,16 @@
+{
+	"description": "Una vez que complete esta carga, el participante podrá ver y descargar este formulario de consentimiento.",
+	"title": "Subir un formulario de consentimiento",
+	"upload": {
+		"0": {
+			"button_select": "Seleccione un archivo para cargar",
+			"error": {
+				"message": "Lo sentimos. Algo salió mal. Elimine el archivo e intente cargar el formulario nuevamente.",
+				"title": "El archivo no se pudo cargar"
+			}
+		},
+		"1": {
+			"progress": "Subiendo archivo ..."
+		}
+	}
+}

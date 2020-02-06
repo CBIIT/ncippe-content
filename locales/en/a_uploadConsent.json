@@ -1,16 +1,16 @@
 {
-  "title": "Upload a consent form",
-  "description": "Once you complete this upload, the participant will be able to view and download this consent form.",
-  "upload": {
-    "0": {
-      "button_select": "Select a file to upload",
-      "error": {
-        "title": "File failed to upload",
-        "message": "We're sorry, something went wrong. Please remove the file and try to upload the form again."
-      }
-    },
-    "1": {
-      "progress": "Uploading file..."
-    }
-  }
+	"description": "Once you complete this upload, the participant will be able to view and download this consent form.",
+	"title": "Upload a consent form",
+	"upload": {
+		"0": {
+			"button_select": "Select a file to upload",
+			"error": {
+				"message": "We're sorry, something went wrong. Please remove the file and try to upload the form again.",
+				"title": "File failed to upload"
+			}
+		},
+		"1": {
+			"progress": "Uploading file..."
+		}
+	}
 }

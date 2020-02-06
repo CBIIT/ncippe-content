@@ -1,0 +1,97 @@
+{
+	"close": {
+		"body": "<p>Puede optar por cerrar su cuenta de Biobank en línea en cualquier momento. Puede cerrar su cuenta en línea, pero aun así participar en el Biobanco.</p><div>Después de cerrar su cuenta en línea:<ul className='bulletList bulletList--spreadOut'><li>No podrá acceder a su formulario de consentimiento o informes de biomarcadores. Pregúntele a su coordinador de investigación si desea copias del formulario o el informe. </li><li>Su cuenta login.gov permanecerá activa. Puede usar esta cuenta para acceder a otros servicios gubernamentales.</li><li>NCI mantendrá todos los datos almacenados en el sitio web de Biobank (como su historial de uso, notificaciones, informes de biomarcadores y formulario de consentimiento). Si desea eliminar permanentemente estos datos, comuníquese con su coordinador de investigación.</li></ul><p>Una vez que cierre su cuenta, deberá comunicarse con su coordinador de investigación clínica para volver a abrirla.</p></div>",
+		"crc_card_title": "Su coordinador de investigación",
+		"pageTitle": "Cierra tu cuenta en línea",
+		"submit": "Cerrar cuenta en línea"
+	},
+	"landing": {
+		"body": "<p>Puede dejar de participar en el Biobanco en cualquier momento. Puede cerrar su cuenta de Biobank en línea pero seguir participando en el Biobank.</p><p><a href='/dashboard/help'>Obtenga más información sobre la diferencia entre cerrar su cuenta en línea y abandonar Biobank.</a></p>",
+		"form": {
+			"close": "Cerrar cuenta en línea",
+			"error": "Debes completar este campo",
+			"leave": "Deja el biobanco",
+			"title": "¿Cómo le gustaría cambiar su participación en Biobank?"
+		},
+		"pageTitle": "Cambia tu participación en Biobank"
+	},
+	"leave": {
+		"0": {
+			"body": "<p>Tiene derecho a dejar de participar y abandonar el programa Biobank cuando lo desee.</p><p>Tiene algunas opciones sobre cómo usaremos las muestras y la información que ya hemos recopilado. La siguiente sección lo guiará a través de estas opciones. Si tiene preguntas, comuníquese con su coordinador de investigación.</p>",
+			"pageTitle": "Deja el proyecto Biobank",
+			"submit": "Entiendo",
+			"subtitle": "Sentimos verte partir."
+		},
+		"1": {
+			"description": {
+				"admin": "Guíe al participante a través de las siguientes preguntas para que podamos manejar sus muestras biológicas y la información relacionada de manera adecuada.",
+				"participant": "Antes de abandonar el Biobanco, debemos hacerle algunas preguntas sobre cómo manejar sus muestras e información."
+			},
+			"form": {
+				"error": "Debes completar este campo",
+				"questions": {
+					"0": {
+						"helper_text": {
+							"admin": "Desafortunadamente, no podemos recuperar muestras e información que ya se han compartido.",
+							"participant": "Desafortunadamente, no podemos recuperar muestras e información que ya se han compartido."
+						},
+						"question": {
+							"admin": "¿Podemos continuar compartiendo la sangre y los tejidos donados previamente por el participante, así como información médica relevante con los investigadores?",
+							"participant": "¿Podemos continuar compartiendo las muestras y la información médica que ya recopilamos con los investigadores?"
+						}
+					},
+					"1": {
+						"helper_text": {
+							"admin": "Podemos recopilar información del registro médico del participante durante 10 años o más. Esto puede incluir información sobre su diagnóstico y tratamientos anteriores. Pueden optar por no participar en cualquier momento.",
+							"participant": "Podemos recopilar información de su registro médico durante 10 años o más. Esto puede incluir información sobre su diagnóstico y tratamientos anteriores. Puede optar por no participar en cualquier momento."
+						},
+						"question": {
+							"admin": "¿Podemos continuar accediendo al registro médico del participante con fines de investigación?",
+							"participant": "¿Podemos seguir usando la información en su registro médico para la investigación?"
+						}
+					},
+					"2": {
+						"helper_text": {
+							"admin": "Si seleccionan sí, usted u otro coordinador de investigación los llamará.",
+							"participant": "Si selecciona sí, su coordinador de investigación lo llamará."
+						},
+						"question": {
+							"admin": "¿Le gustaría al participante que nos comuniquemos con ellos para hablar sobre dejar el programa y responder cualquier pregunta que puedan tener?",
+							"participant": "¿Desea que nos comuniquemos con usted para hablar sobre dejar el programa y responder cualquier pregunta que pueda tener?"
+						}
+					},
+					"3": {
+						"helper_text": {
+							"admin": "Decirnos por qué se van nos ayudará a mejorar el programa para futuros participantes.",
+							"participant": "Decirnos por qué se va nos ayudará a mejorar el programa para futuros participantes."
+						},
+						"question": {
+							"admin": "¿Por qué el participante quiere abandonar el Biobanco?",
+							"participant": "¿Por qué quieres abandonar el Biobanco?"
+						},
+						"textfield": {
+							"helper_text": "Límite de 1000 caracteres",
+							"label": "Motivo de la partida (opcional)"
+						}
+					}
+				}
+			},
+			"pageTitle": "Deja el biobanco",
+			"submit": "Deja el biobanco",
+			"subtitle": {
+				"admin": "Esto terminará la participación de {{firstName}} {{lastName}}"
+			}
+		},
+		"2": {
+			"body": {
+				"admin": "El participante deberá hablar con su médico si desea volver a unirse en el futuro.",
+				"participant": "Tendrá que hablar con su coordinador de investigación si desea volver a unirse en el futuro."
+			},
+			"modalTitle": {
+				"admin": "Confirme que {{user}} se va del Biobanco.",
+				"participant": "Gracias por su participación en el Biobanco Cancer Moonshot<sup>SM</sup> . Confirme su decisión de abandonar el Biobanco."
+			},
+			"submit": "Confirmar"
+		}
+	}
+}

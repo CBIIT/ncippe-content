@@ -1,97 +1,97 @@
 {
-  "landing": {
-    "pageTitle": "Change your Biobank participation",
-    "body": "<p>You may stop participating in the Biobank at any time. You can close your online Biobank account but keep participating in the Biobank.</p><p><a href='/dashboard/help'>Learn more about the difference between closing your online account and leaving the Biobank.</a></p>",
-    "form": {
-      "title": "How would you like to change your Biobank participation?",
-      "close": "Close online account",
-      "leave": "Leave the Biobank",
-      "error": "You must complete this field"
-    }
-  },
-  "close": {
-    "pageTitle": "Close your online account",
-    "body": "<p>You may choose to close your online Biobank account at any time. You can close your online account, but still participate in the Biobank.</p><div>After you close your online account:<ul className='bulletList bulletList--spreadOut'><li>You won't be able to access your consent form or biomarker reports. Please ask your research coordinator if you want copies of the form or the report. </li><li>Your login.gov account will remain active. You can use this account to access other government services.</li><li>NCI will keep any data stored in the Biobank website (such as your usage history, notifications, biomarker reports, and consent form). If you wish to permanently delete this data, please contact your research coordinator.</li></ul><p>Once you close your account, you will have to contact your clinical research coordinator to re-open it.</p></div>",
-    "crc_card_title": "Your Research Coordinator",
-    "submit": "Close online account"
-  },
-  "leave": {
-    "0": {
-      "pageTitle": "Leave the Biobank project",
-      "subtitle": "We're sorry to see you go.",
-      "body": "<p>You have the right to stop participating and leave the Biobank program when you want to.</p><p>You have a few choices for how we'll use samples and information we've already collected. The next section will walk you through these choices. If you have questions, please contact your research coordinator.</p>",
-      "submit": "I understand"
-    },
-    "1": {
-      "pageTitle": "Leave the Biobank",
-      "subtitle": {
-        "admin": "This will end {{firstName}} {{lastName}}'s participation"
-      },
-      "description": {
-        "participant": "Before you leave the Biobank, we need to ask you a few questions about how to handle your samples and information.",
-        "admin": "Please guide the participant through the following questions so that we can handle their biospecimens and related information in an appropriate manner."
-      },
-      "form": {
-        "questions": {
-          "0": {
-            "question": {
-              "participant": "May we continue to share the samples and medical information we already collected with researchers?",
-              "admin": "May we continue to share the participant’s previously donated blood and tissue as well as relevant medical information with researchers?"
-            },
-            "helper_text": {
-              "participant": "Unfortunately, we can't get back samples and information that have already been shared.",
-              "admin": "Unfortunately, we can't get back samples and information that have already been shared."
-            }
-          },
-          "1": {
-            "question": {
-              "participant": "May we continue to use the information in your medical record for research?",
-              "admin": "May we continue to access the participant’s medical record for research purposes?"
-            },
-            "helper_text": {
-              "participant": "We may collect information from your medical record for 10 years or longer. This may include information about your diagnosis and past treatments. You may opt out at any time.",
-              "admin": "We may collect information from the participant's medical record for 10 years or longer. This may include information about their diagnosis and past treatments. They may opt out at any time."
-            }
-          },
-          "2": {
-            "question": {
-              "participant": "Would you like us to contact you to talk about leaving the program and answer any questions you may have?",
-              "admin": "Would the participant like us to contact them to talk about leaving the program and answer any questions they may have?"
-            },
-            "helper_text": {
-              "participant": "If you select yes, your research coordinator will call you.",
-              "admin": "If they select yes, you or another research coordinator will call them."
-            }
-          },
-          "3": {
-            "question": {
-              "participant": "Why do you want to leave the Biobank?",
-              "admin": "Why does the participant want to leave the Biobank?"
-            },
-            "helper_text": {
-              "participant": "Telling us why you're leaving will help us improve the program for future participants.",
-              "admin": "Telling us why they are leaving will help us improve the program for future participants."
-            },
-            "textfield": {
-              "label": "Reason for leaving (optional)",
-              "helper_text": "1000 character limit"
-            }
-          }
-        },
-        "error": "You must complete this field"
-      },
-      "submit": "Leave the Biobank"
-    },
-    "2": {
-      "modalTitle": {
-        "participant": "Thank you for your participation in the Cancer Moonshot<sup>SM</sup> Biobank. Please confirm your decision to leave the Biobank.",
-        "admin": "Please confirm that {{user}} is leaving the Biobank."
-      },
-      "body": {
-        "participant": "You'll need to talk to your research coordinator if you'd like to rejoin in the future.",
-        "admin": "The participant will need to speak to their doctor if they'd like to rejoin in the future." 
-      },
-      "submit": "Confirm"
-    }
-  }
+	"close": {
+		"body": "<p>You may choose to close your online Biobank account at any time. You can close your online account, but still participate in the Biobank.</p><div>After you close your online account:<ul className='bulletList bulletList--spreadOut'><li>You won't be able to access your consent form or biomarker reports. Please ask your research coordinator if you want copies of the form or the report. </li><li>Your login.gov account will remain active. You can use this account to access other government services.</li><li>NCI will keep any data stored in the Biobank website (such as your usage history, notifications, biomarker reports, and consent form). If you wish to permanently delete this data, please contact your research coordinator.</li></ul><p>Once you close your account, you will have to contact your clinical research coordinator to re-open it.</p></div>",
+		"crc_card_title": "Your Research Coordinator",
+		"pageTitle": "Close your online account",
+		"submit": "Close online account"
+	},
+	"landing": {
+		"body": "<p>You may stop participating in the Biobank at any time. You can close your online Biobank account but keep participating in the Biobank.</p><p><a href='/dashboard/help'>Learn more about the difference between closing your online account and leaving the Biobank.</a></p>",
+		"form": {
+			"close": "Close online account",
+			"error": "You must complete this field",
+			"leave": "Leave the Biobank",
+			"title": "How would you like to change your Biobank participation?"
+		},
+		"pageTitle": "Change your Biobank participation"
+	},
+	"leave": {
+		"0": {
+			"body": "<p>You have the right to stop participating and leave the Biobank program when you want to.</p><p>You have a few choices for how we'll use samples and information we've already collected. The next section will walk you through these choices. If you have questions, please contact your research coordinator.</p>",
+			"pageTitle": "Leave the Biobank project",
+			"submit": "I understand",
+			"subtitle": "We're sorry to see you go."
+		},
+		"1": {
+			"description": {
+				"admin": "Please guide the participant through the following questions so that we can handle their biospecimens and related information in an appropriate manner.",
+				"participant": "Before you leave the Biobank, we need to ask you a few questions about how to handle your samples and information."
+			},
+			"form": {
+				"error": "You must complete this field",
+				"questions": {
+					"0": {
+						"helper_text": {
+							"admin": "Unfortunately, we can't get back samples and information that have already been shared.",
+							"participant": "Unfortunately, we can't get back samples and information that have already been shared."
+						},
+						"question": {
+							"admin": "May we continue to share the participant’s previously donated blood and tissue as well as relevant medical information with researchers?",
+							"participant": "May we continue to share the samples and medical information we already collected with researchers?"
+						}
+					},
+					"1": {
+						"helper_text": {
+							"admin": "We may collect information from the participant's medical record for 10 years or longer. This may include information about their diagnosis and past treatments. They may opt out at any time.",
+							"participant": "We may collect information from your medical record for 10 years or longer. This may include information about your diagnosis and past treatments. You may opt out at any time."
+						},
+						"question": {
+							"admin": "May we continue to access the participant’s medical record for research purposes?",
+							"participant": "May we continue to use the information in your medical record for research?"
+						}
+					},
+					"2": {
+						"helper_text": {
+							"admin": "If they select yes, you or another research coordinator will call them.",
+							"participant": "If you select yes, your research coordinator will call you."
+						},
+						"question": {
+							"admin": "Would the participant like us to contact them to talk about leaving the program and answer any questions they may have?",
+							"participant": "Would you like us to contact you to talk about leaving the program and answer any questions you may have?"
+						}
+					},
+					"3": {
+						"helper_text": {
+							"admin": "Telling us why they are leaving will help us improve the program for future participants.",
+							"participant": "Telling us why you're leaving will help us improve the program for future participants."
+						},
+						"question": {
+							"admin": "Why does the participant want to leave the Biobank?",
+							"participant": "Why do you want to leave the Biobank?"
+						},
+						"textfield": {
+							"helper_text": "1000 character limit",
+							"label": "Reason for leaving (optional)"
+						}
+					}
+				}
+			},
+			"pageTitle": "Leave the Biobank",
+			"submit": "Leave the Biobank",
+			"subtitle": {
+				"admin": "This will end {{firstName}} {{lastName}}'s participation"
+			}
+		},
+		"2": {
+			"body": {
+				"admin": "The participant will need to speak to their doctor if they'd like to rejoin in the future.",
+				"participant": "You'll need to talk to your research coordinator if you'd like to rejoin in the future."
+			},
+			"modalTitle": {
+				"admin": "Please confirm that {{user}} is leaving the Biobank.",
+				"participant": "Thank you for your participation in the Cancer Moonshot<sup>SM</sup> Biobank. Please confirm your decision to leave the Biobank."
+			},
+			"submit": "Confirm"
+		}
+	}
 }

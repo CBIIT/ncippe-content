@@ -1,0 +1,110 @@
+{
+	"aria": {
+		"remove_file": "Remover archivo"
+	},
+	"badges": {
+		"new": "nuevo",
+		"new_document": "Nuevo documento",
+		"new_participant": "Nuevo participante",
+		"not_participating": "No participando"
+	},
+	"buttons": {
+		"back": "atrás",
+		"cancel": "Cancelar",
+		"change_participation": "Cambiar participación",
+		"download": "Descargar",
+		"edit": "Editar",
+		"next": "Siguiente",
+		"no": "No",
+		"save": "Salvar",
+		"submit": "Enviar",
+		"view": "Ver",
+		"yes": "Sí"
+	},
+	"components": {
+		"biomarkerView": {
+			"description": "Descargue y guarde su informe de biomarcadores en sus registros. También se ha enviado una copia a su proveedor.",
+			"no_results": {
+				"admin": "No hay informes disponibles<br /> para este participante.",
+				"participant": "No tiene informes<br/> en este momento."
+			},
+			"pageTitle": "Informes de biomarcadores"
+		},
+		"consentView": {
+			"description": "Cuando se inscribió en el programa Biobank, firmó al menos un formulario de consentimiento. Descargue y guarde este formulario en sus registros.",
+			"no_results": {
+				"admin": "No hay formularios de consentimiento disponibles<br/> para este participante.",
+				"participant": "No tiene formularios<br/> en este momento."
+			},
+			"pageTitle": "Formularios de consentimiento"
+		},
+		"deactivated_questions": {
+			"left": "dejó el Biobanco en",
+			"no_response": "No se proporcionó respuesta"
+		},
+		"fileItem": {
+			"last_modified": "Última modificación"
+		},
+		"notificationView": {
+			"no_results": "No tienes ninguna notificación.",
+			"pageTitle": "Tienes {{count}} notificación{{s}}"
+		},
+		"participantList": {
+			"search_label": "Buscar por nombre",
+			"title": "Sus participantes"
+		},
+		"participantView": {
+			"status": {
+				"added": {
+					"message": "Este participante ahora puede activar su cuenta de Biobank en línea. Puede agregar formularios de consentimiento adicionales en las acciones de la cuenta.",
+					"title": "Nuevo participante agregado con éxito"
+				},
+				"info": {
+					"message": "El participante dejó el Biobanco el {{date}}. Tendrán que hablar con su coordinador de investigación para volver a unirse.",
+					"title": "Este participante ha dejado el Biobanco."
+				},
+				"uploaded": {
+					"message": "Enviamos un correo electrónico para informar al participante.",
+					"title": "Formulario de consentimiento cargado correctamente"
+				}
+			}
+		},
+		"signin": {
+			"error": {
+				"no_state": "El estado no coincide",
+				"not_auth": "Lo sentimos, pero o no se ha registrado en el Programa Biobank, su cuenta aún no se ha activado o su cuenta se ha cerrado. Póngase en contacto con su coordinador de investigación clínica para obtener ayuda."
+			},
+			"loading": "Cargando datos del usuario ..."
+		},
+		"testResultItem": {
+			"uploaded": "Subido"
+		}
+	},
+	"icons": {
+		"biomarker_test": "icono de prueba de biomarcador",
+		"help": "obtener icono de ayuda",
+		"notifications": "icono de notificación",
+		"reports": "icono de documento",
+		"user_profile": "icono de usuario"
+	},
+	"menu": {
+		"account_actions": {
+			"leave_biobank": "Deja el biobanco",
+			"name": "Acciones de cuenta",
+			"upload_consent": "Subir formulario de consentimiento"
+		}
+	},
+	"not_participating": {
+		"badge": "No participando",
+		"status": {
+			"message": "Si desea unirse al Biobanco, hable con su coordinador de investigación.",
+			"title": "Ya no estás participando en el Biobanco."
+		}
+	},
+	"participant": {
+		"id": "ID del participante",
+		"since": "Participante desde"
+	},
+	"pluralizer": "s",
+	"welcome": "Bienvenido"
+}

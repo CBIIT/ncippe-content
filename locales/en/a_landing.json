@@ -1,34 +1,34 @@
 {
-  "pageTitle": "Welcome",
-  "subtitle": "Thank you for joining the Cancer Moonshot<sup>SM</sup> Biobank",
-  "metaData": {
+	"cards": {
+		"biomarker": {
+			"description": "View the reports from your Biomarker tests.",
+			"link": "View reports",
+			"title": "Biomarker reports"
+		},
+		"consent": {
+			"description": "Review the form you signed when you agreed to participate in the Biobank.",
+			"link": "View forms",
+			"title": "Consent form"
+		},
+		"help": {
+			"description": "Learn about changing your participation in the Biobank.",
+			"link": "Learn more",
+			"title": "Get help"
+		},
+		"notifications": {
+			"description": "You have {{count}} new notification{{s}}",
+			"link": "Review",
+			"title": "Notifications"
+		},
+		"settings": {
+			"description": "Update your contact information or change how you participate in the Biobank.",
+			"link": "Update account",
+			"title": "Account settings"
+		}
+	},
+	"metaData": {
 		"title": "Dashboard | Cancer Moonshot Biobank"
-  },
-  "cards": {
-    "notifications": {
-      "title": "Notifications",
-      "description": "You have {{count}} new notification{{s}}",
-      "link": "Review"
-    },
-    "consent": {
-      "title": "Consent form",
-      "description": "Review the form you signed when you agreed to participate in the Biobank.",
-      "link": "View forms"
-    },
-    "biomarker": {
-      "title": "Biomarker reports",
-      "description": "View the reports from your Biomarker tests.",
-      "link": "View reports"
-    },
-    "settings": {
-      "title": "Account settings",
-      "description": "Update your contact information or change how you participate in the Biobank.",
-      "link": "Update account"
-    },
-    "help": {
-      "title": "Get help",
-      "description": "Learn about changing your participation in the Biobank.",
-      "link": "Learn more"
-    }
-  }
+	},
+	"pageTitle": "Welcome",
+	"subtitle": "Thank you for joining the Cancer Moonshot<sup>SM</sup> Biobank"
 }
