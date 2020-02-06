@@ -1,0 +1,30 @@
+{
+  "title": "Add participant information",
+  "subtitle": "This will let the participant create their Biobank account to access their program information.",
+  "stepper": {
+    "0": {
+      "label": "Participant name and email"
+    },
+    "1": {
+      "label": "Upload consent form"
+    }
+  },
+  "upload": "Select consent form to upload",
+  "form": {
+    "firstName": "First name",
+    "lastName": "Last name",
+    "email": "Email",
+    "consentFile": "Select consent form to upload",
+    "error": {
+      "firstName": "Please enter a first name",
+      "lastName": "Please enter a last name",
+      "email": "Please enter a valid email address",
+      "file": "you must upload a file",
+      "submit": {
+        "title": "Report failed to upload",
+        "message": "We're sorry, something went wrong. Please try to upload this report again. If this problem persists, contact your system administrator."
+      }
+    }
+  },
+  "progress": "Uploading file..."
+}

@@ -1,0 +1,47 @@
+{
+  "pageTitle": "Upload Biomarker test reports",
+  "description": "Once you upload a report, you will associate it with a participant. At that point, the participant, their providers, and their research coordinators will be able to view and download the report.Enter the ID of the participant associated with this report.",
+  "stepper_title": "Upload process",
+  "stepper": {
+    "0": {
+      "label": "Input Participant ID"
+    },
+    "1": {
+      "label": "Select report from your computer"
+    },
+    "2": {
+      "label": "Complete upload"
+    }
+  },
+  "upload": {
+    "0": {
+      "form_title": "Enter the ID of the participant associated with this report.",
+      "input_label": "Input Participant ID",
+      "input_helper_text": "This number is on the top of the report",
+      "input_error": "Please enter a valid Participant ID",
+      "error": {
+        "title": "This participant is not in the system",
+        "message": "Please double check the Participant ID on the hard copy of the report and re-enter it above. If this problem persists, contact the system administrator."
+      }
+    },
+    "1": {
+      "form_title": "Participant",
+      "form_subtitle": "Select a report to upload",
+      "button_select": "Select a report",
+      "error": {
+        "title": "Report failed to upload",
+        "message": "We're sorry, something went wrong. Please remove the file and try to upload the report again."
+      }
+    },
+    "2": {
+      "progress": "Uploading report..."
+    },
+    "3": {
+      "success": {
+        "title": "Biomarker report uploaded successfully!",
+        "message": "We sent an email to let the participant, their providers, and their research coordinator know.",
+        "button_reset": "Upload another report"
+      }
+    }
+  }
+}

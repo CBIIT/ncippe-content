@@ -1,0 +1,20 @@
+{
+  "pageTitle": "Get help",
+  "description": "If you have additional questions about the Biobank or your participation, contact your research coordinator.",
+  "sections": {
+    "0": {
+      "title": "Close your online Biobank account",
+      "body": "Closing your online Biobank account means you will still be a participant in the Biobank, but you won't be able to directly download your biomarker test reports or signed consent forms or receive other communications through the online account. You can still get copies of your reports and consent forms from your provider or research coordinator."
+    },
+    "1": {
+      "title": "Leave the Biobank",
+      "body": "Leaving the Biobank means you'll stop donating blood and tissue samples. When you leave, you can choose if you want previously donated samples to continue to be shared, or if samples in storage should be destroyed. If samples have already been sent to researchers, we may not be able to get them back.",
+      "alt_text": "tablet computer"
+    },
+    "2": {
+      "title": "Changing doctors or hospitals",
+      "body": "If you change to a different doctor or hospital, and they are not participating in the Biobank, you may not be able to donate any more samples. Samples you have already donated will stay in the Biobank and be used for research unless you request they be destroyed.",
+      "alt_text": "hospital building"
+    }
+  }
+}
