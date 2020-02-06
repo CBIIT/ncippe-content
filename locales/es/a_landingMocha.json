@@ -1,0 +1,47 @@
+{
+	"description": "Una vez que cargue un informe, lo asociará con un participante. En ese momento, el participante, sus proveedores y sus coordinadores de investigación podrán ver y descargar el informe. Ingrese la identificación del participante asociado con este informe.",
+	"pageTitle": "Subir informes de prueba de biomarcadores",
+	"stepper": {
+		"0": {
+			"label": "Ingrese la identificación del participante"
+		},
+		"1": {
+			"label": "Seleccione el informe de su computadora"
+		},
+		"2": {
+			"label": "Subida completa"
+		}
+	},
+	"stepper_title": "Proceso de carga",
+	"upload": {
+		"0": {
+			"error": {
+				"message": "Verifique la ID del participante en la copia impresa del informe y vuelva a ingresarla arriba. Si este problema persiste, comuníquese con el administrador del sistema.",
+				"title": "Este participante no está en el sistema."
+			},
+			"form_title": "Ingrese la ID del participante asociado con este informe.",
+			"input_error": "Ingrese una identificación de participante válida",
+			"input_helper_text": "Este número está en la parte superior del informe.",
+			"input_label": "Ingrese la identificación del participante"
+		},
+		"1": {
+			"button_select": "Seleccione un informe",
+			"error": {
+				"message": "Lo sentimos. Algo salió mal. Elimine el archivo e intente cargar el informe nuevamente.",
+				"title": "El informe no se pudo cargar"
+			},
+			"form_subtitle": "Seleccione un informe para cargar",
+			"form_title": "Partícipe"
+		},
+		"2": {
+			"progress": "Cargando informe ..."
+		},
+		"3": {
+			"success": {
+				"button_reset": "Subir otro informe",
+				"message": "Enviamos un correo electrónico para informar al participante, sus proveedores y su coordinador de investigación.",
+				"title": "¡Informe de biomarcador cargado correctamente!"
+			}
+		}
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"form": {
+		"consentFile": "Seleccione el formulario de consentimiento para cargar",
+		"email": "Email",
+		"error": {
+			"email": "Por favor, introduce una dirección de correo electrónico válida",
+			"file": "debes subir un archivo",
+			"firstName": "Por favor ingrese un nombre",
+			"lastName": "Por favor ingrese un apellido",
+			"submit": {
+				"message": "Lo sentimos. Algo salió mal. Intenta subir este informe nuevamente. Si este problema persiste, comuníquese con el administrador del sistema.",
+				"title": "El informe no se pudo cargar"
+			}
+		},
+		"firstName": "Nombre de pila",
+		"lastName": "Apellido"
+	},
+	"progress": "Subiendo archivo ...",
+	"stepper": {
+		"0": {
+			"label": "Nombre del participante y correo electrónico"
+		},
+		"1": {
+			"label": "Subir formulario de consentimiento"
+		}
+	},
+	"subtitle": "Esto permitirá que el participante cree su cuenta de Biobank para acceder a la información de su programa.",
+	"title": "Agregar información del participante",
+	"upload": "Seleccione el formulario de consentimiento para cargar"
+}

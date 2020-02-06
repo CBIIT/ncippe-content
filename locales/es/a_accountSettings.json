@@ -1,0 +1,22 @@
+{
+	"contacts": {
+		"crc": "Coordinador de investigación",
+		"doctor": "Doctor",
+		"title": "Tus contactos de Biobank"
+	},
+	"profile": {
+		"email": "Email",
+		"notifications": {
+			"edit_label": "Enviar notificaciones por correo electrónico (recomendado)",
+			"label": "Notificaciones",
+			"off": "Apagado",
+			"on": "en",
+			"title": "Configuración de las notificaciones"
+		},
+		"phone": {
+			"helper_text": "Ingrese su número de contacto preferido.",
+			"title": "Numero de teléfono (opcional)"
+		},
+		"title": "tu información de contacto"
+	}
+}

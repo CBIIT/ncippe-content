@@ -1,0 +1,20 @@
+{
+	"description": "Si tiene preguntas adicionales sobre el Biobanco o su participación, comuníquese con su coordinador de investigación.",
+	"pageTitle": "Consigue ayuda",
+	"sections": {
+		"0": {
+			"body": "Cerrar su cuenta de Biobank en línea significa que seguirá participando en el Biobank, pero no podrá descargar directamente sus informes de prueba de biomarcadores o formularios de consentimiento firmados ni recibir otras comunicaciones a través de la cuenta en línea. Aún puede obtener copias de sus informes y formularios de consentimiento de su proveedor o coordinador de investigación.",
+			"title": "Cierre su cuenta en línea de Biobank"
+		},
+		"1": {
+			"alt_text": "Tableta",
+			"body": "Dejar el Biobanco significa que dejará de donar muestras de sangre y tejidos. Cuando se vaya, puede elegir si desea que las muestras donadas previamente se sigan compartiendo o si las muestras almacenadas deben destruirse. Si ya se han enviado muestras a los investigadores, es posible que no podamos recuperarlas.",
+			"title": "Deja el biobanco"
+		},
+		"2": {
+			"alt_text": "edificio del hospital",
+			"body": "Si cambia a un médico u hospital diferente y no están participando en el Biobanco, es posible que no pueda donar más muestras. Las muestras que ya ha donado permanecerán en el Biobanco y se utilizarán para la investigación a menos que solicite que sean destruidas.",
+			"title": "Cambio de médicos u hospitales."
+		}
+	}
+}

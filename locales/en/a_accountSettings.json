@@ -1,0 +1,22 @@
+{
+	"contacts": {
+		"crc": "Research coordinator",
+		"doctor": "Doctor",
+		"title": "Your Biobank contacts"
+	},
+	"profile": {
+		"email": "Email",
+		"notifications": {
+			"edit_label": "Send email notifications (recommended)",
+			"label": "Notifications",
+			"off": "off",
+			"on": "on",
+			"title": "Notification settings"
+		},
+		"phone": {
+			"helper_text": "Enter your preferred contact number.",
+			"title": "Phone number (optional)"
+		},
+		"title": "Your contact information"
+	}
+}

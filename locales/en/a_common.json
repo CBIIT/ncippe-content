@@ -1,0 +1,110 @@
+{
+	"aria": {
+		"remove_file": "remove file"
+	},
+	"badges": {
+		"new": "New",
+		"new_document": "New Document",
+		"new_participant": "New Participant",
+		"not_participating": "Not Participating"
+	},
+	"buttons": {
+		"back": "Back",
+		"cancel": "Cancel",
+		"change_participation": "Change Participation",
+		"download": "Download",
+		"edit": "Edit",
+		"next": "Next",
+		"no": "No",
+		"save": "Save",
+		"submit": "Submit",
+		"view": "View",
+		"yes": "Yes"
+	},
+	"components": {
+		"biomarkerView": {
+			"description": "Please download and save your biomarker report in your records. A copy has also been sent to your provider.",
+			"no_results": {
+				"admin": "No reports available<br /> for this participant.",
+				"participant": "You have no reports<br/> at this time."
+			},
+			"pageTitle": "Biomarker reports"
+		},
+		"consentView": {
+			"description": "When you signed up for the Biobank program, you signed at least one consent form. Please download and save this form in your records.",
+			"no_results": {
+				"admin": "No consent forms available<br/> for this participant.",
+				"participant": "You have no forms<br/> at this time."
+			},
+			"pageTitle": "Consent forms"
+		},
+		"deactivated_questions": {
+			"left": "left the Biobank on",
+			"no_response": "No response provided"
+		},
+		"fileItem": {
+			"last_modified": "Last modified"
+		},
+		"notificationView": {
+			"no_results": "You do not have any notifications.",
+			"pageTitle": "You have {{count}} notification{{s}}"
+		},
+		"participantList": {
+			"search_label": "Search by name",
+			"title": "Your Participants"
+		},
+		"participantView": {
+			"status": {
+				"added": {
+					"message": "This participant can now activate their online Biobank account. You can add additional consent forms under account actions.",
+					"title": "New participant added successfully"
+				},
+				"info": {
+					"message": "The participant left the Biobank on {{date}}. They will need to talk to their research coordinator to rejoin.",
+					"title": "This participant has left the Biobank."
+				},
+				"uploaded": {
+					"message": "We sent an email to let the participant know.",
+					"title": "Consent form uploaded successfully"
+				}
+			}
+		},
+		"signin": {
+			"error": {
+				"no_state": "State does not match",
+				"not_auth": "Sorry, but either you have not been signed up for the Biobank Program, your account has not been activated yet, or your account has been closed. Please contact your Clinical Research Coordinator for assistance."
+			},
+			"loading": "Loading User Data..."
+		},
+		"testResultItem": {
+			"uploaded": "Uploaded"
+		}
+	},
+	"icons": {
+		"biomarker_test": "biomarker test icon",
+		"help": "get help icon",
+		"notifications": "notification icon",
+		"reports": "document icon",
+		"user_profile": "user icon"
+	},
+	"menu": {
+		"account_actions": {
+			"leave_biobank": "Leave the Biobank",
+			"name": "Account actions",
+			"upload_consent": "Upload consent form"
+		}
+	},
+	"not_participating": {
+		"badge": "Not Participating",
+		"status": {
+			"message": "If you'd like to rejoin the Biobank, talk to your research coordinator.",
+			"title": "You are no longer participating in the Biobank."
+		}
+	},
+	"participant": {
+		"id": "Participant ID",
+		"since": "Participant since"
+	},
+	"pluralizer": "s",
+	"welcome": "Welcome"
+}

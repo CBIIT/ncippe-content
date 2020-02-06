@@ -1,0 +1,34 @@
+{
+	"cards": {
+		"biomarker": {
+			"description": "Vea los informes de sus pruebas de biomarcadores.",
+			"link": "Ver los informes",
+			"title": "Informes de biomarcadores"
+		},
+		"consent": {
+			"description": "Revise el formulario que firmó cuando acordó participar en el Biobanco.",
+			"link": "Ver formularios",
+			"title": "Formulario de consentimiento"
+		},
+		"help": {
+			"description": "Aprenda sobre cómo cambiar su participación en el Biobanco.",
+			"link": "aprende más",
+			"title": "Consigue ayuda"
+		},
+		"notifications": {
+			"description": "Tienes {{count}} notificación nueva{{s}}",
+			"link": "revisión",
+			"title": "Notificaciones"
+		},
+		"settings": {
+			"description": "Actualice su información de contacto o cambie cómo participa en el Biobanco.",
+			"link": "Actualizar cuenta",
+			"title": "Configuraciones de la cuenta"
+		}
+	},
+	"metaData": {
+		"title": "Tablero de instrumentos | Biobanco Moonshot de cáncer"
+	},
+	"pageTitle": "Bienvenido",
+	"subtitle": "Gracias por unirse al Biobanco Cancer Moonshot<sup>SM</sup> "
+}
