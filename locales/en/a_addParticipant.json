@@ -13,7 +13,14 @@
 			}
 		},
 		"firstName": "First name",
-		"lastName": "Last name"
+		"lang": {
+			"error": "You must complete this field",
+			"helper_text": "The participant will be able to update their preferences in their Account Settings.",
+			"label": "What language does the participant prefer to use?"
+		},
+		"lastName": "Last name",
+		"save": "Save and continue",
+		"submit": "Activate account"
 	},
 	"progress": "Uploading file...",
 	"stepper": {
@@ -22,6 +29,9 @@
 		},
 		"1": {
 			"label": "Upload consent form"
+		},
+		"2": {
+			"label": "Set language preference"
 		}
 	},
 	"subtitle": "This will let the participant create their Biobank account to access their program information.",

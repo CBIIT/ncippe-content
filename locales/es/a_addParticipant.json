@@ -13,7 +13,14 @@
 			}
 		},
 		"firstName": "Nombre de pila",
-		"lastName": "Apellido"
+		"lang": {
+			"error": "Debes completar este campo",
+			"helper_text": "El participante podrá actualizar sus preferencias en la Configuración de su cuenta.",
+			"label": "¿Qué idioma prefiere usar el participante?"
+		},
+		"lastName": "Apellido",
+		"save": "Guardar y continuar",
+		"submit": "Activar la cuenta"
 	},
 	"progress": "Subiendo archivo ...",
 	"stepper": {
@@ -22,6 +29,9 @@
 		},
 		"1": {
 			"label": "Subir formulario de consentimiento"
+		},
+		"2": {
+			"label": "Establecer preferencia de idioma"
 		}
 	},
 	"subtitle": "Esto permitirá que el participante cree su cuenta de Biobank para acceder a la información de su programa.",

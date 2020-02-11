@@ -6,11 +6,16 @@
 	},
 	"profile": {
 		"email": "Email",
+		"lang": {
+			"english": "English",
+			"spanish": "Español",
+			"title": "preferencia de idioma"
+		},
 		"notifications": {
 			"edit_label": "Enviar notificaciones por correo electrónico (recomendado)",
 			"label": "Notificaciones",
-			"off": "Apagado",
-			"on": "en",
+			"off": "apagado",
+			"on": "enciendo",
 			"title": "Configuración de las notificaciones"
 		},
 		"phone": {
