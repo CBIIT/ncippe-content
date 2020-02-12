@@ -6,6 +6,11 @@
 	},
 	"profile": {
 		"email": "Email",
+		"lang": {
+			"english": "English",
+			"spanish": "Español",
+			"title": "Language preference"
+		},
 		"notifications": {
 			"edit_label": "Send email notifications (recommended)",
 			"label": "Notifications",

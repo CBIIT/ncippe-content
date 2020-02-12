@@ -7,18 +7,33 @@
 			"file": "you must upload a file",
 			"firstName": "Please enter a first name",
 			"lastName": "Please enter a last name",
-			"submit": {
+			"noFile": {
+				"message": "You must select a consent file to upload in order to complete activation.",
+				"title": "No file selected"
+			},
+			"updateUser": {
+				"message": "We're sorry, something went wrong. If this problem persists, contact your system administrator.",
+				"title": "Unable to update participant information"
+			},
+			"uploadFile": {
 				"message": "We're sorry, something went wrong. Please try to upload this report again. If this problem persists, contact your system administrator.",
-				"title": "Report failed to upload"
+				"title": "Consent form failed to upload"
 			}
 		},
 		"firstName": "First name",
-		"lastName": "Last name"
+		"lang": {
+			"error": "You must complete this field",
+			"helper_text": "The participant will be able to update their preferences in their Account Settings.",
+			"label": "What language does the participant prefer to use?"
+		},
+		"lastName": "Last name",
+		"save": "Save and continue",
+		"submit": "Activate account"
 	},
 	"progress": "Uploading file...",
 	"stepper": {
 		"0": {
-			"label": "Participant name and email"
+			"label": "Participant information"
 		},
 		"1": {
 			"label": "Upload consent form"

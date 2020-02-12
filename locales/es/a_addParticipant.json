@@ -7,13 +7,28 @@
 			"file": "debes subir un archivo",
 			"firstName": "Por favor ingrese un nombre",
 			"lastName": "Por favor ingrese un apellido",
-			"submit": {
+			"noFile": {
+				"message": "Debe seleccionar un archivo de consentimiento para cargar para completar la activación.",
+				"title": "Ningún archivo seleccionado"
+			},
+			"updateUser": {
+				"message": "Lo sentimos. Algo salió mal. Si este problema persiste, comuníquese con el administrador del sistema.",
+				"title": "No se puede actualizar la información del participante"
+			},
+			"uploadFile": {
 				"message": "Lo sentimos. Algo salió mal. Intenta subir este informe nuevamente. Si este problema persiste, comuníquese con el administrador del sistema.",
-				"title": "El informe no se pudo cargar"
+				"title": "No se pudo cargar el formulario de consentimiento"
 			}
 		},
 		"firstName": "Nombre de pila",
-		"lastName": "Apellido"
+		"lang": {
+			"error": "Debes completar este campo",
+			"helper_text": "El participante podrá actualizar sus preferencias en la Configuración de su cuenta.",
+			"label": "¿Qué idioma prefiere usar el participante?"
+		},
+		"lastName": "Apellido",
+		"save": "Guardar y continuar",
+		"submit": "Activar la cuenta"
 	},
 	"progress": "Subiendo archivo ...",
 	"stepper": {
