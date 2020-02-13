@@ -24,6 +24,9 @@
 	"components": {
 		"biomarkerView": {
 			"description": "Descargue y guarde su informe de biomarcadores en sus registros. También se ha enviado una copia a su proveedor.",
+			"metaData": {
+				"title": "Informes de biomarcadores | Cuenta | Biobanco Moonshot de cáncer"
+			},
 			"no_results": {
 				"admin": "No hay informes disponibles<br /> para este participante.",
 				"participant": "No tiene informes<br/> en este momento."
@@ -32,6 +35,9 @@
 		},
 		"consentView": {
 			"description": "Cuando se inscribió en el programa Biobank, firmó al menos un formulario de consentimiento. Descargue y guarde este formulario en sus registros.",
+			"metaData": {
+				"title": "Formularios de consentimiento | Cuenta | Biobanco Moonshot de cáncer"
+			},
 			"no_results": {
 				"admin": "No hay formularios de consentimiento disponibles<br/> para este participante.",
 				"participant": "No tiene formularios<br/> en este momento."
@@ -46,6 +52,9 @@
 			"last_modified": "Última modificación"
 		},
 		"notificationView": {
+			"metaData": {
+				"title": "Notificaciones | Cuenta | Biobanco Moonshot de cáncer"
+			},
 			"no_results": "No tienes ninguna notificación.",
 			"pageTitle": "Tienes {{count}} notificación{{s}}"
 		},
@@ -54,6 +63,9 @@
 			"title": "Sus participantes"
 		},
 		"participantView": {
+			"metaData": {
+				"title": "Perfil del participante | Cuenta | Biobanco Moonshot de cáncer"
+			},
 			"status": {
 				"added": {
 					"message": "Este participante ahora puede activar su cuenta de Biobank en línea. Puede agregar formularios de consentimiento adicionales en las acciones de la cuenta.",

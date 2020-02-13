@@ -4,6 +4,9 @@
 		"doctor": "Doctor",
 		"title": "Your Biobank contacts"
 	},
+	"metaData": {
+		"title": "Account settings | Account | Cancer Moonshot Biobank"
+	},
 	"profile": {
 		"email": "Email",
 		"lang": {
