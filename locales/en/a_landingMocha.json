@@ -1,5 +1,8 @@
 {
 	"description": "Once you upload a report, you will associate it with a participant. At that point, the participant, their providers, and their research coordinators will be able to view and download the report.Enter the ID of the participant associated with this report.",
+	"metaData": {
+		"title": "Biomarker report upload | Cancer Moonshot Biobank"
+	},
 	"pageTitle": "Upload Biomarker test reports",
 	"stepper": {
 		"0": {

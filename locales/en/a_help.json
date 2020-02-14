@@ -1,5 +1,8 @@
 {
 	"description": "If you have additional questions about the Biobank or your participation, contact your research coordinator.",
+	"metaData": {
+		"title": "Get help | Account | Cancer Moonshot Biobank"
+	},
 	"pageTitle": "Get help",
 	"sections": {
 		"0": {

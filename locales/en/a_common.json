@@ -24,6 +24,9 @@
 	"components": {
 		"biomarkerView": {
 			"description": "Please download and save your biomarker report in your records. A copy has also been sent to your provider.",
+			"metaData": {
+				"title": "Biomarker reports | Account | Cancer Moonshot Biobank"
+			},
 			"no_results": {
 				"admin": "No reports available<br /> for this participant.",
 				"participant": "You have no reports<br/> at this time."
@@ -32,6 +35,9 @@
 		},
 		"consentView": {
 			"description": "When you signed up for the Biobank program, you signed at least one consent form. Please download and save this form in your records.",
+			"metaData": {
+				"title": "Consent forms | Account | Cancer Moonshot Biobank"
+			},
 			"no_results": {
 				"admin": "No consent forms available<br/> for this participant.",
 				"participant": "You have no forms<br/> at this time."
@@ -46,6 +52,9 @@
 			"last_modified": "Last modified"
 		},
 		"notificationView": {
+			"metaData": {
+				"title": "Notifications | Account | Cancer Moonshot Biobank"
+			},
 			"no_results": "You do not have any notifications.",
 			"pageTitle": "You have {{count}} notification{{s}}"
 		},
@@ -54,6 +63,9 @@
 			"title": "Your Participants"
 		},
 		"participantView": {
+			"metaData": {
+				"title": "Participant profile | Account | Cancer Moonshot Biobank"
+			},
 			"status": {
 				"added": {
 					"message": "This participant can now activate their online Biobank account. You can add additional consent forms under account actions.",
