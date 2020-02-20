@@ -1,6 +1,6 @@
 {
 	"close": {
-		"body": "<p>You may choose to close your online Biobank account at any time. You can close your online account, but still participate in the Biobank.</p><div>After you close your online account:<ul className='bulletList bulletList--spreadOut'><li>You won't be able to access your consent form or biomarker reports. Please ask your research coordinator if you want copies of the form or the report. </li><li>Your login.gov account will remain active. You can use this account to access other government services.</li><li>NCI will keep any data stored in the Biobank website (such as your usage history, notifications, biomarker reports, and consent form). If you wish to permanently delete this data, please contact your research coordinator.</li></ul><p>Once you close your account, you will have to contact your clinical research coordinator to re-open it.</p></div>",
+		"body": "<p>You may choose to close your online Biobank account at any time. You can close your online account, but still participate in the Biobank.</p><div>After you close your online account:<ul className='bulletList bulletList--spreadOut'><li>You won't be able to access your consent form or biomarker reports. Please ask your research coordinator if you want copies of the form or the report. </li><li>Your login.gov account will remain active. You can use this account to access other government services.</li><li>NCI will keep any data stored in the Biobank website (such as your usage history, notifications, biomarker reports, and consent form). If you wish to permanently delete this data, please contact your research coordinator.</li></ul><p>Once you close your account, you will have to contact your research coordinator to re-open it.</p></div>",
 		"crc_card_title": "Your Research Coordinator",
 		"pageTitle": "Close your online account",
 		"submit": "Close online account"
@@ -18,7 +18,7 @@
 	"leave": {
 		"0": {
 			"body": "<p>You have the right to stop participating and leave the Biobank program when you want to.</p><p>You have a few choices for how we'll use samples and information we've already collected. The next section will walk you through these choices. If you have questions, please contact your research coordinator.</p>",
-			"pageTitle": "Leave the Biobank project",
+			"pageTitle": "Leave the Biobank",
 			"submit": "I understand",
 			"subtitle": "We're sorry to see you go."
 		},
@@ -84,7 +84,7 @@
 		},
 		"2": {
 			"body": {
-				"admin": "The participant will need to speak to their doctor if they'd like to rejoin in the future.",
+				"admin": "The participant will need to speak to their research coordinator if they want to rejoin in the future.",
 				"participant": "You'll need to talk to your research coordinator if you'd like to rejoin in the future."
 			},
 			"modalTitle": {
