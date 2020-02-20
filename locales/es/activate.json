@@ -54,22 +54,22 @@
 			"link": "Cree una cuenta login.gov",
 			"security_options": {
 				"0": {
-					"alt_text": "icono de tarjeta",
+					"alt_text": "icono de teléfono celular",
 					"description": "Reciba un código por mensaje de texto (SMS) o llamada telefónica.",
 					"label": "Teléfono"
 				},
 				"1": {
-					"alt_text": "icono de tarjeta",
+					"alt_text": "icono de la aplicación de autenticación",
 					"description": "Reciba un código seguro a través de una aplicación de autenticación (como Google Authenticator o Microsoft Authenticator).",
 					"label": "Aplicación de autenticación"
 				},
 				"2": {
-					"alt_text": "icono de tarjeta",
+					"alt_text": "Icono de llave de seguridad USB",
 					"description": "Conecte una llave USB para acceder a su cuenta.",
 					"label": "Clave de seguridad"
 				},
 				"3": {
-					"alt_text": "icono de tarjeta",
+					"alt_text": "icono de laptop",
 					"description": "Le damos un conjunto de 10 códigos que puede usar cuando inicie sesión. Si selecciona esta opción, asegúrese de guardar sus códigos en un lugar seguro.",
 					"label": "Códigos de respaldo"
 				}
