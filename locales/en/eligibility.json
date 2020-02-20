@@ -1,9 +1,9 @@
 {
 	"introText": "The Cancer Moonshot<sup>SM</sup> Biobank will start out by collecting samples from patients with specific types of cancer, who are being treated at participating hospitals. Other cancer types and more hospitals may be added in future phases of the Biobank program.",
 	"metaData": {
-		"OG_description": "To start, the Cancer Moonshot Biobank is working with specific hospitals across the country to find participants with certain kinds of cancer.",
+		"OG_description": "The Cancer Moonshot Biobank is working with specific NCORP sites across the country to enroll participants with various types of cancer.",
 		"OG_title": "Eligibility and locations | Cancer Moonshot Biobank",
-		"description": "To start, the Cancer Moonshot Biobank is working with specific hospitals across the country to find participants with certain kinds of cancer.",
+		"description": "The Cancer Moonshot Biobank is working with specific NCORP sites across the country to enroll participants with various types of cancer.",
 		"title": "Eligibility and locations | Cancer Moonshot Biobank"
 	},
 	"pageRoute": "/about/eligibility",
