@@ -2,6 +2,10 @@
 	"close": {
 		"body": "<p>Puede optar por cerrar su cuenta de Biobank en línea en cualquier momento. Puede cerrar su cuenta en línea, pero aun así participar en el Biobanco.</p><div>Después de cerrar su cuenta en línea:<ul className='bulletList bulletList--spreadOut'><li>No podrá acceder a su formulario de consentimiento o informes de biomarcadores. Pregúntele a su coordinador de investigación si desea copias del formulario o el informe. </li><li>Su cuenta login.gov permanecerá activa. Puede usar esta cuenta para acceder a otros servicios gubernamentales.</li><li>NCI mantendrá todos los datos almacenados en el sitio web de Biobank (como su historial de uso, notificaciones, informes de biomarcadores y formulario de consentimiento). Si desea eliminar permanentemente estos datos, comuníquese con su coordinador de investigación.</li></ul><p>Una vez que cierre su cuenta, deberá comunicarse con su coordinador de investigación para volver a abrirla.</p></div>",
 		"crc_card_title": "Su coordinador de investigación",
+		"error": {
+			"message": "No se puede cerrar la cuenta.",
+			"title": "Error del servidor"
+		},
 		"pageTitle": "Cierra tu cuenta en línea",
 		"submit": "Cerrar cuenta en línea"
 	},
