@@ -1,4 +1,7 @@
 {
+	"alt_text": {
+		"0": "médico revisando información con el paciente"
+	},
 	"form_link_adult": "Formulario de consentimiento para adultos",
 	"form_link_minors": "Formulario de consentimiento para menores",
 	"form_link_parental": "Formulario de consentimiento de los padres",
