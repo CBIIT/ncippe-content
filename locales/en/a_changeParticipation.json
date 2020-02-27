@@ -10,7 +10,7 @@
 		"submit": "Close online account"
 	},
 	"landing": {
-		"body": "<p>You may stop participating in the Biobank at any time. You can close your online Biobank account but keep participating in the Biobank.</p><p><a href='/dashboard/help'>Learn more about the difference between closing your online account and leaving the Biobank.</a></p>",
+		"body": "<p>You may stop participating in the Biobank at any time. You can close your online Biobank account but keep participating in the Biobank.</p><p><a href='/account/help'>Learn more about the difference between closing your online account and leaving the Biobank.</a></p>",
 		"form": {
 			"close": "Close online account",
 			"error": "You must complete this field",
