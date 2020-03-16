@@ -10,7 +10,7 @@
 		"submit": "Cerrar cuenta en línea"
 	},
 	"landing": {
-		"body": "<p>Puede dejar de participar en el Biobanco en cualquier momento. Puede cerrar su cuenta de Biobank en línea pero seguir participando en el Biobank.</p><p><a href='/account/help'>Obtenga más información sobre la diferencia entre cerrar su cuenta en línea y abandonar Biobank.</a></p>",
+		"body": "<p>Puede dejar de participar en el Biobanco en cualquier momento. Puede cerrar su cuenta de Biobank en línea pero seguir participando en el Biobank.</p><p><a data-route href='/account/help'>Obtenga más información sobre la diferencia entre cerrar su cuenta en línea y abandonar Biobank.</a></p>",
 		"form": {
 			"close": "Cerrar cuenta en línea",
 			"error": "Debes completar este campo",
