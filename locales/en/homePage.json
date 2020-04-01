@@ -1,7 +1,7 @@
 {
 	"hero": {
 		"subtitle": "Help change the future of cancer treatments.",
-		"subtitle_mobile": "Help change the future <br /> of cancer treatment.",
+		"subtitle_mobile": "Help change the future <br />of cancer treatment.",
 		"title": "The Cancer Moonshot<sup>SM</sup> Biobank"
 	},
 	"how_it_works": {
@@ -32,7 +32,7 @@
 		"title": "Cancer Moonshot Biobank | National Cancer Institute"
 	},
 	"mission": {
-		"body": "The Cancer Moonshot<sup>SM</sup> Biobank is a 5-year project to learn more about cancer with the help of participants who donate samples as they receive treatment.",
+		"body": "The Cancer Moonshot Biobank is a 5-year project to learn more about cancer with the help of participants who donate samples as they receive treatment.",
 		"link": "What to expect if you participate",
 		"title": "Our mission"
 	},

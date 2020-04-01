@@ -3,25 +3,25 @@
 		"0": "doctor y paciente",
 		"1": "tubos de ensayo"
 	},
-	"body": "<h3> Muestras de sangre </h3> El personal del hospital extraerá unos tubos de sangre adicionales para el Biobanco durante su atención de rutina. <h3> Muestras de tejido </h3> Su médico recolectará muestras adicionales para el Biobanco durante una biopsia de rutina cuando sea posible. También es posible que su médico programe una biopsia solo para obtener tejido para el Biobanco. <h3> Información médica </h3> <p> Recopilaremos información de su registro médico, como su diagnóstico y tratamientos anteriores. Su información permanecerá segura. Obtenga más información sobre <a data-route href='/participation/privacy'> privacidad y el Biobanco </a>. </p> <p> Muchos factores pueden influir en si alguien contrae cáncer y cómo responde al tratamiento. Los investigadores utilizarán su información médica junto con sus muestras para realizar investigaciones que puedan ayudarlos a comprender mejor cómo tratar el cáncer. </p>",
+	"body": "<h3>Muestras de sangre</h3>El personal hospitalario le extraerá unos cuantos tubos de sangre adicionales para el Biobanco durante su atención habitual.<h3>Muestras de tejido</h3>Su médico obtendrá muestras adicionales para el Biobanco durante una biopsia habitual siempre que se pueda. También es posible que el médico programe una biopsia solo con el fin de obtener tejido para el Biobanco.<h3>Información médica</h3><p>Obtendremos información de su historia clínica, como el diagnóstico y los tratamientos anteriores. Se protegerá su información. <a data-route href='/participation/privacy'> Obtenga más información sobre la privacidad y el Biobanco</a>.</p><p>Hay muchas cosas que pueden influir en que alguien llegue a tener cáncer y en cómo responde al tratamiento. Los investigadores usarán sus muestras e información médica para realizar investigaciones que los puedan ayudar a entender mejor cómo tratar el cáncer.</p>",
 	"faqs": {
 		"0": {
-			"answer": "No compartiremos su nombre ni ninguna otra información que lo identifique con los investigadores. Solo el personal del programa Biobank en su hospital lo contactará directamente si hay preguntas sobre su participación.",
-			"question": "¿Los investigadores me contactarán directamente?"
+			"answer": "No les comunicaremos a los investigadores ni su nombre ni ninguna otra información que lo pueda identificar. Solo el personal del programa del Biobanco en su hospital lo contactará directamente si hay preguntas sobre su participación.",
+			"question": "¿Me contactarán directamente los investigadores?"
 		},
 		"1": {
-			"answer": "Compartiremos actualizaciones sobre la investigación realizada con la ayuda de muestras de Biobank. No podemos decirle si se usaron sus muestras particulares, porque las muestras no tendrán su nombre ni ninguna otra información que lo identifique en ellas para proteger su privacidad.",
-			"question": "¿Me dirán algo sobre la investigación realizada en mis muestras?"
+			"answer": "Comunicaremos información actualizada sobre las investigaciones realizadas con la ayuda de las muestras del Biobanco. No podremos decirle si se usaron sus muestras en específico, porque estas no incluirán ni su nombre ni ninguna otra información que lo pueda identificar para proteger su privacidad.",
+			"question": "¿Me dirán algo sobre las investigaciones realizadas con mis muestras?"
 		}
 	},
-	"faqs_title": "Preguntas frecuentes sobre la muestra de donación",
-	"intro_text": "Después de que usted y su médico discutan sobre el Biobanco y decidan que les gustaría participar, se les dará un formulario de consentimiento para revisar y firmar. La participación en el Biobanco es voluntaria y la decisión de no participar no afectará su atención. También puede abandonar el programa en cualquier momento.",
+	"faqs_title": "Preguntas frecuentes sobre la donación de muestras",
+	"intro_text": "Durante el trascurso de su tratamiento, donará muestras de sangre y tejido. Esas muestras se guardarán de manera segura en el Biobanco hasta que se distribuyan a investigadores.",
 	"metaData": {
-		"OG_description": "Durante el curso de su tratamiento, donará muestras de sangre y tejido. Esas muestras se almacenarán de forma segura en el Biobanco hasta que se compartan con los investigadores.",
+		"OG_description": "Durante el trascurso de su tratamiento, donará muestras de sangre y tejido. Esas muestras se guardarán de manera segura en el Biobanco hasta que se distribuyan a investigadores.",
 		"OG_title": "Qué esperar - donando muestras | Biobanco Moonshot de cáncer",
-		"description": "Durante el curso de su tratamiento, donará muestras de sangre y tejido. Esas muestras se almacenarán de forma segura en el Biobanco hasta que se compartan con los investigadores.",
+		"description": "Durante el trascurso de su tratamiento, donará muestras de sangre y tejido. Esas muestras se guardarán de manera segura en el Biobanco hasta que se distribuyan a investigadores.",
 		"title": "Qué esperar - donando muestras | Biobanco Moonshot de cáncer"
 	},
 	"pageRoute": "/expect/donate",
-	"pageTitle": "Done muestras"
+	"pageTitle": "Qué puede esperar si se inscribe en el Biobanco"
 }

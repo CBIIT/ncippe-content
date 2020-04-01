@@ -3,9 +3,9 @@
 		"0": "médico revisando información con el paciente"
 	},
 	"form_link_adult": "Formulario de consentimiento para adultos",
-	"form_link_minors": "Formulario de consentimiento para menores",
-	"form_link_parental": "Formulario de consentimiento de los padres",
-	"intro_text": "<p>Después de que usted y su médico analicen el Biobanco y decidan que desean participar, se les dará un formulario de consentimiento para revisar y firmar. </p> <p> La participación en el Biobanco es voluntaria y decide No participar no afectará su atención. También puede abandonar el programa en cualquier momento. </p>",
+	"form_link_minors": "Formulario de asentimiento para menores de edad",
+	"form_link_parental": "Formulario de autorización de padres",
+	"intro_text": "<p>Después de que usted y el médico conversen sobre el Biobanco y usted decida que le gustaría participar, se le dará un formulario de consentimiento para que lo lea con atención y lo firme.</p><p>La participación en el Biobanco es voluntaria, y la decisión de no participar no afectará su atención. También puede salirse del programa en cualquier momento.</p>",
 	"link": "Revisar una muestra de formulario de consentimiento para adultos",
 	"metaData": {
 		"OG_description": "Después de que usted y su médico discutan sobre el Biobanco y decidan que desean unirse, se les dará un formulario de consentimiento para revisar y firmar.",
@@ -14,8 +14,8 @@
 		"title": "Qué esperar: dar consentimiento | Biobanco Moonshot de cáncer"
 	},
 	"pageRoute": "/expect/consent",
-	"pageTitle": "Dar su consentimiento",
-	"sample_title": "Ejemplos de formularios de consentimiento",
-	"video_caption": "Verá este video como parte del proceso de consentimiento informado",
+	"pageTitle": "Qué puede esperar si se inscribe en el Biobanco",
+	"sample_title": "Ejemplos de formularios de consentimiento para el participante",
+	"video_caption": "Verá este video como parte del proceso de consentimiento informado.",
 	"video_title": "Un diálogo Sobre Disparidades, Prevención e Investigación del Cáncer: Facebook Live"
 }

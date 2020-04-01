@@ -1,32 +1,32 @@
 {
 	"faqs": {
 		"0": {
-			"answer": "Un biomarcador es una molécula biológica que se encuentra en la sangre, los tejidos u otros fluidos corporales. Se puede usar para indicar una enfermedad o como una forma de ver si el cuerpo está respondiendo al tratamiento.",
-			"question": "¿Qué es exactamente un biomarcador?"
+			"answer": "Un biomarcador es una molécula biológica que se encuentra en la sangre, los tejidos o en otros líquidos corporales. Se puede usar para indicar una enfermedad o como una manera de averiguar si el cuerpo está respondiendo al tratamiento.",
+			"question": "¿Qué es, exactamente, un biomarcador?"
 		},
 		"1": {
-			"answer": "Una prueba de biomarcadores solo analiza los genes en su cáncer. Es diferente de las pruebas genéticas, como las pruebas de ascendencia disponibles comercialmente o las pruebas de riesgo de cáncer que analizan los genes que heredó de sus padres.",
-			"question": "¿Una prueba de biomarcador es lo mismo que una prueba genética?"
+			"answer": "Con una prueba de biomarcadores solo se analizan los genes del tumor. Es diferente de las pruebas genéticas, como las de linaje que están a la venta, o de las pruebas de riesgo de cáncer con las que se analizan los genes que heredó de sus padres.",
+			"question": "¿Es una prueba de biomarcadores lo mismo que una prueba genética? "
 		},
 		"2": {
-			"answer": "<p>Usted, su médico y el coordinador de investigación obtendrán su informe de biomarcadores.</p><p>Una versión de su informe de biomarcadores sin ninguna información personal también se incluirá en el Biobanco para que los investigadores aprobados puedan ver los resultados.</p><p>El Biobank no compartirá los resultados de su prueba de biomarcadores con sus compañías de seguros o su empleador. <a href='/participation/privacy' data-route> Obtenga más información sobre cómo protegemos su privacidad.</a></p>",
-			"question": "¿Quién puede ver los resultados de mi prueba de biomarcadores?"
+			"answer": "<p>Usted, su médico y el coordinador de la investigación recibirán su informe de biomarcadores.</p><p>También se incluirá en el Biobanco una versión de su informe de biomarcadores sin ninguna información personal para que los investigadores autorizados puedan consultar los resultados.</p><p>El Biobanco no comunicará los resultados de su prueba de biomarcadoresa las compañías de seguros ni a su empleador. <a href='/participation/privacy' data-route>Obtenga más información sobre cómo protegemos su privacidad</a></p>",
+			"question": "¿Quién recibirálos resultados de mi prueba de biomarcadores?"
 		},
 		"3": {
-			"answer": "No, la prueba de biomarcadores no tiene ningún costo.",
-			"question": "¿Tendré que pagar para obtener el examen?"
+			"answer": "No, no se le cobrará nada por la prueba de biomarcadores.",
+			"question": "¿Me costará algo hacerme la prueba?"
 		},
 		"4": {
-			"answer": "<p>Si tiene un cáncer en un tejido sólido, entonces el Laboratorio de Caracterización Molecular (MoCha) del Frederick National Laboratory for Cancer Research realizará la prueba de biomarcadores en su muestra de tejido.</p><p>Si tiene un cáncer de sangre y luego Foundation Medicine, Inc. (FMI) realizará la prueba de biomarcadores en su muestra de sangre.</p>",
+			"answer": "<p>Si tiene cáncer en un tejido sólido, el Laboratorio de Caracterización Molecular (MoCha) del <a href='https://frederick.cancer.gov/' rel='noopener noreferrer' target='_blank'>Laboratorio Nacional Frederick de Investigación Oncológica</a> realizará la prueba de biomarcadores con su muestra de tejido.</p><p>Si tiene un cáncer de la sangre, <a href='https://www.foundationmedicine.com/' rel='noopener noreferrer' target='_blank'>Foundation Medicine, Inc. (FMI)</a> realizará la prueba de biomarcadores con su muestra sanguínea.</p>",
 			"question": "¿Quién hará la prueba de biomarcadores?"
 		},
 		"5": {
-			"answer": "Los resultados de su prueba de biomarcadores pueden ayudar a su médico a encontrar tratamientos más individualizados para su atención, como una terapia dirigida que funcione para su tipo de cáncer. Los resultados también pueden incluir información que muestre que usted podría calificar para otro estudio de investigación o un ensayo clínico. Es posible que la prueba de biomarcadores no cambie su plan de tratamiento si demuestra que su tratamiento actual es el mejor para usted.",
-			"question": "¿Pueden los resultados de mi prueba de biomarcadores cambiar mi plan de tratamiento?"
+			"answer": "Los resultados de la prueba de biomarcadores pueden ayudar a que su médico encuentre tratamientos más individualizados para su atención, como una terapia dirigida que funcione para el tipo de cáncer que padezca. Es probable que los resultados también incluyan información que muestre que usted podría calificar para otro estudio de investigación o un estudio clínico. Es posible que la prueba de biomarcadores no cambie su plan de tratamiento en lo absoluto si indica que su tratamiento actual es el mejor para usted. ",
+			"question": "¿Puede cambiar mi plan de tratamiento según los resultados de mi prueba de biomarcadores?"
 		}
 	},
-	"faqs_title": "Preguntas frecuentes sobre pruebas de biomarcadores",
-	"intro_text": "<p>Su cáncer es exclusivo para usted.</p><p>Después de donar muestras de sangre y tejidos al Biobanco, realizaremos una prueba de biomarcadores en sus muestras. Es posible que su médico pueda usar el informe para crear un plan de tratamiento más personalizado para usted.</p>",
+	"faqs_title": "Preguntas frecuentes sobre las pruebas de biomarcadores",
+	"intro_text": "<p>El cáncer de cada personaes único.</p><p>Después de que done las muestras de sangre y tejido al Biobanco, haremos una prueba de biomarcadores con estas. Su médico tal vez pueda usar el informe para crear un plan de tratamiento más personalizado para usted.</p>",
 	"metaData": {
 		"OG_description": "El Biobank realizará una prueba de biomarcadores tumorales en tu muestra de tumor donada. Esto puede ayudar a su médico a comprender mejor cómo tratar su cáncer o ayudarlo a encontrar opciones de ensayos clínicos.",
 		"OG_title": "Qué esperar: hacerse una prueba de biomarcadores | Biobanco Moonshot de cáncer",
@@ -38,51 +38,51 @@
 	"sections": {
 		"0": {
 			"alt_text": "doctor y microscopio",
-			"body": "<h3>Prueba de biomarcadores</h3>Una prueba de biomarcadores analiza específicamente los errores genéticos y otros cambios en su cáncer. No proporciona información sobre los genes con los que nació. Este tipo de prueba también puede denominarse perfil tumoral, perfil genómico, prueba molecular, secuenciación de ADN tumoral o prueba de cáncer genómico."
+			"body": "<h3>Prueba de biomarcadores</h3><p>Con la prueba de biomarcadores se analizan específicamente los errores genéticos y otros cambios en su cáncer. La prueba no ofrece información sobre los genes con los que nació.</p><p>A las pruebas de biomarcadores también se les conoce como identificación tumoral, identificación genómica, pruebas moleculares, secuenciación del ADN de tumores o pruebas genómicas oncológicas.</p>"
 		},
 		"1": {
-			"body": "La prueba de biomarcadores implica tres pasos:",
+			"body": "La prueba de biomarcadores incluye tres pasos:",
 			"stepper": {
 				"0": {
-					"description": "El Biobank enviará su muestra de sangre o tejido donada a un laboratorio.",
-					"label": "Compartir"
+					"description": "El personal del Biobanco enviará su muestra donada de sangre o tejido a un laboratorio.",
+					"label": "Distribuir"
 				},
 				"1": {
-					"description": "El laboratorio analizará la muestra para detectar ciertos cambios genéticos o biomarcadores. Estos biomarcadores pueden ayudar a sugerir las terapias específicas, las inmunoterapias o los ensayos clínicos que podrían ser adecuados para usted.",
+					"description": "En el laboratorio se analizará la muestra para detectar ciertos cambios genéticos o biomarcadores. Estos pueden ayudar a indicar las terapias dirigidas, las inmunoterapias o los estudios clínicos que puedan ser los adecuados para usted.",
 					"label": "Analizar"
 				},
 				"2": {
-					"description": "Su informe estará disponible para que lo descargue a través de su cuenta de Biobank. También se enviará a su médico para que puedan analizar los resultados juntos.",
-					"label": "Reporte"
+					"description": "Su informe estará disponible para que lo descargue desde su cuenta de Biobanco en línea (por Internet). También se le enviará a su médico para que puedan conversar sobre los resultados.",
+					"label": "Proporcionar un informe"
 				}
 			},
-			"title": "¿Cómo se realiza el examen?"
+			"title": "¿Cómo se realiza la prueba?"
 		},
 		"2": {
 			"samples": {
 				"0": {
 					"alt_text": "Muestra de página de informe de prueba de tumor sólido",
-					"link": "Ver informe de muestra completo",
-					"title": "Informes de prueba de tumor sólido",
+					"link": "Vea el ejemplo de un informe completo",
+					"title": "Informes de pruebas de tumores sólidos",
 					"title_aria": "Ver un informe de prueba de tumor sólido Archivo de muestra PDF"
 				},
 				"1": {
 					"alt_text": "Muestra de página de informe de prueba de cáncer de sangre",
 					"link": "Ver informe de muestra completo",
-					"title": "Informes de prueba de cáncer de sangre",
+					"title": "Informes de pruebas de cáncer de la sangre",
 					"title_aria": "Ver un informe de prueba de cáncer de sangre Archivo de muestra en PDF"
 				}
 			},
-			"title": "Reporte de muestra"
+			"title": "Ejemplos de informes"
 		},
 		"3": {
 			"alt_text": "trabajando en la computadora portátil",
 			"links": {
-				"0": "Secuenciación de DNA tumoral",
-				"1": "Recursos para profesionales de la salud y educadores.",
-				"2": "Servicio de Información Sobre el Cáncer del NCI"
+				"0": "Secuenciación del ADN de tumores",
+				"1": "Recursos para profesionales e instructores del campo médico",
+				"2": "Servicio de Información de Cáncer del NCI"
 			},
-			"title": "¿Dónde puedo aprender más?"
+			"title": "¿Dónde puedo obtener más información?"
 		}
 	}
 }

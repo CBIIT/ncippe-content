@@ -4,8 +4,8 @@
 	},
 	"buttons": {
 		"close": "Cerrar",
-		"collapse": "Desplegar todo",
-		"expand": "",
+		"collapse": "Contraer todo",
+		"expand": "Expandir todo",
 		"search": "Buscar",
 		"sign_in": "Registrarse",
 		"sign_out": "Desconectar",
@@ -15,51 +15,51 @@
 		"links": {
 			"CIS": "Servicios de Información Sobre el Cáncer",
 			"accessibility": "Accesibilidad",
-			"bio": "Subdirección de Biorepositorios y Bioespecificaciones",
-			"disclaimer": "Política de Descargo de Responsabilidad",
+			"bio": "División de Biodepósitos e Investigaciones con Muestras Biológicas",
+			"disclaimer": "Política de exención de responsabilidad",
 			"email": "moonshotbiobank@nih.gov",
-			"foia": "FOIA",
-			"hhs": "Departamento de Salud y Servicios Humanos de U.S.",
+			"foia": "Ley de libre acceso a la información (FOIA)",
+			"hhs": "Departamento de Salud y Servicios Humanos de EE. UU.",
 			"nci": "Instituto Nacional del Cáncer",
-			"nih": "Institutos Nacionales de Salud",
+			"nih": "Institutos Nacionales de la Salud",
 			"phone": "(202) 222 - 2222",
-			"policy_title": "Información de la Política",
-			"privacy": "Política de Privacidad",
+			"policy_title": "POLÍTICAS DEL SITIO WEB",
+			"privacy": "Política de privacidad",
 			"resources_title": "Más Recursos",
 			"usa": "USA.gov"
 		},
 		"logo": {
 			"alt_text": "Logotipo de NCI",
 			"heading": "Instituto Nacional del Cáncer",
-			"subheading": "en los Institutos Nacionales de Salud",
+			"subheading": "en los Institutos Nacionales de la Salud",
 			"title": "NIH | Instituto Nacional del Cáncer"
 		},
-		"tagline": "NIH ... Convirtiendo el Descubrimiento en Salud ®"
+		"tagline": "NIH ... Transformación de Descubrimientos en Salud ®"
 	},
 	"links": {
 		"language_toggle": "View in English"
 	},
 	"logo": {
-		"alt_text": "Logotipo del NCI Cáncer Moonshot Biobanco",
-		"title": "NCI Cáncer Moonshot Biobanco"
+		"alt_text": "Logotipo del NCI Cancer Moonshot Biobank",
+		"title": "NCI Cancer Moonshot Biobank"
 	},
 	"metaData": {
-		"site_name": "Biobanco Moonshot de Cáncer",
-		"twitter_image_alt": "Biobanco Moonshot de Cáncer - Ayuda a cambiar el futuro del tratamiento del cáncer"
+		"site_name": "Cancer Moonshot Biobank",
+		"twitter_image_alt": "Cancer Moonshot Biobank - Ayuda a cambiar el futuro del tratamiento del cáncer"
 	},
 	"nav": {
-		"about": "Sobre el Biobanco",
-		"activate": "Activa tu cuenta",
+		"about": "Acerca del Biobanco",
+		"activate": "Active su cuenta",
 		"consent": "Dar su consentimiento",
-		"donate": "Done muestras",
-		"eligibility": "Elegibilidad y ubicaciones",
-		"privacy": "Protegiendo tu privacidad",
-		"research": "Biobanking impulsa la investigación",
-		"testing": "Hazte una prueba de biomarcadores",
+		"donate": "Donar muestras",
+		"eligibility": "Idoneidad para participar y ubicaciones",
+		"privacy": "Protección de su privacidad",
+		"research": "Los biobancos impulsan la investigación",
+		"testing": "Hacerse una prueba de biomarcadores",
 		"topLevel": {
 			"about": "Acerca de",
-			"expect": "Que esperar",
-			"participation": "Tu participación"
+			"expect": "Qué puede esperar",
+			"participation": "Su participación"
 		}
 	},
 	"search": {

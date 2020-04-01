@@ -1,14 +1,14 @@
 {
 	"hero": {
-		"subtitle": "Ayuda a cambiar el futuro del tratamientos del cáncer.",
-		"subtitle_mobile": "Ayuda a cambiar el futuro <br /> del tratamiento del cáncer.",
-		"title": "El Biobanco Moonshot<sup>SM</sup> del Cáncer"
+		"subtitle": "Ayude a cambiar el futuro de los tratamientos del cáncer.",
+		"subtitle_mobile": "Ayude a cambiar el futuro <br />de los tratamientos del cáncer.",
+		"title": "The Cancer Moonshot<sup>SM</sup> Biobank"
 	},
 	"how_it_works": {
 		"cards": {
 			"0": {
 				"alt_text": "icono de paciente",
-				"body": "Las personas con cáncer donan muestras de sangre y tejidos durante su tratamiento, hasta por 5 años."
+				"body": "Las personas con cáncer donan muestras de sangre y tejido durante su tratamiento, por hasta 5años."
 			},
 			"1": {
 				"alt_text": "icono de tubos de ensayo múltiples",
@@ -16,11 +16,11 @@
 			},
 			"2": {
 				"alt_text": "icono de bombilla",
-				"body": "Los investigadores desarrollan ideas para evaluar en muchas muestras diferentes y avanzar en su comprensión del cáncer."
+				"body": "Los investigadores desarrollan ideas que ponen a prueba con muchas muestras distintas para mejorar su entendimiento del cáncer."
 			},
 			"3": {
 				"alt_text": "icono de avance",
-				"body": "Los investigadores trabajan para encontrar descubrimientos que mejoren los tratamientos contra el cáncer y aumenten la supervivencia."
+				"body": "Los investigadores trabajan para hacer descubrimientos que mejoren los tratamientos del cáncer y aumenten la supervivencia de los pacientes."
 			}
 		},
 		"title": "Cómo funciona"
@@ -32,7 +32,7 @@
 		"title": "Biobanco Moonshot contra el Cáncer | Instituto Nacional del Cáncer"
 	},
 	"mission": {
-		"body": "El Biobanco Cancer Moonshot<sup>SM</sup> es un proyecto de 5 años para aprender más sobre el cáncer con la ayuda de los participantes que donan muestras mientras reciben tratamiento.",
+		"body": "El Cancer Moonshot Biobank (Biobanco Oncológico Moonshot) es un proyecto de 5 años para aprender más sobre el cáncer con ayuda de participantes que donan muestras mientras reciben tratamiento.",
 		"link": "Que esperar si participas",
 		"title": "Nuestra misión"
 	},
@@ -45,25 +45,25 @@
 	"pageRoute": "/",
 	"pageTitle": "Página de Inicio",
 	"participate": {
-		"body": "Al unirse al Biobanco, usted será parte del descubrimiento de nuevas terapias contra el cáncer, ayudando a pacientes en todas partes.",
+		"body": "Al inscribirse en el Biobanco, usted puede formar parte del descubrimiento de nuevas terapias contra el cáncer y ayudar a pacientes de todo el mundo.",
 		"cards": {
 			"0": {
 				"alt_text": "médico revisando información con el paciente",
-				"body": "Los participantes reciben una prueba de biomarcadores, que puede ayudar a su médico a encontrar nuevos tratamientos o ensayos clínicos específicos para su cáncer individual. No hay cargo por la prueba.",
-				"link": "Aprenda sobre las pruebas de biomarcadores",
-				"title": "Las pruebas de biomarcadores le informan más sobre su cáncer."
+				"body": "A los participantes se les hace una prueba de biomarcadores, que puede ayudar al médico a encontrar otros tratamientos o estudios clínicos específicos de su cáncer individual. La prueba es gratuita.",
+				"link": "Obtenga más información sobre las pruebas de biomarcadores",
+				"title": "Las pruebas de biomarcadores le dan más información sobre su cáncer."
 			},
 			"1": {
 				"alt_text": "Amigos y familia",
-				"body": "Los tratamientos contra el cáncer no funcionan de la misma manera para todos&mdash;las muestras de muchas comunidades diferentes ayudarán a los investigadores a comprender por qué esto es así y cómo mejorar la atención del cáncer.",
+				"body": "Los tratamientos del cáncer no funcionan de la misma manera para todos, por lo tanto, las muestras de una gran variedad de comunidades nos ayudarán a entender el motivo de ello y cómo mejorar la atención médica del cáncer.",
 				"link": "",
-				"title": "Diversas poblaciones son importantes para la investigación."
+				"title": "La diversidad en la participación mejora la atención médica del cáncer."
 			},
 			"2": {
 				"alt_text": "Tubos de ensayo",
-				"body": "Al recolectar muestras a lo largo del tiempo, los investigadores pueden observar cómo cambia el cáncer y cómo detener su crecimiento y propagación.",
-				"link": "Aprende sobre la investigación",
-				"title": "Juntos podemos avanzar en nuestra comprensión del cáncer."
+				"body": "Al obtener muestras al paso del tiempo, los investigadores pueden observar cómo cambia el cáncer y aprender a cómo ponerle un alto a su proliferación y diseminación.",
+				"link": "Obtenga más información sobre las investigaciones",
+				"title": "Juntos podemos mejorar nuestro entendimiento del cáncer."
 			}
 		},
 		"title": "¿Por qué debería participar?"

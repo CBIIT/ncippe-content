@@ -6,16 +6,16 @@
 		"title": "El biobanco es importante para la investigación | Biobanco Moonshot de cáncer"
 	},
 	"pageRoute": "/about/research",
-	"pageTitle": "Biobanking impulsa la investigación",
+	"pageTitle": "Los biobancos son importantes para la investigación",
 	"sections": {
 		"0": {
 			"alt_text": "los investigadores comparten resultados",
-			"body": "<p>Las principales causas de muerte por cáncer son cuando la enfermedad se propaga o se vuelve resistente al tratamiento. Para comprender por qué sucede esto, los investigadores deben observar el tejido canceroso donado por los pacientes durante el transcurso de su tratamiento.</p><p>Este tipo de muestras han sido difíciles de obtener y &mdash; pero el Cancer Moonshot<sup>SM</ sup> Biobank quiere cambiar eso. Al donar sus muestras al Biobanco en el transcurso de su atención, durante hasta 5 años, los investigadores pueden estudiar cómo cambian los cánceres con el tiempo y cómo combatir los cánceres en etapas posteriores.</p>",
-			"title": "Es importante comprender cómo cambia el cáncer con el tiempo."
+			"body": "<p>Las causas principales de muerte por cáncer son cuando la enfermedad se disemina o se vuelve resistente al tratamiento. Para entender por qué sucede esto, los investigadores necesitan analizar el tejido canceroso que los pacientes donan durante el trascurso de su tratamiento.</p><p>Ha sido difícil obtener estos tipos de muestras, pero queremos cambiar eso con el Cancer Moonshot<sup>SM</sup> Biobank. Con las muestras que usted dona al Biobanco en el trascurso de su atención, por hasta 5 años, los investigadores pueden estudiar cómo los cánceres cambian con el tiempo, y cómo luchar contra los cánceres en estadios avanzados.</p>",
+			"title": "Necesitamos entender cómo el cáncer cambia con el tiempo."
 		},
 		"1": {
 			"alt_text": "investigadores en microscopio",
-			"body": "<p>Investigadores de todo el mundo usarán el Biobanco. Pueden trabajar para universidades o para laboratorios privados y compañías farmacéuticas.</p> <p>Para ser aprobados para acceder a las muestras de Biobank, los investigadores deberán cumplir con estándares estrictos para el uso ético y seguro de muestras y datos.</p>",
+			"body": "<p>Investigadores de todo el mundo usarán el Biobanco. Tal vez trabajen en universidades, o en laboratorios y compañías farmacéuticas particulares.</p><p>A fin de recibir autorización para acceder a las muestras del Biobanco, los investigadores tendrán que cumplir normas rigurosas para el uso ético y seguro de muestras y datos.</p>",
 			"title": "¿Quién usa el Biobanco?"
 		}
 	}
