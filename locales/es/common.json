@@ -7,8 +7,8 @@
 		"collapse": "Contraer todo",
 		"expand": "Expandir todo",
 		"search": "Buscar",
-		"sign_in": "Registrarse",
-		"sign_out": "Desconectar",
+		"sign_in": "Iniciar sesión",
+		"sign_out": "Cerrar sesión",
 		"your_account": "Su cuenta"
 	},
 	"footer": {

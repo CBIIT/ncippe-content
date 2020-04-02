@@ -38,8 +38,8 @@
 	},
 	"modal": {
 		"closed_account": {
-			"body": "Póngase en contacto con su coordinador de investigación clínica si tiene alguna pregunta.",
-			"title": "Tu cuenta está cerrada."
+			"body": "Contacte a su coordinador de investigación si tiene alguna pregunta.",
+			"title": "Su cuenta está cerrada."
 		}
 	},
 	"pageRoute": "/",

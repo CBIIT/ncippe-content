@@ -18,7 +18,7 @@
 		"no": "No",
 		"save": "Save",
 		"submit": "Submit",
-		"view": "View",
+		"view": "View in browser",
 		"yes": "Yes"
 	},
 	"components": {
@@ -56,7 +56,8 @@
 				"title": "Notifications | Account | Cancer Moonshot Biobank"
 			},
 			"no_results": "You do not have any notifications.",
-			"pageTitle": "You have {{count}} notification{{s}}"
+			"pageTitle": "You have {{count}} notification",
+			"pageTitle_plural": "You have {{count}} notifications"
 		},
 		"participantList": {
 			"search_label": "Search by name",
@@ -118,5 +119,6 @@
 		"since": "Participant since"
 	},
 	"pluralizer": "s",
+	"pluralizer_es": "es",
 	"welcome": "Welcome"
 }

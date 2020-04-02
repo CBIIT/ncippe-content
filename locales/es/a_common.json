@@ -3,49 +3,49 @@
 		"remove_file": "Remover archivo"
 	},
 	"badges": {
-		"new": "nuevo",
+		"new": "Nuevo",
 		"new_document": "Nuevo documento",
 		"new_participant": "Nuevo participante",
-		"not_participating": "No participando"
+		"not_participating": "No participa"
 	},
 	"buttons": {
 		"back": "atrás",
 		"cancel": "Cancelar",
-		"change_participation": "Cambiar participación",
+		"change_participation": "Cambie su participación",
 		"download": "Descargar",
-		"edit": "Editar",
+		"edit": "Modificar",
 		"next": "Siguiente",
 		"no": "No",
 		"save": "Salvar",
 		"submit": "Enviar",
-		"view": "Ver",
+		"view": "Ver en el navegador",
 		"yes": "Sí"
 	},
 	"components": {
 		"biomarkerView": {
-			"description": "Descargue y guarde su informe de biomarcadores en sus registros. También se ha enviado una copia a su proveedor.",
+			"description": "Por favor, descargue y guarde su informe de biomarcadores con sus documentos. También se le ha enviado una copia a su médico.",
 			"metaData": {
 				"title": "Informes de biomarcadores | Cuenta | Biobanco Moonshot de cáncer"
 			},
 			"no_results": {
 				"admin": "No hay informes disponibles<br /> para este participante.",
-				"participant": "No tiene informes<br/> en este momento."
+				"participant": "En estos momentos,<br/> no tiene ningún informe."
 			},
 			"pageTitle": "Informes de biomarcadores"
 		},
 		"consentView": {
-			"description": "Cuando se inscribió en el programa Biobank, firmó al menos un formulario de consentimiento. Descargue y guarde este formulario en sus registros.",
+			"description": "Cuando se inscribió en el programa del Biobanco, firmó por lo menos un formulario de consentimiento. Por favor, descargue y guarde este formulario con sus documentos.",
 			"metaData": {
 				"title": "Formularios de consentimiento | Cuenta | Biobanco Moonshot de cáncer"
 			},
 			"no_results": {
 				"admin": "No hay formularios de consentimiento disponibles<br/> para este participante.",
-				"participant": "No tiene formularios<br/> en este momento."
+				"participant": "En estos momentos,<br /> no tiene ningún formulario."
 			},
 			"pageTitle": "Formularios de consentimiento"
 		},
 		"deactivated_questions": {
-			"left": "dejó el Biobanco en",
+			"left": "e salió del Biobanco el",
 			"no_response": "No se proporcionó respuesta"
 		},
 		"fileItem": {
@@ -55,8 +55,9 @@
 			"metaData": {
 				"title": "Notificaciones | Cuenta | Biobanco Moonshot de cáncer"
 			},
-			"no_results": "No tienes ninguna notificación.",
-			"pageTitle": "Tienes {{count}} notificación{{s}}"
+			"no_results": "No tiene ninguna notificaciones.",
+			"pageTitle": "Tiene {{count}} notificación",
+			"pageTitle_plural": "Tiene {{count}} notificaciones"
 		},
 		"participantList": {
 			"search_label": "Buscar por nombre",
@@ -89,7 +90,7 @@
 			"loading": "Cargando datos del usuario ..."
 		},
 		"testResultItem": {
-			"uploaded": "Subido"
+			"uploaded": "Cargado"
 		}
 	},
 	"icons": {
@@ -101,7 +102,7 @@
 	},
 	"menu": {
 		"account_actions": {
-			"leave_biobank": "Deja el biobanco",
+			"leave_biobank": "Salir del programa del Biobanco",
 			"name": "Acciones de cuenta",
 			"upload_consent": "Subir formulario de consentimiento"
 		}
@@ -109,8 +110,8 @@
 	"not_participating": {
 		"badge": "No participando",
 		"status": {
-			"message": "Si desea unirse al Biobanco, hable con su coordinador de investigación.",
-			"title": "Ya no estás participando en el Biobanco."
+			"message": "Si le gustaría volver a inscribirse en el Biobanco, hable con su coordinador de investigación.",
+			"title": "Ya no participa en el Biobanco."
 		}
 	},
 	"participant": {
@@ -118,5 +119,6 @@
 		"since": "Participante desde"
 	},
 	"pluralizer": "s",
+	"pluralizer_es": "es",
 	"welcome": "Bienvenido"
 }
