@@ -23,6 +23,10 @@
 		"5": {
 			"answer": "The results of your biomarker test may help your doctor find more individualized treatments for your care, such as a targeted therapy that will work for your kind of cancer. The results may also include information that shows you might qualify for another research study or a clinical trial. It’s possible that the biomarker test won’t change your treatment plan at all if it shows that your current treatment is the best one for you.",
 			"question": "Can results of my biomarker test change my treatment plan?"
+		},
+		"6": {
+			"answer": "The biomarker report lists genes that are known to be related to cancer in some way. It also lists changes (variants) in those genes found in the tumor. Doctors may find this information useful when recommending treatment. There are still some changes in cancer genes that are not understood yet. They may be included in the report if they were detected, since they have been found in many cancers. This is another reason why research on these biomarkers is important.",
+			"question": "What genes will be included in my biomarker report?"
 		}
 	},
 	"faqs_title": "Frequently asked questions about biomarker tests",
