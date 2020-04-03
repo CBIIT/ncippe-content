@@ -7,29 +7,29 @@
 	"how_it_works": {
 		"cards": {
 			"0": {
-				"alt_text": "icono de paciente",
+				"alt_text": "Ícono de paciente",
 				"body": "Las personas con cáncer donan muestras de sangre y tejido durante su tratamiento, por hasta 5años."
 			},
 			"1": {
-				"alt_text": "icono de tubos de ensayo múltiples",
+				"alt_text": "Ícono de varios tubos de ensayo",
 				"body": "El Biobanco recibe las muestras y las envía a los investigadores."
 			},
 			"2": {
-				"alt_text": "icono de bombilla",
+				"alt_text": "Ícono de foco",
 				"body": "Los investigadores desarrollan ideas que ponen a prueba con muchas muestras distintas para mejorar su entendimiento del cáncer."
 			},
 			"3": {
-				"alt_text": "icono de avance",
+				"alt_text": "Ícono de un gran avance",
 				"body": "Los investigadores trabajan para hacer descubrimientos que mejoren los tratamientos del cáncer y aumenten la supervivencia de los pacientes."
 			}
 		},
 		"title": "Cómo funciona"
 	},
 	"metaData": {
-		"OG_description": "Cancer Moonshot Biobank es un proyecto de 5 años para aprender más sobre el cáncer con la ayuda de los participantes que donan muestras mientras reciben tratamiento.",
-		"OG_title": "Biobanco Moonshot contra el Cáncer | Instituto Nacional del Cáncer",
-		"description": "Cancer Moonshot Biobank es un proyecto de 5 años para aprender más sobre el cáncer con la ayuda de los participantes que donan muestras mientras reciben tratamiento.",
-		"title": "Biobanco Moonshot contra el Cáncer | Instituto Nacional del Cáncer"
+		"OG_description": "El Cancer Moonshot Biobank es un proyecto de 5 años para aprender más sobre el cáncer con ayuda de participantes que donan muestras durante su tratamiento.",
+		"OG_title": "Cancer Moonshot Biobank | Instituto Nacional del Cáncer",
+		"description": "El Cancer Moonshot Biobank es un proyecto de 5 años para aprender más sobre el cáncer con ayuda de participantes que donan muestras durante su tratamiento.",
+		"title": "Cancer Moonshot Biobank | Instituto Nacional del Cáncer"
 	},
 	"mission": {
 		"body": "El Cancer Moonshot Biobank (Biobanco Oncológico Moonshot) es un proyecto de 5 años para aprender más sobre el cáncer con ayuda de participantes que donan muestras mientras reciben tratamiento.",

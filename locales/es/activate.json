@@ -1,6 +1,6 @@
 {
 	"alt_text": {
-		"0": "Padre e hija mirando tablet PC"
+		"0": "Padre e hija que miran una tableta electrónica"
 	},
 	"faqs": {
 		"0": {
@@ -35,15 +35,16 @@
 	"faqs_title": "Preguntas frecuentes sobre su cuenta de Biobanco en línea",
 	"intro_text": "<p>Después de que se inscriba en el Biobanco por medio de su médico o coordinador de investigación, recibirá una invitación por correo electrónico para que active su cuenta de Biobanco en línea.</p><p>Por medio de su cuenta podrá descargar informes de la prueba de biomarcadores y formularios de consentimiento firmados, administrar su participación en el Biobanco y recibir mensajes directos del Biobanco.</p>",
 	"metaData": {
-		"OG_description": "Después de inscribirse en el Biobank a través de su médico o coordinador de investigación, recibirá una invitación por correo electrónico para activar su cuenta de Biobank en línea.",
-		"OG_title": "Activa tu cuenta | Biobanco Moonshot de Cáncer",
-		"description": "Después de inscribirse en el Biobank a través de su médico o coordinador de investigación, recibirá una invitación por correo electrónico para activar su cuenta de Biobank en línea.",
-		"title": "Activa tu cuenta | Biobanco Moonshot de Cáncer"
+		"OG_description": "Después de que se inscriba en el Biobanco por medio de su médico o coordinador de investigación, recibirá una invitación por correo electrónico para que active su cuenta de Biobanco en línea.",
+		"OG_title": "Active su cuenta | Cancer Moonshot Biobank",
+		"description": "Después de que se inscriba en el Biobanco por medio de su médico o coordinador de investigación, recibirá una invitación por correo electrónico para que active su cuenta de Biobanco en línea.",
+		"title": "Active su cuenta | Cancer Moonshot Biobank"
 	},
 	"pageRoute": "/participation/activate",
 	"pageTitle": "Active su cuenta de Biobanco en línea",
 	"sections": {
 		"0": {
+			"alt_text": "Captura de pantalla de Login.gov",
 			"links": {
 				"0": "Necesito crear una cuenta de login.gov",
 				"1": "Ya tengo una cuenta de login.gov"
@@ -54,22 +55,22 @@
 			"link": "Cree una cuenta login.gov",
 			"security_options": {
 				"0": {
-					"alt_text": "icono de teléfono celular",
+					"alt_text": "Ícono de teléfono celular",
 					"description": "Reciba un código por mensaje de texto (SMS) o llamada telefónica.",
 					"label": "Teléfono"
 				},
 				"1": {
-					"alt_text": "icono de la aplicación de autenticación",
+					"alt_text": "Ícono de aplicación de autenticación",
 					"description": "Reciba un código seguro por medio de una aplicación de autenticación (como Google Authenticator o Microsoft Authenticator).",
 					"label": "Aplicación de autenticación"
 				},
 				"2": {
-					"alt_text": "Icono de llave de seguridad USB",
+					"alt_text": "Ícono de dispositivo USB de seguridad",
 					"description": "Conecte un dispositivo USB de seguridad para acceder a su cuenta.",
 					"label": "Dispositivo USB de seguridad"
 				},
 				"3": {
-					"alt_text": "icono de laptop",
+					"alt_text": "Ícono de computadora portátil",
 					"description": "Reciba una serie de 10 códigos que podrá usar cuando inicie una sesión. Si selecciona esta opción, asegúrese de guardar sus códigos en un lugar seguro. ",
 					"label": "Códigos de respaldo"
 				}

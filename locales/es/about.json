@@ -1,15 +1,15 @@
 {
 	"metaData": {
-		"OG_description": "El Biobanco de Cancer Moonshot tiene como objetivo acelerar la investigación de por qué los cánceres se vuelven resistentes al tratamiento. Con su ayuda podemos mejorar las futuras terapias contra el cáncer.",
-		"OG_title": "Sobre el biobanco | Biobanco Moonshot de cáncer",
-		"description": "El Biobanco de Cancer Moonshot tiene como objetivo acelerar la investigación de por qué los cánceres se vuelven resistentes al tratamiento. Con su ayuda podemos mejorar las futuras terapias contra el cáncer.",
-		"title": "Sobre el biobanco | Biobanco Moonshot de cáncer"
+		"OG_description": "El objetivo de usar el Cancer Moonshot Biobankes acelerar las investigaciones sobre por qué los cánceres se vuelven resistentes al tratamiento. Con su ayuda podemos mejorar las futuras terapias del cáncer.",
+		"OG_title": "Acerca del Biobanco | Cancer Moonshot Biobank",
+		"description": "El objetivo de usar el Cancer Moonshot Biobankes acelerar las investigaciones sobre por qué los cánceres se vuelven resistentes al tratamiento. Con su ayuda podemos mejorar las futuras terapias del cáncer.",
+		"title": "Acerca del Biobanco | Cancer Moonshot Biobank"
 	},
 	"pageRoute": "/about",
 	"pageTitle": "Acerca del Biobanco",
 	"sections": {
 		"0": {
-			"alt_text": "manos tranquilizadoras",
+			"alt_text": "Padre e hijo",
 			"body": "<p>El Cancer Moonshot Biobank es una iniciativa sin precedentes para aprender cómo se comporta el cáncer al paso del tiempo.</p><p>El Biobanco invita a personas con <a href='/about/eligibility' data-route>ciertos tipos de cáncer</a> a que donen muestras de sangre y tejido, durante su tratamiento, por hasta 5 años. Esas muestras se almacenarán en un biobanco, es decir, en una colección segura de muestras e información médica.</p><p>Los investigadores podrán acceder a las muestras donadas y a la información comunicada para estudiar cómo el cáncer responde al tratamiento y por qué algunos cánceres se vuelven resistentes al tratamiento.</p><p>El Biobanco forma parte de <a href='https://www.cancer.gov/research/key-initiatives/moonshot-cancer-initiative' rel='noopener noreferrer' target='_blank'>Cancer Moonshot</a>, una iniciativa para acelerar la investigación del cáncer, con la dirección de la <a href='https://biospecimens.cancer.gov/default.asp' rel='noopener noreferrer' target='_blank'>Biorepositories and Biospecimen Research Branch [División de Biodepósitos e Investigaciones con Muestras Biológicas]</a> del <a href='https: //www.cancer.gov/' rel='noopener noreferrer' target='_ blank'>Instituto Nacional del Cáncer(NCI)</a>, parte de los <a href='https://www.nih.gov/' rel=' noopener noreferrer' target='_ blank'>Institutos Nacionales de la Salud (NIH)</a>.</p>",
 			"subtitle": "El Biobanco comienza con usted.",
 			"title": "¿Qué es el Cancer<br />Moonshot<sup>SM</sup> Biobank?"

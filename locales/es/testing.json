@@ -28,16 +28,16 @@
 	"faqs_title": "Preguntas frecuentes sobre las pruebas de biomarcadores",
 	"intro_text": "<p>El cáncer de cada personaes único.</p><p>Después de que done las muestras de sangre y tejido al Biobanco, haremos una prueba de biomarcadores con estas. Su médico tal vez pueda usar el informe para crear un plan de tratamiento más personalizado para usted.</p>",
 	"metaData": {
-		"OG_description": "El Biobank realizará una prueba de biomarcadores tumorales en tu muestra de tumor donada. Esto puede ayudar a su médico a comprender mejor cómo tratar su cáncer o ayudarlo a encontrar opciones de ensayos clínicos.",
-		"OG_title": "Qué esperar: hacerse una prueba de biomarcadores | Biobanco Moonshot de cáncer",
-		"description": "El Biobank realizará una prueba de biomarcadores tumorales en tu muestra de tumor donada. Esto puede ayudar a su médico a comprender mejor cómo tratar su cáncer o ayudarlo a encontrar opciones de ensayos clínicos.",
-		"title": "Qué esperar: hacerse una prueba de biomarcadores | Biobanco Moonshot de cáncer"
+		"OG_description": "En el Biobanco se realizará una prueba de biomarcadores con su muestra de tumor donada. Esta prueba tal vez ayude a su médico a entender mejor cómo tratarle el cáncer o a encontrarle opciones de estudios clínicos.",
+		"OG_title": "Qué puede esperar – hacerse una prueba de biomarcadores | Cancer Moonshot Biobank",
+		"description": "En el Biobanco se realizará una prueba de biomarcadores con su muestra de tumor donada. Esta prueba tal vez ayude a su médico a entender mejor cómo tratarle el cáncer o a encontrarle opciones de estudios clínicos.",
+		"title": "Qué puede esperar – hacerse una prueba de biomarcadores | Cancer Moonshot Biobank"
 	},
 	"pageRoute": "/expect/testing",
 	"pageTitle": "Obtenga su prueba de biomarcadores",
 	"sections": {
 		"0": {
-			"alt_text": "doctor y microscopio",
+			"alt_text": "Doctora que trabaja con un microscopio",
 			"body": "<h3>Prueba de biomarcadores</h3><p>Con la prueba de biomarcadores se analizan específicamente los errores genéticos y otros cambios en su cáncer. La prueba no ofrece información sobre los genes con los que nació.</p><p>A las pruebas de biomarcadores también se les conoce como identificación tumoral, identificación genómica, pruebas moleculares, secuenciación del ADN de tumores o pruebas genómicas oncológicas.</p>"
 		},
 		"1": {
@@ -61,13 +61,13 @@
 		"2": {
 			"samples": {
 				"0": {
-					"alt_text": "Muestra de página de informe de prueba de tumor sólido",
+					"alt_text": "Ejemplo de portada de un Informe de la prueba de biomarcadores de tumores sólidos",
 					"link": "Vea el ejemplo de un informe completo",
 					"title": "Informes de pruebas de tumores sólidos",
 					"title_aria": "Ver un informe de prueba de tumor sólido Archivo de muestra PDF"
 				},
 				"1": {
-					"alt_text": "Muestra de página de informe de prueba de cáncer de sangre",
+					"alt_text": "Ejemplo de portada de un Informe de la prueba de biomarcadores de cáncer de la sangre",
 					"link": "Ver informe de muestra completo",
 					"title": "Informes de pruebas de cáncer de la sangre",
 					"title_aria": "Ver un informe de prueba de cáncer de sangre Archivo de muestra en PDF"
@@ -76,7 +76,7 @@
 			"title": "Ejemplos de informes"
 		},
 		"3": {
-			"alt_text": "trabajando en la computadora portátil",
+			"alt_text": "Hombre que trabaja con una computadora portátil",
 			"links": {
 				"0": "Secuenciación del ADN de tumores",
 				"1": "Recursos para profesionales e instructores del campo médico",

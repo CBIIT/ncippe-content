@@ -1,42 +1,42 @@
 {
 	"cards": {
 		"0": {
-			"alt_text": "icono de tarjeta de identificación personal",
+			"alt_text": "Ícono de tarjeta de identificación personal",
 			"description": "Los investigadores no conocerán su nombre, número de teléfono ni dónde vive.",
 			"title": "Nunca les daremos su nombre a los investigadores."
 		},
 		"1": {
-			"alt_text": "icono de carpeta bloqueada",
+			"alt_text": "Ícono de carpeta cerrada bajo llave",
 			"description": "Solo el personal capacitado consultará su información médica y sabrá quién es usted.",
 			"title": "Se protegerá el acceso a su información personal."
 		},
 		"2": {
-			"alt_text": "icono de doctor",
+			"alt_text": "Ícono de médico",
 			"description": "No le diremos a nadie, incluso a su compañía de seguros o empleador, que usted es un participante del Biobanco.",
 			"title": "Mantenemos su participación confidencial."
 		},
 		"3": {
-			"alt_text": "lupa sobre icono de documento",
+			"alt_text": "Ícono de lupa sobre el documento",
 			"description": "Evaluamos nuestros sistemas para protegerlo a usted contra violaciones de seguridad de datos y otras amenazas a la seguridad. ",
 			"title": "Ponemos a prueba nuestros sistemas de datos para mantenerlos seguros."
 		},
 		"4": {
-			"alt_text": "icono de escudo de prácticas seguras",
+			"alt_text": "Ícono de escudo de prácticas seguras",
 			"description": "Ellos deben aceptar el uso de prácticas de ética y seguridad antes de que puedan usar sus muestras e información médica.",
 			"title": "Los investigadores deben solicitar autorización para usar sus muestras e información médica."
 		},
 		"5": {
-			"alt_text": "icono de martillo y martillo",
+			"alt_text": "Ícono de mazo de juez",
 			"description": "<a href='https://www.cancer.gov/resources-for/researchers/certificates-confidentiality' rel='noopener noreferrer' target='_blank'>Certificado de Confidencialidad</a><a href='https://www.hhs.gov/hipaa/for-professionals/privacy/index.html' rel='noopener noreferrer' target='_ blank'>Regla de Privacidad de la Ley HIPAA</a>",
 			"title": "Hay leyes que protegen su privacidad y previenen la discriminación."
 		}
 	},
 	"disclaimer": "Una vez que su información se trasmita al Biobanco, ya no la protegerán las reglas de privacidad para pacientes (como la Ley HIPAA). Sin embargo, otras reglas y acuerdos de privacidad la protegerán todavía. Estas incluyen las reglas y los acuerdos que los investigadores deberán cumplir para acceder a la base de datos científica del Biobanco.",
 	"metaData": {
-		"OG_description": "Protegemos sus datos y su privacidad controlando quién puede acceder a su información identificable, no compartiendo su participación y probando nuestros sistemas regularmente.",
-		"OG_title": "Protegiendo tu privacidad | Biobanco Moonshot de cáncer",
-		"description": "Protegemos sus datos y su privacidad controlando quién puede acceder a su información identificable, no compartiendo su participación y probando nuestros sistemas regularmente.",
-		"title": "Protegiendo tu privacidad | Biobanco Moonshot de cáncer"
+		"OG_description": "Protegemos sus datos y su privacidad al controlar quién puede acceder a la información que lo puede identificar, al no revelar su participación y al evaluar nuestros sistemas con regularidad.",
+		"OG_title": "Protección de su privacidad | Cancer Moonshot Biobank",
+		"description": "Protegemos sus datos y su privacidad al controlar quién puede acceder a la información que lo puede identificar, al no revelar su participación y al evaluar nuestros sistemas con regularidad.",
+		"title": "Protección de su privacidad | Cancer Moonshot Biobank"
 	},
 	"pageRoute": "/participation/privacy",
 	"pageTitle": "Protección de su privacidad",

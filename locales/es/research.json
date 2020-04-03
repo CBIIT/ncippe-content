@@ -1,20 +1,20 @@
 {
 	"metaData": {
-		"OG_description": "Los investigadores necesitan tejidos donados por los pacientes en el transcurso de su tratamiento para saber cómo algunos cánceres se vuelven resistentes al tratamiento.",
-		"OG_title": "El biobanco es importante para la investigación | Biobanco Moonshot de cáncer",
-		"description": "Los investigadores necesitan tejidos donados por los pacientes en el transcurso de su tratamiento para saber cómo algunos cánceres se vuelven resistentes al tratamiento.",
-		"title": "El biobanco es importante para la investigación | Biobanco Moonshot de cáncer"
+		"OG_description": "Los investigadores necesitan el tejido donado por los pacientes durante su tratamiento para aprender cómo y por qué algunos cánceres se vuelven resistentes al tratamiento. ",
+		"OG_title": "Los biobancos son importantes para la investigación | Cancer Moonshot Biobank",
+		"description": "Los investigadores necesitan el tejido donado por los pacientes durante su tratamiento para aprender cómo y por qué algunos cánceres se vuelven resistentes al tratamiento. ",
+		"title": "Los biobancos son importantes para la investigación | Cancer Moonshot Biobank"
 	},
 	"pageRoute": "/about/research",
 	"pageTitle": "Los biobancos son importantes para la investigación",
 	"sections": {
 		"0": {
-			"alt_text": "los investigadores comparten resultados",
+			"alt_text": "Investigadores que comparten resultados",
 			"body": "<p>Las causas principales de muerte por cáncer son cuando la enfermedad se disemina o se vuelve resistente al tratamiento. Para entender por qué sucede esto, los investigadores necesitan analizar el tejido canceroso que los pacientes donan durante el trascurso de su tratamiento.</p><p>Ha sido difícil obtener estos tipos de muestras, pero queremos cambiar eso con el Cancer Moonshot<sup>SM</sup> Biobank. Con las muestras que usted dona al Biobanco en el trascurso de su atención, por hasta 5 años, los investigadores pueden estudiar cómo los cánceres cambian con el tiempo, y cómo luchar contra los cánceres en estadios avanzados.</p>",
 			"title": "Necesitamos entender cómo el cáncer cambia con el tiempo."
 		},
 		"1": {
-			"alt_text": "investigadores en microscopio",
+			"alt_text": "Investigadores que trabajan en un laboratorio",
 			"body": "<p>Investigadores de todo el mundo usarán el Biobanco. Tal vez trabajen en universidades, o en laboratorios y compañías farmacéuticas particulares.</p><p>A fin de recibir autorización para acceder a las muestras del Biobanco, los investigadores tendrán que cumplir normas rigurosas para el uso ético y seguro de muestras y datos.</p>",
 			"title": "¿Quién usa el Biobanco?"
 		}

@@ -1,6 +1,6 @@
 {
 	"alt_text": {
-		"0": "doctor y paciente",
+		"0": "Médico y paciente",
 		"1": "tubos de ensayo"
 	},
 	"body": "<h3>Muestras de sangre</h3>El personal hospitalario le extraerá unos cuantos tubos de sangre adicionales para el Biobanco durante su atención habitual.<h3>Muestras de tejido</h3>Su médico obtendrá muestras adicionales para el Biobanco durante una biopsia habitual siempre que se pueda. También es posible que el médico programe una biopsia solo con el fin de obtener tejido para el Biobanco.<h3>Información médica</h3><p>Obtendremos información de su historia clínica, como el diagnóstico y los tratamientos anteriores. Se protegerá su información. <a data-route href='/participation/privacy'> Obtenga más información sobre la privacidad y el Biobanco</a>.</p><p>Hay muchas cosas que pueden influir en que alguien llegue a tener cáncer y en cómo responde al tratamiento. Los investigadores usarán sus muestras e información médica para realizar investigaciones que los puedan ayudar a entender mejor cómo tratar el cáncer.</p>",
@@ -18,9 +18,9 @@
 	"intro_text": "Durante el trascurso de su tratamiento, donará muestras de sangre y tejido. Esas muestras se guardarán de manera segura en el Biobanco hasta que se distribuyan a investigadores.",
 	"metaData": {
 		"OG_description": "Durante el trascurso de su tratamiento, donará muestras de sangre y tejido. Esas muestras se guardarán de manera segura en el Biobanco hasta que se distribuyan a investigadores.",
-		"OG_title": "Qué esperar - donando muestras | Biobanco Moonshot de cáncer",
+		"OG_title": "Qué puede esperar – donar muestras | Cancer Moonshot Biobank",
 		"description": "Durante el trascurso de su tratamiento, donará muestras de sangre y tejido. Esas muestras se guardarán de manera segura en el Biobanco hasta que se distribuyan a investigadores.",
-		"title": "Qué esperar - donando muestras | Biobanco Moonshot de cáncer"
+		"title": "Qué puede esperar – donar muestras | Cancer Moonshot Biobank"
 	},
 	"pageRoute": "/expect/donate",
 	"pageTitle": "Qué puede esperar si se inscribe en el Biobanco"
