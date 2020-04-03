@@ -23,6 +23,10 @@
 		"5": {
 			"answer": "Los resultados de la prueba de biomarcadores pueden ayudar a que su médico encuentre tratamientos más individualizados para su atención, como una terapia dirigida que funcione para el tipo de cáncer que padezca. Es probable que los resultados también incluyan información que muestre que usted podría calificar para otro estudio de investigación o un estudio clínico. Es posible que la prueba de biomarcadores no cambie su plan de tratamiento en lo absoluto si indica que su tratamiento actual es el mejor para usted. ",
 			"question": "¿Puede cambiar mi plan de tratamiento según los resultados de mi prueba de biomarcadores?"
+		},
+		"6": {
+			"answer": "En el informe de biomarcadores se anotan los genes que sabemos que, de alguna manera,están relacionados con el cáncer. También se anotan cambios (variantes) en esos genes que se encuentran en su tumor. Esta información puede ser útil para los médicos cuando recomiendan un tratamiento. Además, hay algunos cambios en los genes del cáncer que no entendemos todavía. Si estos se detectan, tal vez se incluyan en el informe porque se han encontrado en muchos cánceres. Este es otro motivo por el que la investigación de estos biomarcadores es importante.",
+			"question": "¿Qué genes se incluirán en mi informe de biomarcadores?"
 		}
 	},
 	"faqs_title": "Preguntas frecuentes sobre las pruebas de biomarcadores",
