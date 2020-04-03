@@ -44,6 +44,7 @@
 	"pageTitle": "Activate your online Biobank account",
 	"sections": {
 		"0": {
+			"alt_text": "Login.gov screenshot",
 			"links": {
 				"0": "I need to create a login.gov account",
 				"1": "I already have a login.gov account"

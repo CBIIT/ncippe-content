@@ -2,33 +2,34 @@
 	"cards": {
 		"biomarker": {
 			"description": "Vea los informes de sus pruebas de biomarcadores.",
-			"link": "Ver los informes",
+			"link": "Vea los informes",
 			"title": "Informes de biomarcadores"
 		},
 		"consent": {
-			"description": "Revise el formulario que firmó cuando acordó participar en el Biobanco.",
-			"link": "Ver formularios",
+			"description": "Lea con atención el formulario que firmó cuando aceptó participar en el Biobanco.",
+			"link": "Vea los formularios",
 			"title": "Formularios de consentimiento"
 		},
 		"help": {
-			"description": "Aprenda sobre cómo cambiar su participación en el Biobanco.",
-			"link": "aprende más",
-			"title": "Consigue ayuda"
+			"description": "Obtenga información sobre cómo cambiar su participación en el Biobanco.",
+			"link": "Obtenga más información",
+			"title": "Obtenga ayuda"
 		},
 		"notifications": {
-			"description": "Tienes {{count}} notificación nueva{{s}}",
-			"link": "revisión",
+			"description": "Tiene {{count}} notificación nueva",
+			"description_plural": "Tiene {{count}} notificaciones nuevas",
+			"link": "Lea",
 			"title": "Notificaciones"
 		},
 		"settings": {
 			"description": "Actualice su información de contacto o cambie cómo participa en el Biobanco.",
-			"link": "Actualizar cuenta",
-			"title": "Configuraciones de la cuenta"
+			"link": "Actualice su cuenta",
+			"title": "Configuración de la cuenta"
 		}
 	},
 	"metaData": {
-		"title": "Página de inicio de cuenta | Cuenta | Biobanco Moonshot de cáncer"
+		"title": "Cuenta | Cancer Moonshot Biobank"
 	},
 	"pageTitle": "Bienvenido",
-	"subtitle": "Gracias por unirse al Biobanco Cancer Moonshot<sup>SM</sup> "
+	"subtitle": "Gracias por inscribirse en el Cancer Moonshot<sup>SM</sup> Biobank"
 }

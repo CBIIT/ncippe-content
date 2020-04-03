@@ -16,7 +16,8 @@
 			"title": "Get help"
 		},
 		"notifications": {
-			"description": "You have {{count}} new notification{{s}}",
+			"description": "You have {{count}} new notification",
+			"description_plural": "You have {{count}} new notifications",
 			"link": "Review",
 			"title": "Notifications"
 		},
@@ -27,7 +28,7 @@
 		}
 	},
 	"metaData": {
-		"title": "Account landing page | Account | Cancer Moonshot Biobank"
+		"title": "Account | Account | Cancer Moonshot Biobank"
 	},
 	"pageTitle": "Welcome",
 	"subtitle": "Thank you for joining the Cancer Moonshot<sup>SM</sup> Biobank"
