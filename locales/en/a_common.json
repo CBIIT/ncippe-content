@@ -82,6 +82,10 @@
 				}
 			}
 		},
+		"providerView": {
+			"no_results": "No provider has been assigned to this participant",
+			"pageTitle": "Provider contact"
+		},
 		"signin": {
 			"error": {
 				"no_state": "State does not match",
