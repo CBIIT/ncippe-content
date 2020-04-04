@@ -22,7 +22,7 @@
 			"title": "Notifications"
 		},
 		"settings": {
-			"description": "Update your contact information or change how you participate in the Biobank.",
+			"description": "Update your information, set your language, or change how you participate in the Biobank.",
 			"link": "Update account",
 			"title": "Account settings"
 		}
