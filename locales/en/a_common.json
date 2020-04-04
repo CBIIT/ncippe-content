@@ -24,6 +24,12 @@
 	"components": {
 		"biomarkerView": {
 			"description": "Please download and save your biomarker report in your records. A copy has also been sent to your provider.",
+			"guide": {
+				"alt_text": "document cover image",
+				"link": "View guide",
+				"title": "Guide for reviewing a solid tumor test report",
+				"title_aria": "View the PDF guide document for reviewing a solid tumor test report"
+			},
 			"metaData": {
 				"title": "Biomarker reports | Account | Cancer Moonshot Biobank"
 			},
