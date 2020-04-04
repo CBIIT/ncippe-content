@@ -88,6 +88,10 @@
 				}
 			}
 		},
+		"providerView": {
+			"no_results": "No se ha asignado ningún medico a este participante.",
+			"pageTitle": "Contacto con el proveedor"
+		},
 		"signin": {
 			"error": {
 				"no_state": "El estado no coincide",
