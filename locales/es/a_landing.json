@@ -10,6 +10,11 @@
 			"link": "Vea los formularios",
 			"title": "Formularios de consentimiento"
 		},
+		"guide": {
+			"description": "Comprenda cómo interpretar los resultados del informe de prueba de tumor sólido.",
+			"link": "Descargar PDF",
+			"title": "Guía de informe de tumor sólido"
+		},
 		"help": {
 			"description": "Obtenga información sobre cómo cambiar su participación en el Biobanco.",
 			"link": "Obtenga más información",
