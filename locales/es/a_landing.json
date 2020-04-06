@@ -29,7 +29,7 @@
 		"settings": {
 			"description": {
 				"admin": "Actualice su información de contacto.",
-				"participant": "Actualice su información, configure su idioma o cambie cómo participa en el Biobanco."
+				"participant": "Actualice su información de contacto, configure su idioma o cambie cómo participa en el Biobanco."
 			},
 			"link": "Actualice su cuenta",
 			"title": "Configuración de la cuenta"

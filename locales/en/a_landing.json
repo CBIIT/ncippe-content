@@ -29,7 +29,7 @@
 		"settings": {
 			"description": {
 				"admin": "Update your contact information.",
-				"participant": "Update your information, set your language, or change how you participate in the Biobank."
+				"participant": "Update your contact information, set your language, or change how you participate in the Biobank."
 			},
 			"link": "Update account",
 			"title": "Account settings"
