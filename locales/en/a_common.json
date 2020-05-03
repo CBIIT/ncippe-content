@@ -101,6 +101,9 @@
 		},
 		"testResultItem": {
 			"uploaded": "Uploaded"
+		},
+		"withdrawalView": {
+			"pageTitle": "Withdrawal questionnaire"
 		}
 	},
 	"icons": {
