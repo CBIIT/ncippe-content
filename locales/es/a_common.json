@@ -16,7 +16,7 @@
 		"edit": "Modificar",
 		"next": "Siguiente",
 		"no": "No",
-		"save": "Salvar",
+		"save": "Guardar",
 		"submit": "Enviar",
 		"view": "Ver en el navegador",
 		"yes": "Sí"
@@ -51,7 +51,7 @@
 			"pageTitle": "Formularios de consentimiento"
 		},
 		"deactivated_questions": {
-			"left": "e salió del Biobanco el",
+			"left": "se salió del Biobanco el",
 			"no_response": "No se proporcionó respuesta"
 		},
 		"fileItem": {
@@ -118,7 +118,7 @@
 		}
 	},
 	"not_participating": {
-		"badge": "No participando",
+		"badge": "No participa",
 		"status": {
 			"message": "Si le gustaría volver a inscribirse en el Biobanco, hable con su coordinador de investigación.",
 			"title": "Ya no participa en el Biobanco."
