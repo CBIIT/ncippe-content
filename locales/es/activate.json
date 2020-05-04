@@ -77,7 +77,7 @@
 			},
 			"stepper": {
 				"0": {
-					"description": "Esta deberá ser la misma donde recibió la invitación parael Biobanco.",
+					"description": "Esta deberá ser la misma donde recibió la invitación para el Biobanco.",
 					"label": "Escriba y confirme su dirección de correo electrónico"
 				},
 				"1": {
@@ -93,14 +93,14 @@
 					"label": "Seleccione un método de seguridad de respaldo"
 				},
 				"4": {
-					"description": "La próxima vez que inicie unasesión, escribirá su correo electrónico y contraseña, y utilizará el segundo método de seguridad que eligió.",
+					"description": "La próxima vez que inicie una sesión, escribirá su correo electrónico y contraseña, y utilizará el segundo método de seguridad que eligió.",
 					"label": "¡Habrá iniciado una sesión en su cuenta de Biobanco en línea!"
 				}
 			},
 			"title": "Para crear su cuenta de login.gov:"
 		},
 		"2": {
-			"alt_text": "logo de login.gov",
+			"alt_text": "logotipo de login.gov",
 			"links": {
 				"0": "Centro de ayuda de login.gov",
 				"1": "Contacte al equipo de login.gov",

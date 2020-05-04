@@ -2,9 +2,9 @@
 	"buttonText": "Ir a la página de inicio",
 	"metaData": {
 		"OG_description": "Has encontrado un error de página.",
-		"OG_title": "Página de error | Biobanco Moonshot de cáncer",
+		"OG_title": "Página de error | Cancer Moonshot Biobank",
 		"description": "Has encontrado un error de página.",
-		"title": "Página de error | Biobanco Moonshot de cáncer"
+		"title": "Página de error | Cancer Moonshot Biobank"
 	},
 	"pageRoute": "/errorPage",
 	"pageTitle": "Error"

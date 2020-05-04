@@ -90,7 +90,7 @@
 		},
 		"providerView": {
 			"no_results": "No provider has been assigned to this participant",
-			"pageTitle": "Provider contact"
+			"pageTitle": "Provider contacts"
 		},
 		"signin": {
 			"error": {
@@ -101,6 +101,9 @@
 		},
 		"testResultItem": {
 			"uploaded": "Uploaded"
+		},
+		"withdrawalView": {
+			"pageTitle": "Withdrawal questionnaire"
 		}
 	},
 	"icons": {
