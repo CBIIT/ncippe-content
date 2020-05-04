@@ -1,7 +1,7 @@
 {
 	"description": "Una vez que cargue un informe, lo asociará con un participante. En ese momento, el participante, sus proveedores y sus coordinadores de investigación podrán ver y descargar el informe.",
 	"metaData": {
-		"title": "Carga del informe de biomarcadores | Biobanco Moonshot de cáncer"
+		"title": "Carga del informe de biomarcadores | Cancer Moonshot Biobank"
 	},
 	"pageTitle": "Subir informes de prueba de biomarcadores",
 	"stepper": {

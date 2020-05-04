@@ -16,7 +16,7 @@
 		"edit": "Modificar",
 		"next": "Siguiente",
 		"no": "No",
-		"save": "Salvar",
+		"save": "Guardar",
 		"submit": "Enviar",
 		"view": "Ver en el navegador",
 		"yes": "Sí"
@@ -31,7 +31,7 @@
 				"title_aria": "Vea el documento de guía en PDF para revisar un informe de prueba de tumor sólido"
 			},
 			"metaData": {
-				"title": "Informes de biomarcadores | Cuenta | Biobanco Moonshot de cáncer"
+				"title": "Informes de biomarcadores | Cuenta | Cancer Moonshot Biobank"
 			},
 			"no_results": {
 				"admin": "No hay informes disponibles<br /> para este participante.",
@@ -42,7 +42,7 @@
 		"consentView": {
 			"description": "Cuando se inscribió en el programa del Biobanco, firmó por lo menos un formulario de consentimiento. Por favor, descargue y guarde este formulario con sus documentos.",
 			"metaData": {
-				"title": "Formularios de consentimiento | Cuenta | Biobanco Moonshot de cáncer"
+				"title": "Formularios de consentimiento | Cuenta | Cancer Moonshot Biobank"
 			},
 			"no_results": {
 				"admin": "No hay formularios de consentimiento disponibles<br/> para este participante.",
@@ -51,7 +51,7 @@
 			"pageTitle": "Formularios de consentimiento"
 		},
 		"deactivated_questions": {
-			"left": "e salió del Biobanco el",
+			"left": "se salió del Biobanco el",
 			"no_response": "No se proporcionó respuesta"
 		},
 		"fileItem": {
@@ -59,7 +59,7 @@
 		},
 		"notificationView": {
 			"metaData": {
-				"title": "Notificaciones | Cuenta | Biobanco Moonshot de cáncer"
+				"title": "Notificaciones | Cuenta | Cancer Moonshot Biobank"
 			},
 			"no_results": "No tiene ninguna notificaciones.",
 			"pageTitle": "Tiene {{count}} notificación",
@@ -71,7 +71,7 @@
 		},
 		"participantView": {
 			"metaData": {
-				"title": "Perfil del participante | Cuenta | Biobanco Moonshot de cáncer"
+				"title": "Perfil del participante | Cuenta | Cancer Moonshot Biobank"
 			},
 			"status": {
 				"added": {
@@ -121,7 +121,7 @@
 		}
 	},
 	"not_participating": {
-		"badge": "No participando",
+		"badge": "No participa",
 		"status": {
 			"message": "Si le gustaría volver a inscribirse en el Biobanco, hable con su coordinador de investigación.",
 			"title": "Ya no participa en el Biobanco."
