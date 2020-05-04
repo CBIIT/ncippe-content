@@ -101,6 +101,9 @@
 		},
 		"testResultItem": {
 			"uploaded": "Cargado"
+		},
+		"withdrawalView": {
+			"pageTitle": "Cuestionario de retracción"
 		}
 	},
 	"icons": {
