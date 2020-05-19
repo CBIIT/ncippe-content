@@ -1,0 +1,19 @@
+{
+	"intro_text": "Researcher Calvin Kuo from Stanford University will be using samples from the Biobank to create 3-D tumors to study how cancer cells interact with immune cells in their environment and test potential future immunotherapies.",
+	"pageRoute": "/research/kuo-interactions-environment",
+	"pageTitle": "Interactions of cancer cells with their environment",
+	"sections": {
+		"0": {
+			"body": "We grow “organoids” of lung cancer tumors cells. Organoids are tiny 3-D copies of tissue that are grown in the lab. Organoids have both cancer cells and normal cells from the tumor. We can study the biology of a specific cancer and find new treatments for people by using the 3-D copy of a person’s tumor. ",
+			"title": "What are the top goals of your research?"
+		},
+		"1": {
+			"body": "The hunt for better cancer treatments is still one of the most important areas of medical research. The Cancer Moonshot Biobank will let researchers use the power of a national network to study many more tumor samples in many more people than otherwise possible.",
+			"title": "What inspires you to be a researcher and a part of the Biobank?"
+		},
+		"2": {
+			"body": "We will study the cancer organoids to understand how tumors grow, change,and respond to-or resist-drug treatments.We will study how cancer cells interact with their surrounding environment, such as immune cells. And, we hope to learn more about how cancer immunotherapy may work for people with cancer.",
+			"title": "What would you like to achieve as part of the Biobank?"
+		}
+	}
+}

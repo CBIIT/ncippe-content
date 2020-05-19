@@ -1,0 +1,25 @@
+{
+	"img": {
+		"0": {
+			"alt_text": "Dr. Collin Blakely",
+			"file_name": "blakely.jpg"
+		}
+	},
+	"intro_text": "Researcher Collin Blakely from the University of California San Francisco will be using samples from the Biobank to study why some lung cancers don’t respond well to targeted therapy and discover more effective treatments.",
+	"pageRoute": "/research/blakely-improving-responses",
+	"pageTitle": "Improving responses to lung cancer treatments",
+	"sections": {
+		"0": {
+			"body": "The focus of my research at UCSF is to learn why some lung cancers don’t respond well or only respond partially to targeted therapy. For instance, what is the role of a tumor’s genetics or the immune system on response to therapy? I study lung cancer tumor samples to find new treatments that may work when other drugs stop working.",
+			"title": "What are the top goals of your research?"
+		},
+		"1": {
+			"body": "I am mostly inspired by my patients, who are in desperate need of new treatments. I’m also driven by my own curiosity and the drive to make new discoveries that push the limits of our knowledge.",
+			"title": "What inspires you to be a researcher and a part of the Biobank?"
+		},
+		"2": {
+			"body": "I would like to better understand why some people don’t completely respond to lung cancer treatments. I hope to use the results of my research to plan new clinical trials testing different drugs on people with lung cancer. ",
+			"title": "What would you like to achieve as part of the Biobank?"
+		}
+	}
+}
