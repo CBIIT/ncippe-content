@@ -28,7 +28,7 @@
 		},
 		"settings": {
 			"description": {
-				"admin": "Update your contact information.",
+				"admin": "Keep your contact information up to date to receive program notifications.",
 				"participant": "Update your information, set your language, or change how you participate in the Biobank."
 			},
 			"link": "Update account",
