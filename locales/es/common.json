@@ -13,20 +13,50 @@
 	},
 	"footer": {
 		"links": {
-			"CIS": "Servicios de Información Sobre el Cáncer",
-			"accessibility": "Accesibilidad",
-			"bio": "División de Biodepósitos e Investigaciones con Muestras Biológicas",
-			"disclaimer": "Política de exención de responsabilidad",
+			"accessibility": {
+				"link": "https://www.cancer.gov/espanol/politicas/accesibilidad",
+				"text": "Accesibilidad"
+			},
+			"bio": {
+				"link": "https://biospecimens.cancer.gov",
+				"text": "División de Biodepósitos e Investigaciones con Muestras Biológicas"
+			},
+			"cis": {
+				"link": "https://www.cancer.gov/espanol/contactenos",
+				"text": "Servicios de Información Sobre el Cáncer"
+			},
+			"disclaimer": {
+				"link": "https://www.cancer.gov/espanol/politicas/exoneracion",
+				"text": "Política de Exención de Responsabilidad"
+			},
 			"email": "moonshotbiobank@nih.gov",
-			"foia": "Ley de libre acceso a la información (FOIA)",
-			"hhs": "Departamento de Salud y Servicios Humanos de EE. UU.",
-			"nci": "Instituto Nacional del Cáncer",
-			"nih": "Institutos Nacionales de la Salud",
-			"phone": "(202) 222 - 2222",
-			"policy_title": "POLÍTICAS DEL SITIO WEB",
-			"privacy": "Política de privacidad",
+			"foia": {
+				"link": "https://www.cancer.gov/espanol/politicas/foia",
+				"text": "Ley de libre acceso a la información (FOIA)"
+			},
+			"hhs": {
+				"link": "https://www.hhs.gov/",
+				"text": "Departamento de Salud y Servicios Humanos de EE. UU."
+			},
+			"nci": {
+				"link": "https://www.cancer.gov/espanol",
+				"text": "Instituto Nacional del Cáncer"
+			},
+			"nih": {
+				"link": "https://salud.nih.gov/",
+				"text": "Institutos Nacionales de la Salud"
+			},
+			"phone": "1-800-4-CANCER",
+			"policy_title": "Políticas del Sitio Web",
+			"privacy": {
+				"link": "https://www.cancer.gov/espanol/politicas/confidencialidad-seguridad",
+				"text": "Política de Privacidad"
+			},
 			"resources_title": "Más Recursos",
-			"usa": "USA.gov"
+			"usa": {
+				"link": "https://www.usa.gov/espanol/",
+				"text": "USA.gov"
+			}
 		},
 		"logo": {
 			"alt_text": "Logotipo de Instituto Nacional del Cáncer | Cancer Moonshot Biobank",

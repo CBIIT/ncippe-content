@@ -13,20 +13,50 @@
 	},
 	"footer": {
 		"links": {
-			"CIS": "Cancer Information Service",
-			"accessibility": "Accessibility",
-			"bio": "Biorepositories and Biospecimen Research Branch",
-			"disclaimer": "Disclaimer Policy",
+			"accessibility": {
+				"link": "https://www.cancer.gov/policies/accessibility",
+				"text": "Accessibility"
+			},
+			"bio": {
+				"link": "https://biospecimens.cancer.gov",
+				"text": "Biorepositories and Biospecimen Research Branch"
+			},
+			"cis": {
+				"link": "https://www.cancer.gov/contact",
+				"text": "Cancer Information Service"
+			},
+			"disclaimer": {
+				"link": "https://www.cancer.gov/policies/disclaimer",
+				"text": "Disclaimer Policy"
+			},
 			"email": "moonshotbiobank@nih.gov",
-			"foia": "FOIA",
-			"hhs": "U.S. Department of Health and Human Services",
-			"nci": "National Cancer Institute",
-			"nih": "National Institutes of Health",
+			"foia": {
+				"link": "https://www.cancer.gov/policies/foia",
+				"text": "FOIA"
+			},
+			"hhs": {
+				"link": "https://www.hhs.gov/",
+				"text": "U.S. Department of Health and Human Services"
+			},
+			"nci": {
+				"link": "https://www.cancer.gov/",
+				"text": "National Cancer Institute"
+			},
+			"nih": {
+				"link": "https://www.nih.gov/",
+				"text": "National Institutes of Health"
+			},
 			"phone": "1-800-4-CANCER",
 			"policy_title": "Website Policies",
-			"privacy": "Privacy Policy",
+			"privacy": {
+				"link": "https://www.cancer.gov/policies/privacy-security",
+				"text": "Privacy Policy"
+			},
 			"resources_title": "More Resources",
-			"usa": "USA.gov"
+			"usa": {
+				"link": "https://www.usa.gov/",
+				"text": "USA.gov"
+			}
 		},
 		"logo": {
 			"alt_text": "Logo for National Cancer Institute | Cancer Moonshot Biobank",
