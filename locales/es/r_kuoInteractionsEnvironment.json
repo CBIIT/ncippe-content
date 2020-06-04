@@ -1,0 +1,19 @@
+{
+	"intro_text": "El investigador Calvin Kuo, de la Universidad de Stanford, utilizará muestras del Biobanco para crear tumores tridimensionales para estudiar cómo interactúan las células cancerosas con las células inmunes en su entorno y evaluar posibles inmunoterapias futuras.",
+	"pageRoute": "/research/kuo-interactions-environment",
+	"pageTitle": "Interacciones de las células cancerosas con su entorno.",
+	"sections": {
+		"0": {
+			"body": "Cultivamos \"organoides\" de células tumorales de cáncer de pulmón. Los organoides son pequeñas copias tridimensionales de tejido que se cultivan en el laboratorio. Los organoides tienen células cancerosas y células normales del tumor. Podemos estudiar la biología de un cáncer específico y encontrar nuevos tratamientos para las personas utilizando la copia tridimensional del tumor de una persona.",
+			"title": "¿Cuáles son los principales objetivos de su investigación?"
+		},
+		"1": {
+			"body": "La búsqueda de mejores tratamientos contra el cáncer sigue siendo una de las áreas más importantes de la investigación médica. El Biobanco de Cancer Moonshot permitirá a los investigadores utilizar el poder de una red nacional para estudiar muchas más muestras de tumores en muchas más personas de lo que sería posible.",
+			"title": "¿Qué te inspira a ser investigador y parte del Biobanco?"
+		},
+		"2": {
+			"body": "Estudiaremos los organoides del cáncer para comprender cómo crecen, cambian y responden los tumores a los tratamientos farmacológicos o los resisten. Estudiaremos cómo las células cancerosas interactúan con su entorno, como las células inmunes. Y esperamos aprender más sobre cómo la inmunoterapia contra el cáncer puede funcionar para las personas con cáncer.",
+			"title": "¿Qué le gustaría lograr como parte del Biobanco?"
+		}
+	}
+}

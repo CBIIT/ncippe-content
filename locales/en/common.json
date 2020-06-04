@@ -48,18 +48,30 @@
 		"twitter_image_alt": "Cancer Moonshot Biobank – Help change the future of cancer treatment"
 	},
 	"nav": {
-		"about": "About the Biobank",
-		"activate": "Activate your account",
-		"consent": "Give your consent",
-		"donate": "Donate samples",
-		"eligibility": "Eligibility and locations",
-		"privacy": "Protecting your privacy",
-		"research": "Biobanking drives research",
-		"testing": "Get a biomarker test",
-		"topLevel": {
-			"about": "About",
-			"expect": "What to expect",
-			"participation": "Your participation"
+		"about": "About",
+		"about_subNav": {
+			"about": "About the Biobank",
+			"eligibility": "Eligibility and locations"
+		},
+		"expect": "What to expect",
+		"expect_subNav": {
+			"consent": "Give your consent",
+			"donate": "Donate samples",
+			"testing": "Get a biomarker test"
+		},
+		"participation": "Your participation",
+		"participation_subNav": {
+			"activate": "Activate your account",
+			"privacy": "Protecting your privacy"
+		},
+		"research": "Research",
+		"research_subNav": {
+			"0": "Research Overview",
+			"0_subNav": {
+				"0": "Acute myeloid leukemia",
+				"1": "Lung cancers",
+				"2": "Organoid cultures"
+			}
 		}
 	},
 	"search": {

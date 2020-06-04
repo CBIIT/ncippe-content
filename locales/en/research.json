@@ -5,7 +5,7 @@
 		"description": "Researchers need tissue donated by patients over the course of their treatment to learn how why some cancers become resistant to treatment.",
 		"title": "Biobanking is important to research | Cancer Moonshot Biobank"
 	},
-	"pageRoute": "/about/research",
+	"pageRoute": "/research",
 	"pageTitle": "Biobanks are important for research",
 	"sections": {
 		"0": {
@@ -17,6 +17,26 @@
 			"alt_text": "researchers working in a lab",
 			"body": "<p>Researchers from all over the world will use the Biobank. They may work for universities, or for private labs and drug companies.</p><p>To be approved to access Biobank samples, the researchers will have to meet strict standards for ethical and secure use of samples and data.</p>",
 			"title": "Who uses the Biobank?"
+		},
+		"2": {
+			"links": {
+				"0": {
+					"author": "Dr. Jeffrey Tyner — Oregon Health & Science University",
+					"route": "/research/tyner-acute-myeloid",
+					"text": "Genetics of acute myeloid leukemia"
+				},
+				"1": {
+					"author": "Dr. Collin Blakely — University of California San Francisco",
+					"route": "/research/blakely-improving-responses",
+					"text": "Improving responses to lung cancer treatments"
+				},
+				"2": {
+					"author": "Dr. Calvin Kuo — Stanford University",
+					"route": "/research/kuo-interactions-environment",
+					"text": "Interactions of cancer cells with their environment"
+				}
+			},
+			"title": "What researchers are working on"
 		}
 	}
 }

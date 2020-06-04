@@ -48,18 +48,30 @@
 		"twitter_image_alt": "Cancer Moonshot Biobank - Ayuda a cambiar el futuro del tratamiento del cáncer"
 	},
 	"nav": {
-		"about": "Acerca del Biobanco",
-		"activate": "Active su cuenta",
-		"consent": "Dar su consentimiento",
-		"donate": "Donar muestras",
-		"eligibility": "Idoneidad para participar y ubicaciones",
-		"privacy": "Protección de su privacidad",
-		"research": "Los biobancos impulsan la investigación",
-		"testing": "Hacerse una prueba de biomarcadores",
-		"topLevel": {
-			"about": "Acerca de",
-			"expect": "Qué puede esperar",
-			"participation": "Su participación"
+		"about": "Acerca de",
+		"about_subNav": {
+			"about": "Acerca del Biobanco",
+			"eligibility": "Idoneidad para participar y ubicaciones"
+		},
+		"expect": "Qué puede esperar",
+		"expect_subNav": {
+			"consent": "Dar su consentimiento",
+			"donate": "Donar muestras",
+			"testing": "Hacerse una prueba de biomarcadores"
+		},
+		"participation": "Su participación",
+		"participation_subNav": {
+			"activate": "Active su cuenta",
+			"privacy": "Protección de su privacidad"
+		},
+		"research": "Investigación",
+		"research_subNav": {
+			"0": "Resumen de la investigación",
+			"0_subNav": {
+				"0": "Leucemia mieloide aguda",
+				"1": "Cánceres de pulmón",
+				"2": "Cultivos organoides"
+			}
 		}
 	},
 	"search": {
