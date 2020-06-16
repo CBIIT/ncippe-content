@@ -81,6 +81,12 @@
 					"link": "View sample report",
 					"title": "Full blood cancer test sample report",
 					"title_aria": "View a blood cancer test report PDF sample file"
+				},
+				"3": {
+					"alt_text": "Guide for reviewing a blood cancer test report cover image",
+					"link": "View guide",
+					"title": "Guide for reviewing a blood cancer test report",
+					"title_aria": "View the PDF guide document for reviewing a blood cancer test report"
 				}
 			},
 			"subtitle": {
