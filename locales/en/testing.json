@@ -17,7 +17,7 @@
 			"question": "Will I have to pay to get the test?"
 		},
 		"4": {
-			"answer": "<p>If you have a cancer in a solid tissue, then the Molecular Characterization Laboratory (MoCha) at the <a href='https://frederick.cancer.gov/' rel='noopener noreferrer' target='_blank'>Frederick National Laboratory for Cancer Research</a> will do the biomarker test on your tissue sample.</p><p>If you have a blood cancer then <a href='https://www.foundationmedicine.com/' rel='noopener noreferrer' target='_blank'>Foundation Medicine, Inc. (FMI)</a> will do the biomarker test on your blood sample.</p>",
+			"answer": "<p>If you have a cancer in a solid tissue, then the Molecular Characterization Laboratory (MoCha) at the <a href='https://frederick.cancer.gov/' rel='noopener noreferrer' target='_blank'>Frederick National Laboratory for Cancer Research</a> will do the biomarker test on your tissue sample.</p>",
 			"question": "Who will do the biomarker test?"
 		},
 		"5": {
