@@ -49,8 +49,8 @@
 			"phone": "1-800-4-CANCER",
 			"policy_title": "Website Policies",
 			"privacy": {
-				"link": "https://www.cancer.gov/policies/privacy-security",
-				"text": "Privacy Policy"
+				"link": "/policies/privacy-security",
+				"text": "Privacy and Security Policy"
 			},
 			"resources_title": "More Resources",
 			"usa": {
