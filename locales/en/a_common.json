@@ -111,6 +111,7 @@
 		"help": "get help icon",
 		"notifications": "notification icon",
 		"reports": "document icon",
+		"resources": "resources icon",
 		"user_profile": "user icon"
 	},
 	"menu": {
