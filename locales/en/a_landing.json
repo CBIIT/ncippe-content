@@ -25,7 +25,7 @@
 			"description_plural": "You have {{count}} new notifications",
 			"link": "Review",
 			"title": "Notifications"
-		},
+    },
 		"settings": {
 			"description": {
 				"admin": "Update your contact information.",
