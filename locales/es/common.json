@@ -81,7 +81,8 @@
 		"about": "Acerca de",
 		"about_subNav": {
 			"about": "Acerca del Biobanco",
-			"eligibility": "Idoneidad para participar y ubicaciones"
+      "eligibility": "Idoneidad para participar y ubicaciones",
+      "research": "Los biobancos impulsan la investigación"
 		},
 		"expect": "Qué puede esperar",
 		"expect_subNav": {
