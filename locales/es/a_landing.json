@@ -26,6 +26,11 @@
 			"link": "Lea",
 			"title": "Notificaciones"
 		},
+		"resources": {
+			"description": "Organizaciones de información y defensa para apoyarlo.",
+			"link": "Obtenga más información",
+			"title": "Recursos y soporte"
+		},
 		"settings": {
 			"description": {
 				"admin": "Actualice su información de contacto.",
