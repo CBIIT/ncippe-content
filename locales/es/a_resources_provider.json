@@ -1,0 +1,25 @@
+{
+	"description": "El Instituto Nacional del Cáncer y otras instituciones proporcionan recursos para ayudarlo en su investigación y trabajar con pacientes.",
+	"metaData": {
+		"title": "Recursos | Cuenta | Cancer Moonshot Biobank"
+	},
+	"pageTitle": "Recursos para Profesionales de la Salud",
+	"sections": {
+		"0": {
+			"body": "<p><a href='https://www.cancer.gov/about-cancer/causes-prevention/genetics/overview-pdq'>Descripción general de la genética del cáncer (PDQ®) - Versión para profesionales de la salud</a><br />Información completa, revisada por expertos y basada en evidencia sobre la genética del cáncer.</p><p><a href='https://www.jax.org/education-and-learning/clinical-and-continuing-education' rel='noopener noreferrer' target='_blank' class='external' aria-describedby='external'>Educación clínica y continua | Jackson Laboratory</a><br />Cursos gratuitos para crédito CME / CNE en una amplia gama de temas, incluida la interpretación de resultados de pruebas genéticas de cáncer.</p>",
+			"title": "Recursos educativos"
+		},
+		"1": {
+			"body": "<p><a href='https://www.cancer.gov/espanol/cancer/tratamiento/estudios-clinicos/guia-estudios-clinicos' rel='noopener noreferrer' target='_blank'>Pasos para encontrar un ensayo clínico</a><br />Esta guía del paciente para encontrar un ensayo clínico también puede ayudarlo a orientar su búsqueda.</p><p><a href='https://www.cancer.gov/about-cancer/treatment/clinical-trials/search' rel='noopener noreferrer' target='_blank'>Búsqueda de ensayos clínicos respaldados por el NCI</a><br />Busca ensayos clínicos disponibles.</p>",
+			"title": "Ensayos clínicos"
+		},
+		"2": {
+			"body": "<a href='https://www.cancer.gov/grants-training/apply-grant' rel='noopener noreferrer' target='_blank'>Solicite una beca de investigación del NCI</a><br />Lo esencial del proceso de subvenciones del NCI.",
+			"title": "Fondos de investigación"
+		},
+		"3": {
+			"body": "<p><a href='https://www.cancer.gov/espanol/publicaciones/diccionario' rel='noopener noreferrer' target='_blank'>Diccionario de términos del cáncer del NCI</a><br />Términos relacionados con el cáncer y la medicina.</p><p><a href='https://www.cancer.gov/publications/dictionaries/cancer-drug' rel='noopener noreferrer' target='_blank'>Diccionario de medicamentos del NCI</a><br />Definiciones técnicas y sinónimos de medicamentos / agentes utilizados para tratar pacientes con cáncer o afecciones relacionadas con el cáncer.</p>",
+			"title": "Recursos de referencia"
+		}
+	}
+}
