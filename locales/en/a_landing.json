@@ -26,11 +26,6 @@
 			"link": "Review",
 			"title": "Notifications"
     },
-    "resources": {
-			"description": "Information and advocacy organizations to support you.",
-			"link": "Learn more",
-			"title": "Resources and support"
-		},
 		"settings": {
 			"description": {
 				"admin": "Update your contact information.",
