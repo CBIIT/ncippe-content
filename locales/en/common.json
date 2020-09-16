@@ -11,22 +11,52 @@
 		"sign_out": "Sign out",
 		"your_account": "Your account"
 	},
-	"footer": {
+  "footer": {
 		"links": {
-			"CIS": "Cancer Information Service",
-			"accessibility": "Accessibility",
-			"bio": "Biorepositories and Biospecimen Research Branch",
-			"disclaimer": "Disclaimer Policy",
+			"accessibility": {
+				"link": "https://www.cancer.gov/policies/accessibility",
+				"text": "Accessibility"
+			},
+			"bio": {
+				"link": "https://biospecimens.cancer.gov",
+				"text": "Biorepositories and Biospecimen Research Branch"
+			},
+			"cis": {
+				"link": "https://www.cancer.gov/contact",
+				"text": "Cancer Information Service"
+			},
+			"disclaimer": {
+				"link": "https://www.cancer.gov/policies/disclaimer",
+				"text": "Disclaimer Policy"
+			},
 			"email": "moonshotbiobank@nih.gov",
-			"foia": "FOIA",
-			"hhs": "U.S. Department of Health and Human Services",
-			"nci": "National Cancer Institute",
-			"nih": "National Institutes of Health",
+			"foia": {
+				"link": "https://www.cancer.gov/policies/foia",
+				"text": "FOIA"
+			},
+			"hhs": {
+				"link": "https://www.hhs.gov/",
+				"text": "U.S. Department of Health and Human Services"
+			},
+			"nci": {
+				"link": "https://www.cancer.gov/",
+				"text": "National Cancer Institute"
+			},
+			"nih": {
+				"link": "https://www.nih.gov/",
+				"text": "National Institutes of Health"
+			},
 			"phone": "1-800-4-CANCER",
 			"policy_title": "Website Policies",
-			"privacy": "Privacy Policy",
+			"privacy": {
+				"link": "/website-privacy-security",
+				"text": "Privacy and Security Policy"
+			},
 			"resources_title": "More Resources",
-			"usa": "USA.gov"
+			"usa": {
+				"link": "https://www.usa.gov/",
+				"text": "USA.gov"
+			}
 		},
 		"logo": {
 			"alt_text": "Logo for National Cancer Institute | Cancer Moonshot Biobank",
@@ -48,18 +78,30 @@
 		"twitter_image_alt": "Cancer Moonshot Biobank – Help change the future of cancer treatment"
 	},
 	"nav": {
-		"about": "About the Biobank",
-		"activate": "Activate your account",
-		"consent": "Give your consent",
-		"donate": "Donate samples",
-		"eligibility": "Eligibility and locations",
-		"privacy": "Protecting your privacy",
-		"research": "Biobanking drives research",
-		"testing": "Get a biomarker test",
-		"topLevel": {
-			"about": "About",
-			"expect": "What to expect",
-			"participation": "Your participation"
+    "about": "About",
+		"about_subNav": {
+			"about": "About the Biobank",
+			"eligibility": "Eligibility and locations"
+		},
+		"expect": "What to expect",
+		"expect_subNav": {
+			"consent": "Give your consent",
+			"donate": "Donate samples",
+			"testing": "Get a biomarker test"
+		},
+		"participation": "Your participation",
+		"participation_subNav": {
+			"activate": "Activate your account",
+			"privacy": "Protecting your privacy"
+		},
+		"research": "Research",
+		"research_subNav": {
+			"0": "Research Overview",
+			"0_subNav": {
+				"0": "Acute myeloid leukemia",
+				"1": "Lung cancers",
+				"2": "Organoid cultures"
+			}
 		}
 	},
 	"search": {

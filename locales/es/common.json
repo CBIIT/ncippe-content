@@ -11,22 +11,52 @@
 		"sign_out": "Cerrar sesión",
 		"your_account": "Su cuenta"
 	},
-	"footer": {
+  "footer": {
 		"links": {
-			"CIS": "Servicios de Información Sobre el Cáncer",
-			"accessibility": "Accesibilidad",
-			"bio": "División de Biodepósitos e Investigaciones con Muestras Biológicas",
-			"disclaimer": "Política de exención de responsabilidad",
+			"accessibility": {
+				"link": "https://www.cancer.gov/espanol/politicas/accesibilidad",
+				"text": "Accesibilidad"
+			},
+			"bio": {
+				"link": "https://biospecimens.cancer.gov",
+				"text": "División de Biodepósitos e Investigaciones con Muestras Biológicas"
+			},
+			"cis": {
+				"link": "https://www.cancer.gov/espanol/contactenos",
+				"text": "Servicios de Información Sobre el Cáncer"
+			},
+			"disclaimer": {
+				"link": "https://www.cancer.gov/espanol/politicas/exoneracion",
+				"text": "Política de Exención de Responsabilidad"
+			},
 			"email": "moonshotbiobank@nih.gov",
-			"foia": "Ley de libre acceso a la información (FOIA)",
-			"hhs": "Departamento de Salud y Servicios Humanos de EE. UU.",
-			"nci": "Instituto Nacional del Cáncer",
-			"nih": "Institutos Nacionales de la Salud",
-			"phone": "(202) 222 - 2222",
-			"policy_title": "POLÍTICAS DEL SITIO WEB",
-			"privacy": "Política de privacidad",
+			"foia": {
+				"link": "https://www.cancer.gov/espanol/politicas/foia",
+				"text": "Ley de libre acceso a la información (FOIA)"
+			},
+			"hhs": {
+				"link": "https://www.hhs.gov/",
+				"text": "Departamento de Salud y Servicios Humanos de EE. UU."
+			},
+			"nci": {
+				"link": "https://www.cancer.gov/espanol",
+				"text": "Instituto Nacional del Cáncer"
+			},
+			"nih": {
+				"link": "https://salud.nih.gov/",
+				"text": "Institutos Nacionales de la Salud"
+			},
+			"phone": "1-800-4-CANCER",
+			"policy_title": "Políticas del Sitio Web",
+			"privacy": {
+				"link": "/website-privacy-security",
+				"text": "Política de Privacidad y Seguridad"
+			},
 			"resources_title": "Más Recursos",
-			"usa": "USA.gov"
+			"usa": {
+				"link": "https://www.usa.gov/espanol/",
+				"text": "USA.gov"
+			}
 		},
 		"logo": {
 			"alt_text": "Logotipo de Instituto Nacional del Cáncer | Cancer Moonshot Biobank",
@@ -48,18 +78,30 @@
 		"twitter_image_alt": "Cancer Moonshot Biobank - Ayuda a cambiar el futuro del tratamiento del cáncer"
 	},
 	"nav": {
-		"about": "Acerca del Biobanco",
-		"activate": "Active su cuenta",
-		"consent": "Dar su consentimiento",
-		"donate": "Donar muestras",
-		"eligibility": "Idoneidad para participar y ubicaciones",
-		"privacy": "Protección de su privacidad",
-		"research": "Los biobancos impulsan la investigación",
-		"testing": "Hacerse una prueba de biomarcadores",
-		"topLevel": {
-			"about": "Acerca de",
-			"expect": "Qué puede esperar",
-			"participation": "Su participación"
+		"about": "Acerca de",
+		"about_subNav": {
+			"about": "Acerca del Biobanco",
+			"eligibility": "Idoneidad para participar y ubicaciones"
+		},
+		"expect": "Qué puede esperar",
+		"expect_subNav": {
+			"consent": "Dar su consentimiento",
+			"donate": "Donar muestras",
+			"testing": "Hacerse una prueba de biomarcadores"
+		},
+		"participation": "Su participación",
+		"participation_subNav": {
+			"activate": "Active su cuenta",
+			"privacy": "Protección de su privacidad"
+		},
+		"research": "Investigación",
+		"research_subNav": {
+			"0": "Resumen de la investigación",
+			"0_subNav": {
+				"0": "Leucemia mieloide aguda",
+				"1": "Cánceres de pulmón",
+				"2": "Cultivos organoides"
+			}
 		}
 	},
 	"search": {
