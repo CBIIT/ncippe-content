@@ -1,5 +1,6 @@
 {
 	"aria": {
+		"external": "external link",
 		"menu": "menu"
 	},
 	"buttons": {
@@ -49,7 +50,7 @@
 			"phone": "1-800-4-CANCER",
 			"policy_title": "Website Policies",
 			"privacy": {
-				"link": "https://www.cancer.gov/policies/privacy-security",
+				"link": "/website-privacy-security",
 				"text": "Privacy and Security Policy"
 			},
 			"resources_title": "More Resources",
@@ -78,11 +79,10 @@
 		"twitter_image_alt": "Cancer Moonshot Biobank – Help change the future of cancer treatment"
 	},
 	"nav": {
-    "about": "About",
+		"about": "About",
 		"about_subNav": {
 			"about": "About the Biobank",
-      "eligibility": "Eligibility and locations",
-      "research": "Biobanking drives research"
+			"eligibility": "Eligibility and locations"
 		},
 		"expect": "What to expect",
 		"expect_subNav": {

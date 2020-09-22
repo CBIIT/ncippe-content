@@ -1,5 +1,6 @@
 {
 	"aria": {
+		"external": "enlace externo",
 		"menu": "menú"
 	},
 	"buttons": {
@@ -49,7 +50,7 @@
 			"phone": "1-800-4-CANCER",
 			"policy_title": "Políticas del Sitio Web",
 			"privacy": {
-				"link": "https://www.cancer.gov/espanol/politicas/confidencialidad-seguridad",
+				"link": "/website-privacy-security",
 				"text": "Política de Privacidad y Seguridad"
 			},
 			"resources_title": "Más Recursos",
@@ -81,8 +82,7 @@
 		"about": "Acerca de",
 		"about_subNav": {
 			"about": "Acerca del Biobanco",
-      "eligibility": "Idoneidad para participar y ubicaciones",
-      "research": "Los biobancos impulsan la investigación"
+			"eligibility": "Idoneidad para participar y ubicaciones"
 		},
 		"expect": "Qué puede esperar",
 		"expect_subNav": {

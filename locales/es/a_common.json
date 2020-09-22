@@ -111,6 +111,7 @@
 		"help": "obtener icono de ayuda",
 		"notifications": "icono de notificación",
 		"reports": "icono de documento",
+		"resources": "icono de recursos",
 		"user_profile": "icono de usuario"
 	},
 	"menu": {

@@ -1,0 +1,25 @@
+{
+	"description": "The National Cancer Institute and other institutions provide resources to help you in your research and work with patients. ",
+	"metaData": {
+		"title": "Resources | Account | Cancer Moonshot Biobank"
+	},
+	"pageTitle": "Resources for Health Professionals",
+	"sections": {
+		"0": {
+			"body": "<p><a href='https://www.cancer.gov/about-cancer/causes-prevention/genetics/overview-pdq'>Cancer Genetics Overview (PDQ®) – Health Professional Version</a><br />Comprehensive, peer-reviewed, evidence-based information about cancer genetics.</p><p><a href='https://www.jax.org/education-and-learning/clinical-and-continuing-education' rel='noopener noreferrer' target='_blank' class='external' aria-describedby='external'>Clinical and Continuing Education | The Jackson Laboratory</a><br />Free courses for CME/CNE credit on a wide range of topics including interpreting cancer genetic testing results.</p>",
+			"title": "Educational resources"
+		},
+		"1": {
+			"body": "<p><a href='https://www.cancer.gov/about-cancer/treatment/clinical-trials/search/trial-guide' rel='noopener noreferrer' target='_blank'>Steps to find a clinical trial</a><br />This patient guide to finding a clinical trial can also help guide your search.</p><p><a href='https://www.cancer.gov/about-cancer/treatment/clinical-trials/search' rel='noopener noreferrer' target='_blank'>NCI-Supported clinical trials search</a><br />Search for available clinical trials.</p>",
+			"title": "Clinical trials"
+		},
+		"2": {
+			"body": "<a href='https://www.cancer.gov/grants-training/apply-grant' rel='noopener noreferrer' target='_blank'>Apply for a research grant from NCI</a><br />The essentials of the NCI grants process.",
+			"title": "Research funding"
+		},
+		"3": {
+			"body": "<p><a href='https://www.cancer.gov/publications/dictionaries/cancer-terms' rel='noopener noreferrer' target='_blank'>NCI Dictionary of Cancer Terms</a><br />Terms related to cancer and medicine.</p><p><a href='https://www.cancer.gov/publications/dictionaries/cancer-drug' rel='noopener noreferrer' target='_blank'>NCI Drug Dictionary</a><br />Technical definitions and synonyms for drugs/agents used to treat patients with cancer or conditions related to cancer.</p>",
+			"title": "Reference resources"
+		}
+	}
+}

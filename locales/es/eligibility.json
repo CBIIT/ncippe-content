@@ -1,7 +1,7 @@
 {
 	"introText": "Para empezar, el personal del Cancer Moonshot<sup>SM</sup> Biobank obtendrá muestras de pacientes con tipos específicos de cáncer, que estén recibiendo tratamiento en hospitales participantes. Probablemente se incorporarán otros tipos de cáncer y más hospitales en fases futuras del programa del Biobanco.",
 	"metaData": {
-		"OG_description": "El Cancer Moonshot Biobankcolabora con sitios específicos de NCORP en todo el país para inscribir a participantes con varios tipos de cáncer. ",
+		"OG_description": "El Cancer Moonshot Biobank colabora con sitios específicos de NCORP en todo el país para inscribir a participantes con varios tipos de cáncer. ",
 		"OG_title": "Idoneidad para participar y ubicaciones | Cancer Moonshot Biobank",
 		"description": "El Cancer Moonshot Biobank colabora con sitios específicos de NCORP en todo el país para inscribir a participantes con varios tipos de cáncer. ",
 		"title": "Idoneidad para participar y ubicaciones | Cancer Moonshot Biobank"
@@ -18,14 +18,14 @@
 			"title": "Idoneidad para participar"
 		},
 		"1": {
-			"body": "El Cancer Moonshot<sup>SM</sup> Biobank colabora con el Programa de Investigación Oncológica Comunitaria (NCI Community Oncology Research Program, NCORP) del NCI, una red nacional que lleva estudios clínicos y de prestación de atención del cáncer a personas en sus propias comunidades. ",
+			"body": "El Cancer Moonshot<sup>SM</sup> Biobank colabora con el Programa de Investigación Oncológica Comunitaria (<a href='https://ncorp.cancer.gov/' rel='noopener noreferrer' target='_blank'>NCI Community Oncology Research Program (NCORP)</a>) del NCI, una red nacional que lleva estudios clínicos y de prestación de atención del cáncer a personas en sus propias comunidades. ",
 			"subtitle": "Para participar en el Biobanco, el médico a cargo de su atención deberá estar en uno de estos hospitales.",
 			"title": "Hospitales participantes"
 		},
 		"2": {
 			"alt_text": "Enfermera que repasa el contenido de la tableta electrónica con una mujer",
 			"body": {
-				"list": "<ul class='bulletList bulletList--spreadOut'><li><a href='https://www.cancer.gov/about-cancer/treatment/clinical-trials/search' rel='noopener noreferrer' target='_blank'>Estudios clínicos del Instituto Nacional del Cáncer (NCI)</a>: busque estudios clínicos patrocinados por el NCI</li><li><a href='https://www.cancer.gov/rare-brain-spine-tumor/' rel='noopener noreferrer' target='_blank'>Red de tumores infrecuentes de cerebro y médula espinal de NCI-CONNECT</a>: para personas con tumores poco frecuentes del cerebro y la médula espinal</li><li><a href='https://www.cancer.gov/pediatric-adult-rare-tumor/' rel='noopener noreferrer' target='_blank'>Mi Tumor Infantil y Tumor raro de Adulto (MyPART)</a>: para personas con ciertos tumores poco frecuentes</li><li><a href='https://www.joinallofus.org/en' rel='noopener noreferrer' target='_blank'>All of Us</a>: un proyecto a gran escala para reunir datos de por lo menos un millón de personas que viven en los Estados Unidos, para acelerar las investigaciones y mejorar la salud</li></ul>",
+				"list": "<ul class='bulletList bulletList--spreadOut'><li><a href='https://www.cancer.gov/about-cancer/treatment/clinical-trials/search' rel='noopener noreferrer' target='_blank'>Estudios clínicos del Instituto Nacional del Cáncer (NCI)</a>: busque estudios clínicos patrocinados por el NCI</li><li><a href='https://www.cancer.gov/rare-brain-spine-tumor/' rel='noopener noreferrer' target='_blank'>Red de tumores infrecuentes de cerebro y médula espinal de NCI-CONNECT</a>: para personas con tumores poco frecuentes del cerebro y la médula espinal</li><li><a href='https://www.cancer.gov/pediatric-adult-rare-tumor/' rel='noopener noreferrer' target='_blank'>Mi Tumor Infantil y Tumor raro de Adulto (MyPART)</a>: para personas con ciertos tumores poco frecuentes</li><li><a href='https://www.joinallofus.org/en' rel='noopener noreferrer' target='_blank' class='external' aria-describedby='external'>All of Us</a>: un proyecto a gran escala para reunir datos de por lo menos un millón de personas que viven en los Estados Unidos, para acelerar las investigaciones y mejorar la salud</li></ul>",
 				"text": "Si no puede inscribirse en el Cancer Moonshot Biobank, considere aportar de otra manera al participar en proyectos de los NIH o el NCI."
 			},
 			"title": "¿No es apto para participar en el Biobanco? Inscríbase en otro proyecto"

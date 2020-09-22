@@ -5,7 +5,7 @@
 		"description": "Los investigadores necesitan el tejido donado por los pacientes durante su tratamiento para aprender cómo y por qué algunos cánceres se vuelven resistentes al tratamiento. ",
 		"title": "Los biobancos son importantes para la investigación | Cancer Moonshot Biobank"
 	},
-	"pageRoute": "/about/research",
+	"pageRoute": "/research",
 	"pageTitle": "Los biobancos son importantes para la investigación",
 	"sections": {
 		"0": {
@@ -17,6 +17,26 @@
 			"alt_text": "Investigadores que trabajan en un laboratorio",
 			"body": "<p>Investigadores de todo el mundo usarán el Biobanco. Tal vez trabajen en universidades, o en laboratorios y compañías farmacéuticas particulares.</p><p>A fin de recibir autorización para acceder a las muestras del Biobanco, los investigadores tendrán que cumplir normas rigurosas para el uso ético y seguro de muestras y datos.</p>",
 			"title": "¿Quién usa el Biobanco?"
+		},
+		"2": {
+			"links": {
+				"0": {
+					"author": "Dr. Jeffrey Tyner - Universidad de Salud y Ciencia de Oregon",
+					"route": "/research/tyner-acute-myeloid",
+					"text": "Genética de la leucemia mieloide aguda"
+				},
+				"1": {
+					"author": "Dr. Collin Blakely - Universidad de California San Francisco",
+					"route": "/research/blakely-improving-responses",
+					"text": "Mejora de las respuestas a los tratamientos para el cáncer de pulmón."
+				},
+				"2": {
+					"author": "Dr. Calvin Kuo - Universidad de Stanford",
+					"route": "/research/kuo-interactions-environment",
+					"text": "Interacciones de las células cancerosas con su entorno."
+				}
+			},
+			"title": "En qué están trabajando los investigadores"
 		}
 	}
 }

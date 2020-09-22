@@ -25,10 +25,15 @@
 			"description_plural": "You have {{count}} new notifications",
 			"link": "Review",
 			"title": "Notifications"
-    },
+		},
+		"resources": {
+			"description": "Information and advocacy organizations to support you.",
+			"link": "Learn more",
+			"title": "Resources and support"
+		},
 		"settings": {
 			"description": {
-				"admin": "Update your contact information.",
+				"admin": "Keep your contact information up to date to receive program notifications.",
 				"participant": "Update your information, set your language, or change how you participate in the Biobank."
 			},
 			"link": "Update account",
@@ -36,7 +41,7 @@
 		}
 	},
 	"metaData": {
-		"title": "Account | Account | Cancer Moonshot Biobank"
+		"title": "Account | Cancer Moonshot Biobank"
 	},
 	"pageTitle": "Welcome",
 	"subtitle": "Thank you for joining the Cancer Moonshot<sup>SM</sup> Biobank"

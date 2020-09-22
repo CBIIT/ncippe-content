@@ -26,9 +26,14 @@
 			"link": "Lea",
 			"title": "Notificaciones"
 		},
+		"resources": {
+			"description": "Organizaciones de información y defensa para apoyarlo.",
+			"link": "Obtenga más información",
+			"title": "Recursos y soporte"
+		},
 		"settings": {
 			"description": {
-				"admin": "Actualice su información de contacto.",
+				"admin": "Mantenga su información de contacto actualizada para recibir notificaciones del programa.",
 				"participant": "Actualice su información, configure su idioma o cambie cómo participa en el Biobanco."
 			},
 			"link": "Actualice su cuenta",
