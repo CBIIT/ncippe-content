@@ -66,26 +66,26 @@
 			"samples": {
 				"0": {
 					"alt_text": "Ejemplo de portada de un Informe de la prueba de biomarcadores de tumores sólidos",
-					"link": "Vea el ejemplo de un informe",
-					"title": "Ejemplo de informe de biomarcador - tumores sólidos",
+					"link": "Vea el ejemplo del informe",
+					"title": "Ejemplo de informe de biomarcadores: tumores sólidos",
 					"title_aria": "Ver un informe de prueba de tumor sólido Archivo de muestra PDF"
 				},
 				"1": {
-					"alt_text": "Guía para revisar la imagen de portada de un informe de prueba de tumor sólido",
-					"link": "Ver guía",
-					"title": "Guía para el informe de biomarcadores para tumores sólidos",
+					"alt_text": "Portada de la guía para interpretar un informe de la prueba de biomarcadores de tumores sólidos",
+					"link": "Vea la guía",
+					"title": "Guía del informe de biomarcadores para tumores sólidos",
 					"title_aria": "Vea el documento de guía en PDF para revisar un informe de prueba de tumor sólido"
 				},
 				"2": {
 					"alt_text": "Ejemplo de portada de un Informe de la prueba de biomarcadores de cáncer de la sangre",
 					"link": "Vea el ejemplo de un informe",
-					"title": "Ejemplo de informe de biomarcador - cánceres de sangre",
+					"title": "Ejemplo de informe de biomarcadores: cánceres de la sangre",
 					"title_aria": "Ver un informe de prueba de cáncer de sangre Archivo de muestra en PDF"
 				},
 				"3": {
-					"alt_text": "Guía para revisar la imagen de portada de un informe de prueba de cáncer de sangre",
-					"link": "Ver guía",
-					"title": "Guía para el informe de biomarcadores para cánceres de sangre",
+					"alt_text": "Portada de la guía para interpretar un informe de la prueba de biomarcadores de cánceres de la sangre",
+					"link": "Vea la guía ",
+					"title": "Guía del informe de biomarcadores para cánceres de la sangre",
 					"title_aria": "Vea el documento de guía en PDF para revisar un informe de prueba de cáncer de sangre"
 				}
 			},
