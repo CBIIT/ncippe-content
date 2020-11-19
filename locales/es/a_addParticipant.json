@@ -5,6 +5,10 @@
 		"error": {
 			"email": "Por favor, introduce una dirección de correo electrónico válida",
 			"file": "debes subir un archivo",
+			"fileType": {
+				"message": "El archivo seleccionado debe ser un pdf. Elimine el archivo e intente cargar el formulario nuevamente.",
+				"title": "Tipo de archivo incorrecto"
+			},
 			"firstName": "Por favor ingrese un nombre",
 			"lastName": "Por favor ingrese un apellido",
 			"noFile": {

@@ -5,8 +5,14 @@
 		"0": {
 			"button_select": "Seleccione un archivo para cargar",
 			"error": {
-				"message": "Lo sentimos. Algo salió mal. Elimine el archivo e intente cargar el formulario nuevamente.",
-				"title": "El archivo no se pudo cargar"
+				"fileType": {
+					"message": "El archivo seleccionado debe ser un pdf. Elimine el archivo e intente cargar el formulario nuevamente.",
+					"title": "Tipo de archivo incorrecto"
+				},
+				"onServer": {
+					"message": "Lo sentimos. Algo salió mal. Elimine el archivo e intente cargar el formulario nuevamente.",
+					"title": "El archivo no se pudo cargar"
+				}
 			}
 		},
 		"1": {

@@ -30,8 +30,14 @@
 		"1": {
 			"button_select": "Select a report",
 			"error": {
-				"message": "We're sorry, something went wrong. Please remove the file and try to upload the report again.",
-				"title": "Report failed to upload"
+				"fileType": {
+					"message": "The selected file must be a pdf. Please remove the file and try again.",
+					"title": "Incorrect file type"
+				},
+				"onServer": {
+					"message": "We're sorry, something went wrong. Please remove the file and try to upload the report again.",
+					"title": "Report failed to upload"
+				}
 			},
 			"form_subtitle": "Select a report to upload",
 			"form_title": "Participant"
