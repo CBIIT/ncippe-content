@@ -30,8 +30,14 @@
 		"1": {
 			"button_select": "Seleccione un informe",
 			"error": {
-				"message": "Lo sentimos. Algo salió mal. Elimine el archivo e intente cargar el informe nuevamente.",
-				"title": "El informe no se pudo cargar"
+				"fileType": {
+					"message": "El archivo seleccionado debe ser un pdf. Elimine el archivo e intente cargar el formulario nuevamente.",
+					"title": "Tipo de archivo incorrecto"
+				},
+				"onServer": {
+					"message": "Lo sentimos. Algo salió mal. Elimine el archivo e intente cargar el informe nuevamente.",
+					"title": "El informe no se pudo cargar"
+				}
 			},
 			"form_subtitle": "Seleccione un informe para cargar",
 			"form_title": "Partícipe"

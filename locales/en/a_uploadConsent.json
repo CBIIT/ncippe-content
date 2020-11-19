@@ -5,8 +5,14 @@
 		"0": {
 			"button_select": "Select a file to upload",
 			"error": {
-				"message": "We're sorry, something went wrong. Please remove the file and try to upload the form again.",
-				"title": "File failed to upload"
+				"fileType": {
+					"message": "The selected file must be a pdf. Please remove the file and try again.",
+					"title": "Incorrect file type"
+				},
+				"onServer": {
+					"message": "We're sorry, something went wrong. Please remove the file and try again.",
+					"title": "File failed to upload"
+				}
 			}
 		},
 		"1": {
