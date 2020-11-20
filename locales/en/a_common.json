@@ -92,6 +92,9 @@
 			"no_results": "No provider has been assigned to this participant",
 			"pageTitle": "Provider contacts"
 		},
+		"reportList": {
+			"prev_uploaded": "Previously uploaded"
+		},
 		"signin": {
 			"error": {
 				"no_state": "State does not match",

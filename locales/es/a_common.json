@@ -92,6 +92,9 @@
 			"no_results": "No se ha asignado ningún medico a este participante.",
 			"pageTitle": "Contacto con el proveedor"
 		},
+		"reportList": {
+			"prev_uploaded": "Cargado previamente"
+		},
 		"signin": {
 			"error": {
 				"no_state": "El estado no coincide",
