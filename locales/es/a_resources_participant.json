@@ -3,7 +3,7 @@
 	"metaData": {
 		"title": "Recursos | Cuenta | Cancer Moonshot Biobank"
 	},
-	"pageTitle": "Recursos para Pacientes y Cuidadores",
+	"pageTitle": "Recursos para pacientes y cuidadores",
 	"sections": {
 		"0": {
 			"body": "<a href='https://supportorgs.cancer.gov/home.aspx?lang=2' rel='noopener noreferrer' target='_blank'>Organizaciones de defensoría y apoyo</a><br />Esta es una base de datos, en la que se pueden hacer búsquedas, que incluye más de 100 organizaciones nacionales que ofrecen servicios de apoyo emocional, práctico y económico para las personas con cáncer y su familia.",
@@ -19,7 +19,7 @@
 		},
 		"3": {
 			"body": "<p><a href='https://www.cancer.gov/espanol/cancer/tratamiento/estudios-clinicos/guia-estudios-clinicos' rel='noopener noreferrer' target='_blank'>Pasos para encontrar un estudio clínico</a><br />Aprenda a cómo encontrar el estudio clínico que sea el adecuado para usted.</p><p><a href='https://www.cancer.gov/about-cancer/treatment/clinical-trials/search' rel='noopener noreferrer' target='_blank'>Búsqueda de estudios clínicos financiados o patrocinados por el NCI [solo en inglés]</a><br />Búsqueda de estudios clínicos sobre su tipo específico de cáncer.</p>",
-			"title": "Ensayos clínicos"
+			"title": "Estudios clínicos"
 		}
 	}
 }
