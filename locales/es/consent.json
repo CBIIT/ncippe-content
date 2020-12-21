@@ -2,6 +2,9 @@
 	"alt_text": {
 		"0": "Médico y paciente"
 	},
+	"form_file_adult": "Sample-Adult-Consent-Form-ES.pdf",
+	"form_file_minors": "Sample-Assent-Form-For-Minors-ES.pdf",
+	"form_file_parental": "Sample-Parental-Permission-Form-ES.pdf",
 	"form_link_adult": "Formulario de consentimiento para adultos",
 	"form_link_minors": "Formulario de asentimiento para menores de edad",
 	"form_link_parental": "Formulario de autorización de padres",
