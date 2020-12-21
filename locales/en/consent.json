@@ -2,6 +2,9 @@
 	"alt_text": {
 		"0": "Doctor and patient"
 	},
+	"form_file_adult": "Sample-Adult-Consent-Form.pdf",
+	"form_file_minors": "Sample-Assent-Form-For-Minors.pdf",
+	"form_file_parental": "Sample-Parental-Permission-Form.pdf",
 	"form_link_adult": "Adult consent form",
 	"form_link_minors": "Assent form for minors",
 	"form_link_parental": "Parental permission form",
