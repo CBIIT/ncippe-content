@@ -20,6 +20,11 @@
 			"link": "Learn more",
 			"title": "Get help"
 		},
+		"messageHistory": {
+			"description": "View past sent messages",
+			"link": "History",
+			"title": "Message history"
+		},
 		"notifications": {
 			"description": "You have {{count}} new notification",
 			"description_plural": "You have {{count}} new notifications",
@@ -30,6 +35,11 @@
 			"description": "Information and advocacy organizations to support you.",
 			"link": "Learn more",
 			"title": "Resources and support"
+		},
+		"sendMessage": {
+			"description": "Compose and send a message",
+			"link": "Compose message",
+			"title": "Send message"
 		},
 		"settings": {
 			"description": {
