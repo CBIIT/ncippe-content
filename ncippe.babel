@@ -1863,6 +1863,23 @@
                                     </translation>
                                 </translations>
                             </concept_node>
+                            <concept_node>
+                                <name>terminated</name>
+                                <definition_loaded>false</definition_loaded>
+                                <description/>
+                                <comment/>
+                                <default_text/>
+                                <translations>
+                                    <translation>
+                                        <language>en-US</language>
+                                        <approved>false</approved>
+                                    </translation>
+                                    <translation>
+                                        <language>es-ES</language>
+                                        <approved>false</approved>
+                                    </translation>
+                                </translations>
+                            </concept_node>
                         </children>
                     </folder_node>
                     <folder_node>
@@ -2580,6 +2597,45 @@
                                             </folder_node>
                                             <folder_node>
                                                 <name>info</name>
+                                                <children>
+                                                    <concept_node>
+                                                        <name>message</name>
+                                                        <definition_loaded>false</definition_loaded>
+                                                        <description/>
+                                                        <comment/>
+                                                        <default_text/>
+                                                        <translations>
+                                                            <translation>
+                                                                <language>en-US</language>
+                                                                <approved>false</approved>
+                                                            </translation>
+                                                            <translation>
+                                                                <language>es-ES</language>
+                                                                <approved>false</approved>
+                                                            </translation>
+                                                        </translations>
+                                                    </concept_node>
+                                                    <concept_node>
+                                                        <name>title</name>
+                                                        <definition_loaded>false</definition_loaded>
+                                                        <description/>
+                                                        <comment/>
+                                                        <default_text/>
+                                                        <translations>
+                                                            <translation>
+                                                                <language>en-US</language>
+                                                                <approved>false</approved>
+                                                            </translation>
+                                                            <translation>
+                                                                <language>es-ES</language>
+                                                                <approved>false</approved>
+                                                            </translation>
+                                                        </translations>
+                                                    </concept_node>
+                                                </children>
+                                            </folder_node>
+                                            <folder_node>
+                                                <name>terminated</name>
                                                 <children>
                                                     <concept_node>
                                                         <name>message</name>
