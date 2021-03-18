@@ -6,7 +6,8 @@
 		"new": "Nuevo",
 		"new_document": "Nuevo documento",
 		"new_participant": "Nuevo participante",
-		"not_participating": "No participa"
+		"not_participating": "No participa",
+		"terminated": "Cuenta Cerrada"
 	},
 	"buttons": {
 		"back": "atrás",
@@ -81,6 +82,10 @@
 				"info": {
 					"message": "El participante dejó el Biobanco el {{date}}. Tendrán que hablar con su coordinador de investigación para volver a unirse.",
 					"title": "Este participante ha dejado el Biobanco."
+				},
+				"terminated": {
+					"message": "NCI mantendrá los datos almacenados en el sitio web del Biobanco hasta que un coordinador de investigación solicite la eliminación permanente de estos datos.",
+					"title": "Este participante ha cerrado su cuenta."
 				},
 				"uploaded": {
 					"message": "Enviamos un correo electrónico para informar al participante.",

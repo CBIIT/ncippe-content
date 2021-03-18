@@ -6,7 +6,8 @@
 		"new": "New",
 		"new_document": "New Document",
 		"new_participant": "New Participant",
-		"not_participating": "Not Participating"
+		"not_participating": "Not Participating",
+		"terminated": "Account Closed"
 	},
 	"buttons": {
 		"back": "Back",
@@ -81,6 +82,10 @@
 				"info": {
 					"message": "The participant left the Biobank on {{date}}. They will need to talk to their research coordinator to rejoin.",
 					"title": "This participant has left the Biobank."
+				},
+				"terminated": {
+					"message": "NCI will keep any data stored in the Biobank website until a request by a research coordinator is made to permanently delete this data.",
+					"title": "This participant has closed their account."
 				},
 				"uploaded": {
 					"message": "We sent an email to let the participant know.",
