@@ -16,6 +16,7 @@
 		"edit": "Modificar",
 		"next": "Siguiente",
 		"no": "No",
+		"previous": "",
 		"save": "Guardar",
 		"submit": "Enviar",
 		"view": "Ver en el navegador",
@@ -56,6 +57,10 @@
 		},
 		"fileItem": {
 			"last_modified": "Última modificación"
+		},
+		"messageHistory": {
+			"description": "",
+			"pageTitle": ""
 		},
 		"notificationView": {
 			"metaData": {
@@ -131,6 +136,7 @@
 			"title": "Ya no participa en el Biobanco."
 		}
 	},
+	"of": "",
 	"participant": {
 		"id": "ID del participante",
 		"since": "Participante desde"

@@ -1,0 +1,69 @@
+{
+	"compose": {
+		"form": {
+			"error_input": "Subject is required",
+			"error_textarea": "Please compose a new message"
+		},
+		"input_helper_text": "Appears in the notification and as the subject line of the email, if the user receives one.",
+		"input_label": "Subject",
+		"input_placeholder": "Subject in English / Subject in Spanish",
+		"textarea_placeholder": "<p>English text of the message...</p><hr /><p>Spanish text of the message...</p>",
+		"title": "Enter your message"
+	},
+	"description": "",
+	"error": {
+		"message": "The system encountered an error and was not able to send your message. Please try again or contact an administrator.",
+		"title": "Your message has not been sent"
+	},
+	"pageTitle": "Send message",
+	"preview": {
+		"buttons": {
+			"send": "Send"
+		},
+		"description": "Sending to",
+		"title": "Preview your message"
+	},
+	"progress": {
+		"message": "Sending emails..."
+	},
+	"recipients": {
+		"form": {
+			"error": "You must select at least one audience"
+		},
+		"list": {
+			"0": {
+				"label": "Clinical Research Associates"
+			},
+			"1": {
+				"label": "Participants"
+			},
+			"2": {
+				"label": "Providers"
+			}
+		},
+		"title": "Select the audience for your message"
+	},
+	"stepper": {
+		"0": {
+			"label": "Choose recipients"
+		},
+		"1": {
+			"label": "Compose message"
+		},
+		"2": {
+			"label": "Preview"
+		},
+		"3": {
+			"label": "Complete"
+		}
+	},
+	"stepper_title": "Send a new message",
+	"success": {
+		"buttons": {
+			"repeat": "Send another message",
+			"return": "Return to dashboard"
+		},
+		"message": "Your message has been sent successfully",
+		"title": "Message sent"
+	}
+}
