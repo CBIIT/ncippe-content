@@ -30,17 +30,6 @@
 		"form": {
 			"error": "You must select at least one audience"
 		},
-		"list": {
-			"0": {
-				"label": "Clinical Research Associates"
-			},
-			"1": {
-				"label": "Participants"
-			},
-			"2": {
-				"label": "Providers"
-			}
-		},
 		"title": "Select the audience for your message"
 	},
 	"stepper": {
