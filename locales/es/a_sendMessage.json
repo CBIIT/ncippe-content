@@ -17,6 +17,9 @@
 		"message": "El sistema encontró un error y no pudo enviar su mensaje. Vuelva a intentarlo o póngase en contacto con un administrador.",
 		"title": "Su mensaje no ha sido enviado"
 	},
+	"metaData": {
+		"title": "Enviar mensaje | Cuenta | Cancer Moonshot Biobank"
+	},
 	"pageTitle": "Enviar mensaje",
 	"preview": {
 		"buttons": {
