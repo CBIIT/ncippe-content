@@ -1,0 +1,15 @@
+{
+	"button": {
+		"return": "Return to messages"
+	},
+	"description": "View past messages",
+	"message": {
+		"sentBy": "Sent by",
+		"sentTo": "Sent to"
+	},
+	"pageTitle": "Message history",
+	"tableCols": {
+		"date": "Date",
+		"subject": "Subject"
+	}
+}

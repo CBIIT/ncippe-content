@@ -58,21 +58,6 @@
 		"fileItem": {
 			"last_modified": "Última modificación"
 		},
-		"messageHistory": {
-			"button": {
-				"return": "Volver a los mensajes"
-			},
-			"description": "Ver mensajes pasados",
-			"message": {
-				"sentBy": "Enviado por",
-				"sentTo": "Enviado a"
-			},
-			"pageTitle": "Historial de mensajes",
-			"tableCols": {
-				"date": "Fecha",
-				"subject": "Sujeto"
-			}
-		},
 		"notificationView": {
 			"metaData": {
 				"title": "Notificaciones | Cuenta | Cancer Moonshot Biobank"
