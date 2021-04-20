@@ -1,58 +1,60 @@
 {
 	"compose": {
 		"form": {
-			"error_input": "",
-			"error_textarea": ""
+			"error_enPlaceholder": "Redacte un mensaje en inglés o elimine el texto del marcador de posición",
+			"error_esPlaceholder": "Redacte un mensaje en español o elimine el texto del marcador de posición",
+			"error_input": "El sujeto es requerido",
+			"error_textarea": "Por favor redacte un mensaje nuevo"
 		},
-		"input_helper_text": "",
-		"input_label": "",
-		"input_placeholder": "",
-		"textarea_placeholder": "",
-		"title": ""
+		"input_helper_text": "Aparece en la notificación y como asunto del correo electrónico, si el usuario recibe uno.",
+		"input_label": "Tema",
+		"input_placeholder": "Asunto en inglés / Asunto en español",
+		"textarea_placeholder": "<p>Texto del mensaje en inglés ...</p><hr /><p>Texto del mensaje en español ...</p>",
+		"title": "Ingrese su mensaje"
 	},
 	"description": "",
 	"error": {
-		"message": "",
-		"title": ""
+		"message": "El sistema encontró un error y no pudo enviar su mensaje. Vuelva a intentarlo o póngase en contacto con un administrador.",
+		"title": "Su mensaje no ha sido enviado"
 	},
-	"pageTitle": "",
+	"pageTitle": "Enviar mensaje",
 	"preview": {
 		"buttons": {
-			"send": ""
+			"send": "Enviar"
 		},
-		"description": "",
-		"title": ""
+		"description": "Enviando a",
+		"title": "Vista previa de su mensaje"
 	},
 	"progress": {
-		"message": ""
+		"message": "Mandando correos electrónicos..."
 	},
 	"recipients": {
 		"form": {
-			"error": ""
+			"error": "Debes seleccionar al menos una audiencia"
 		},
-		"title": ""
+		"title": "Seleccione la audiencia de su mensaje"
 	},
 	"stepper": {
 		"0": {
-			"label": ""
+			"label": "Elija destinatarios"
 		},
 		"1": {
-			"label": ""
+			"label": "Crear Mensaje"
 		},
 		"2": {
-			"label": ""
+			"label": "Avance"
 		},
 		"3": {
-			"label": ""
+			"label": "Completar"
 		}
 	},
-	"stepper_title": "",
+	"stepper_title": "Envíe un mensaje nuevo",
 	"success": {
 		"buttons": {
-			"repeat": "",
-			"return": ""
+			"repeat": "Enviar otro mensaje",
+			"return": "Regresar al tablero"
 		},
-		"message": "",
-		"title": ""
+		"message": "Tu mensaje ha sido enviado exitosamente",
+		"title": "Mensaje enviado"
 	}
 }

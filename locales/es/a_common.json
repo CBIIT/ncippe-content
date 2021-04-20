@@ -16,7 +16,7 @@
 		"edit": "Modificar",
 		"next": "Siguiente",
 		"no": "No",
-		"previous": "",
+		"previous": "Anterior",
 		"save": "Guardar",
 		"submit": "Enviar",
 		"view": "Ver en el navegador",
@@ -59,8 +59,19 @@
 			"last_modified": "Última modificación"
 		},
 		"messageHistory": {
-			"description": "",
-			"pageTitle": ""
+			"button": {
+				"return": "Volver a los mensajes"
+			},
+			"description": "Ver mensajes pasados",
+			"message": {
+				"sentBy": "Enviado por",
+				"sentTo": "Enviado a"
+			},
+			"pageTitle": "Historial de mensajes",
+			"tableCols": {
+				"date": "Fecha",
+				"subject": "Sujeto"
+			}
 		},
 		"notificationView": {
 			"metaData": {

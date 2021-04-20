@@ -59,8 +59,19 @@
 			"last_modified": "Last modified"
 		},
 		"messageHistory": {
+			"button": {
+				"return": "Return to messages"
+			},
 			"description": "View past messages",
-			"pageTitle": "Message history"
+			"message": {
+				"sentBy": "Sent by",
+				"sentTo": "Sent to"
+			},
+			"pageTitle": "Message history",
+			"tableCols": {
+				"date": "Date",
+				"subject": "Subject"
+			}
 		},
 		"notificationView": {
 			"metaData": {

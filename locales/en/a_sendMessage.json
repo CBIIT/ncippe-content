@@ -1,6 +1,8 @@
 {
 	"compose": {
 		"form": {
+			"error_enPlaceholder": "Please compose a message in English or remove the placeholder text",
+			"error_esPlaceholder": "Please compose a message in Spanish or remove the placeholder text",
 			"error_input": "Subject is required",
 			"error_textarea": "Please compose a new message"
 		},
