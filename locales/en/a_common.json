@@ -17,6 +17,7 @@
 		"edit": "Edit",
 		"next": "Next",
 		"no": "No",
+		"previous": "Previous",
 		"save": "Save",
 		"submit": "Submit",
 		"view": "View in browser",
@@ -136,6 +137,7 @@
 			"title": "You are no longer participating in the Biobank."
 		}
 	},
+	"of": "of",
 	"participant": {
 		"id": "Participant ID",
 		"since": "Participant since"

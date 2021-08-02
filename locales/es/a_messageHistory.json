@@ -1,0 +1,22 @@
+{
+	"button": {
+		"return": "Volver a los mensajes"
+	},
+	"description": "Ver mensajes pasados",
+	"message": {
+		"sentBy": "Enviado por",
+		"sentTo": "Enviado a"
+	},
+	"metaData": {
+		"title": "Historial de Mensajes | Cuenta | Cancer Moonshot Biobank"
+	},
+	"pageTitle": "Historial de mensajes",
+	"switch": {
+		"all": "Ver todo",
+		"mine": "Ver el mío"
+	},
+	"tableCols": {
+		"date": "Fecha",
+		"subject": "Sujeto"
+	}
+}

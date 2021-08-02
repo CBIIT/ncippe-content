@@ -1,0 +1,22 @@
+{
+	"button": {
+		"return": "Return to messages"
+	},
+	"description": "View past messages",
+	"message": {
+		"sentBy": "Sent by",
+		"sentTo": "Sent to"
+	},
+	"metaData": {
+		"title": "Message History | Account | Cancer Moonshot Biobank"
+	},
+	"pageTitle": "Message history",
+	"switch": {
+		"all": "View all",
+		"mine": "View mine"
+	},
+	"tableCols": {
+		"date": "Date",
+		"subject": "Subject"
+	}
+}

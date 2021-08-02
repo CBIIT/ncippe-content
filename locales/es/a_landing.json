@@ -20,6 +20,11 @@
 			"link": "Obtenga más información",
 			"title": "Obtenga ayuda"
 		},
+		"messageHistory": {
+			"description": "Ver mensajes enviados anteriores",
+			"link": "Historia",
+			"title": "Historial de mensajes"
+		},
 		"notifications": {
 			"description": "Tiene {{count}} notificación nueva",
 			"description_plural": "Tiene {{count}} notificaciones nuevas",
@@ -30,6 +35,11 @@
 			"description": "Información y organizaciones de defensoría para apoyarlo.",
 			"link": "Obtenga más información",
 			"title": "Recursos y apoyo"
+		},
+		"sendMessage": {
+			"description": "Redactar y enviar un mensaje",
+			"link": "Crear Mensaje",
+			"title": "Enviar mensaje"
 		},
 		"settings": {
 			"description": {

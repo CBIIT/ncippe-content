@@ -17,6 +17,7 @@
 		"edit": "Modificar",
 		"next": "Siguiente",
 		"no": "No",
+		"previous": "Anterior",
 		"save": "Guardar",
 		"submit": "Enviar",
 		"view": "Ver en el navegador",
@@ -136,6 +137,7 @@
 			"title": "Ya no participa en el Biobanco."
 		}
 	},
+	"of": "",
 	"participant": {
 		"id": "ID del participante",
 		"since": "Participante desde"

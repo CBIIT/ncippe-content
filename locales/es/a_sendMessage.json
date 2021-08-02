@@ -1,0 +1,63 @@
+{
+	"compose": {
+		"form": {
+			"error_enPlaceholder": "Redacte un mensaje en inglés o elimine el texto del marcador de posición",
+			"error_esPlaceholder": "Redacte un mensaje en español o elimine el texto del marcador de posición",
+			"error_input": "El sujeto es requerido",
+			"error_textarea": "Por favor redacte un mensaje nuevo"
+		},
+		"input_helper_text": "Aparece en la notificación y como asunto del correo electrónico, si el usuario recibe uno.",
+		"input_label": "Tema",
+		"input_placeholder": "Asunto en inglés / Asunto en español",
+		"textarea_placeholder": "<p>Texto del mensaje en inglés ...</p><hr /><p>Texto del mensaje en español ...</p>",
+		"title": "Ingrese su mensaje"
+	},
+	"description": "",
+	"error": {
+		"message": "El sistema encontró un error y no pudo enviar su mensaje. Vuelva a intentarlo o póngase en contacto con un administrador.",
+		"title": "Su mensaje no ha sido enviado"
+	},
+	"metaData": {
+		"title": "Enviar mensaje | Cuenta | Cancer Moonshot Biobank"
+	},
+	"pageTitle": "Enviar mensaje",
+	"preview": {
+		"buttons": {
+			"send": "Enviar"
+		},
+		"description": "Enviando a",
+		"title": "Vista previa de su mensaje"
+	},
+	"progress": {
+		"message": "Mandando correos electrónicos..."
+	},
+	"recipients": {
+		"form": {
+			"error": "Debes seleccionar al menos una audiencia"
+		},
+		"title": "Seleccione la audiencia de su mensaje"
+	},
+	"stepper": {
+		"0": {
+			"label": "Elija destinatarios"
+		},
+		"1": {
+			"label": "Crear Mensaje"
+		},
+		"2": {
+			"label": "Avance"
+		},
+		"3": {
+			"label": "Completar"
+		}
+	},
+	"stepper_title": "Envíe un mensaje nuevo",
+	"success": {
+		"buttons": {
+			"repeat": "Enviar otro mensaje",
+			"return": "Regresar al tablero"
+		},
+		"message": "Tu mensaje ha sido enviado exitosamente",
+		"title": "Mensaje enviado"
+	}
+}
