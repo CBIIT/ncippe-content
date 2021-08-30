@@ -27,9 +27,9 @@
 		"biomarkerView": {
 			"description": "Please download and save your biomarker report in your records. A copy has also been sent to your provider.",
 			"guide": {
-				"alt_text": "document cover image",
+				"alt_text": "cover of guide to biomarker reports",
 				"link": "View guide",
-				"title": "Guide for reviewing a solid tumor test report",
+				"title": "Guide to the biomarker report for solid tumors and multiple myeloma",
 				"title_aria": "View the PDF guide document for reviewing a solid tumor test report"
 			},
 			"metaData": {
