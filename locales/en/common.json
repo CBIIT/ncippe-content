@@ -31,6 +31,10 @@
 				"text": "Disclaimer Policy"
 			},
 			"email": "moonshotbiobank@nih.gov",
+			"facebook": {
+				"alt_text": "facebook icon",
+				"text": "Share this page on Facebook"
+			},
 			"foia": {
 				"link": "https://www.cancer.gov/policies/foia",
 				"text": "FOIA"
@@ -38,6 +42,10 @@
 			"hhs": {
 				"link": "https://www.hhs.gov/",
 				"text": "U.S. Department of Health and Human Services"
+			},
+			"linkedin": {
+				"alt_text": "linkedin icon",
+				"text": "Share this page on LinkedIn"
 			},
 			"nci": {
 				"link": "https://www.cancer.gov/",
@@ -54,6 +62,11 @@
 				"text": "Privacy and Security Policy"
 			},
 			"resources_title": "More Resources",
+			"social_title": "Share this site with friends and family",
+			"twitter": {
+				"alt_text": "twitter icon",
+				"text": "Share this page on Twitter"
+			},
 			"usa": {
 				"link": "https://www.usa.gov/",
 				"text": "USA.gov"
