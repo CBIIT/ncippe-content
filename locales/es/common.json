@@ -31,6 +31,10 @@
 				"text": "Política de Exención de Responsabilidad"
 			},
 			"email": "moonshotbiobank@nih.gov",
+			"facebook": {
+				"alt_text": "icono de facebook",
+				"text": "Comparte esta página en Facebook"
+			},
 			"foia": {
 				"link": "https://www.cancer.gov/espanol/politicas/foia",
 				"text": "Ley de libre acceso a la información (FOIA)"
@@ -38,6 +42,10 @@
 			"hhs": {
 				"link": "https://www.hhs.gov/",
 				"text": "Departamento de Salud y Servicios Humanos de EE. UU."
+			},
+			"linkedin": {
+				"alt_text": "icono de linkedin",
+				"text": "Comparte esta página en LinkedIn"
 			},
 			"nci": {
 				"link": "https://www.cancer.gov/espanol",
@@ -54,6 +62,11 @@
 				"text": "Política de Privacidad y Seguridad"
 			},
 			"resources_title": "Más Recursos",
+			"share_title": "Comparte este sitio con amigos y familiares",
+			"twitter": {
+				"alt_text": "icono de twitter",
+				"text": "Comparte esta pagina en Twitter"
+			},
 			"usa": {
 				"link": "https://www.usa.gov/espanol/",
 				"text": "USA.gov"
