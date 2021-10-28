@@ -87,11 +87,24 @@
 					"link": "View guide",
 					"title": "Guide to the biomarker report for blood cancers",
 					"title_aria": "View the PDF guide document for reviewing a blood cancer test report"
+				},
+				"4": {
+					"alt_text": "AML test report page sample",
+					"link": "View sample report",
+					"title": "Sample biomarker report - AML",
+					"title_aria": "View an AML test report PDF sample file"
+				},
+				"5": {
+					"alt_text": "cover of AML biomarker test",
+					"link": "View guide",
+					"title": "Guide to the biomarker report for AML",
+					"title_aria": "View the PDF guide document for reviewing an AML test report"
 				}
 			},
 			"subtitle": {
 				"0": "Solid tumors",
-				"1": "Blood cancers"
+				"1": "Blood cancers",
+				"2": "Acute Myeloid Leukemia (AML)"
 			},
 			"title": "Sample reports and guides"
 		},
