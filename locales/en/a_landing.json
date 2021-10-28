@@ -11,9 +11,16 @@
 			"title": "Consent forms"
 		},
 		"guide": {
-			"description": "Understand how to interpret the results of the solid tumor test report.",
-			"link": "Download PDF",
-			"title": "Solid tumor report guide"
+			"0": {
+				"description": "Understand how to interpret the results of the solid tumor test report.",
+				"link": "Download PDF",
+				"title": "Solid tumor report guide"
+			},
+			"1": {
+				"description": "Understand how to interpret the results of the Acute Myeloid Leukemia (AML) test report.",
+				"link": "Download PDF",
+				"title": "AML report guide"
+			}
 		},
 		"help": {
 			"description": "Learn about changing your participation in the Biobank.",

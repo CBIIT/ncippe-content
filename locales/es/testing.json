@@ -71,7 +71,7 @@
 					"title_aria": "Ver un informe de prueba de tumor sólido Archivo de muestra PDF"
 				},
 				"1": {
-					"alt_text": "Portada del informe de biomarcadores de muestra",
+					"alt_text": "portada del informe de biomarcadores de tumores sólidos",
 					"link": "Vea la guía",
 					"title": " Ejemplo de informe de biomarcadores: tumores sólidos y mieloma múltiple",
 					"title_aria": "Vea el documento de guía en PDF para revisar un informe de prueba de tumor sólido"
@@ -95,7 +95,7 @@
 					"title_aria": "Ver un informe de prueba de AML archivo de muestra en PDF"
 				},
 				"5": {
-					"alt_text": "Portada de la guía para interpretar un informe de la prueba de biomarcadores de AML",
+					"alt_text": "portada del informe de biomarcadores AML",
 					"link": "Vea la guía ",
 					"title": "Guía del informe de biomarcadores para AML",
 					"title_aria": "Vea el documento de guía en PDF para revisar un informe de prueba de AML"

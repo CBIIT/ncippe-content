@@ -27,10 +27,18 @@
 		"biomarkerView": {
 			"description": "Please download and save your biomarker report in your records. A copy has also been sent to your provider.",
 			"guide": {
-				"alt_text": "cover of guide to biomarker reports",
-				"link": "View guide",
-				"title": "Guide to the biomarker report for solid tumors and multiple myeloma",
-				"title_aria": "View the PDF guide document for reviewing a solid tumor test report"
+				"0": {
+					"alt_text": "cover of solid tumor biomarker report",
+					"link": "View guide",
+					"title": "Guide to the biomarker report for solid tumors and multiple myeloma",
+					"title_aria": "View the PDF guide document for reviewing a solid tumor test report"
+				},
+				"1": {
+					"alt_text": "cover of AML biomarker report",
+					"link": "View guide",
+					"title": "Guide to the biomarker report for Acute Myeloid Leukemia (AML)",
+					"title_aria": "View the PDF guide document for reviewing an Acute Myeloid Leukemia (AML) test report"
+				}
 			},
 			"metaData": {
 				"title": "Biomarker reports | Account | Cancer Moonshot Biobank"

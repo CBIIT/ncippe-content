@@ -11,9 +11,16 @@
 			"title": "Formularios de consentimiento"
 		},
 		"guide": {
-			"description": "Comprenda cómo interpretar los resultados del informe de prueba de tumor sólido.",
-			"link": "Descargar PDF",
-			"title": "Guía de informe de tumor sólido"
+			"0": {
+				"description": "Comprenda cómo interpretar los resultados del informe de prueba de tumor sólido.",
+				"link": "Descargar PDF",
+				"title": "Guía de informe de tumor sólido"
+			},
+			"1": {
+				"description": "Comprenda cómo interpretar los resultados del informe de prueba de Leucemia mieloide aguda (AML).",
+				"link": "Descargar PDF",
+				"title": "Guía de informe de AML"
+			}
 		},
 		"help": {
 			"description": "Obtenga información sobre cómo cambiar su participación en el Biobanco.",
