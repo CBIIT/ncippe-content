@@ -65,16 +65,16 @@
 		"2": {
 			"samples": {
 				"0": {
-					"alt_text": "Ejemplo de portada de un Informe de la prueba de biomarcadores de tumores sólidos",
+					"alt_text": "Ejemplo de portada de un Informe de la prueba de biomarcadores de tumores sólidos y mieloma múltiple",
 					"link": "Vea el ejemplo del informe",
-					"title": "Ejemplo de informe de biomarcadores: tumores sólidos",
-					"title_aria": "Ver un informe de prueba de tumor sólido Archivo de muestra PDF"
+					"title": " Ejemplo de informe de biomarcadores: tumores sólidos y mieloma múltiple",
+					"title_aria": "Ver un informe de prueba de tumor sólido y mieloma múltiple archivo de muestra PDF"
 				},
 				"1": {
-					"alt_text": "Portada del informe de biomarcadores de muestra",
+					"alt_text": "portada del informe de biomarcadores de tumores sólidos y mieloma múltiple",
 					"link": "Vea la guía",
-					"title": " Ejemplo de informe de biomarcadores: tumores sólidos y mieloma múltiple",
-					"title_aria": "Vea el documento de guía en PDF para revisar un informe de prueba de tumor sólido"
+					"title": "Informe de la guía de tumores sólidos y mieloma múltiple",
+					"title_aria": "Vea el documento de guía en PDF para revisar un informe de prueba de tumor sólido y mieloma múltiple"
 				},
 				"2": {
 					"alt_text": "Ejemplo de portada de un Informe de la prueba de biomarcadores de cáncer de la sangre",
@@ -87,11 +87,24 @@
 					"link": "Vea la guía ",
 					"title": "Guía del informe de biomarcadores para cánceres de la sangre",
 					"title_aria": "Vea el documento de guía en PDF para revisar un informe de prueba de cáncer de sangre"
+				},
+				"4": {
+					"alt_text": "Ejemplo de portada de un Informe de la prueba de biomarcadores de AML",
+					"link": "Vea el ejemplo de un informe",
+					"title": "Ejemplo de informe de biomarcadores: AML",
+					"title_aria": "Ver un informe de prueba de AML archivo de muestra en PDF"
+				},
+				"5": {
+					"alt_text": "portada del informe de biomarcadores AML",
+					"link": "Vea la guía ",
+					"title": "Guía del informe de biomarcadores para AML",
+					"title_aria": "Vea el documento de guía en PDF para revisar un informe de prueba de AML"
 				}
 			},
 			"subtitle": {
 				"0": "Tumores sólidos",
-				"1": "Cáncer de la sangre"
+				"1": "Cáncer de la sangre",
+				"2": "Leucemia mieloide aguda (AML)"
 			},
 			"title": "Ejemplos de informes y guías"
 		},
