@@ -65,16 +65,16 @@
 		"2": {
 			"samples": {
 				"0": {
-					"alt_text": "Ejemplo de portada de un Informe de la prueba de biomarcadores de tumores sólidos",
+					"alt_text": "Ejemplo de portada de un Informe de la prueba de biomarcadores de tumores sólidos y mieloma múltiple",
 					"link": "Vea el ejemplo del informe",
-					"title": "Ejemplo de informe de biomarcadores: tumores sólidos",
-					"title_aria": "Ver un informe de prueba de tumor sólido Archivo de muestra PDF"
+					"title": " Ejemplo de informe de biomarcadores: tumores sólidos y mieloma múltiple",
+					"title_aria": "Ver un informe de prueba de tumor sólido y mieloma múltiple archivo de muestra PDF"
 				},
 				"1": {
-					"alt_text": "portada del informe de biomarcadores de tumores sólidos",
+					"alt_text": "portada del informe de biomarcadores de tumores sólidos y mieloma múltiple",
 					"link": "Vea la guía",
-					"title": " Ejemplo de informe de biomarcadores: tumores sólidos y mieloma múltiple",
-					"title_aria": "Vea el documento de guía en PDF para revisar un informe de prueba de tumor sólido"
+					"title": "Informe de la guía de tumores sólidos y mieloma múltiple",
+					"title_aria": "Vea el documento de guía en PDF para revisar un informe de prueba de tumor sólido y mieloma múltiple"
 				},
 				"2": {
 					"alt_text": "Ejemplo de portada de un Informe de la prueba de biomarcadores de cáncer de la sangre",

@@ -65,16 +65,16 @@
 		"2": {
 			"samples": {
 				"0": {
-					"alt_text": "Solid tumor test report page sample",
+					"alt_text": "Solid tumor and multiple myeloma test report page sample",
 					"link": "View sample report",
-					"title": "Sample biomarker report - solid tumors",
-					"title_aria": "View a solid tumor test report PDF sample file"
+					"title": " Sample biomarker report – solid tumors and multiple myeloma",
+					"title_aria": "View a solid tumor and multiple myeloma test report PDF sample file"
 				},
 				"1": {
-					"alt_text": "cover of solid tumor biomarker report",
+					"alt_text": "cover of solid tumor and multiple myeloma biomarker report",
 					"link": "View guide",
-					"title": " Sample biomarker report – solid tumors and multiple myeloma",
-					"title_aria": "View the PDF guide document for reviewing a solid tumor test report"
+					"title": "Guide to solid tumors and multiple myeloma report",
+					"title_aria": "View the PDF guide document for reviewing a solid tumor and multiple myeloma test report"
 				},
 				"2": {
 					"alt_text": "Blood cancer test report page sample",
