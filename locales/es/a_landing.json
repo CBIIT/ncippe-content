@@ -14,12 +14,12 @@
 			"0": {
 				"description": "Comprenda cómo interpretar los resultados del informe de prueba de tumor sólido y mieloma múltiple.",
 				"link": "Descargar PDF",
-				"title": "Guía de informe de tumores sólidos y mieloma múltiple"
+				"title": "Informe de la guía de tumores sólidos y mieloma múltiple"
 			},
 			"1": {
 				"description": "Comprenda cómo interpretar los resultados del informe de prueba de Leucemia mieloide aguda (AML).",
 				"link": "Descargar PDF",
-				"title": "Guía de informe de AML"
+				"title": "Informe de la guía de biomarcadores AML"
 			}
 		},
 		"help": {
@@ -39,7 +39,10 @@
 			"title": "Notificaciones"
 		},
 		"resources": {
-			"description": "Información y organizaciones de defensoría para apoyarlo.",
+			"description": {
+				"admin": "Recursos para ayudarlo en su investigación y su trabajo con los pacientes.",
+				"participant": "Información y organizaciones de defensoría para apoyarlo."
+			},
 			"link": "Obtenga más información",
 			"title": "Recursos y apoyo"
 		},

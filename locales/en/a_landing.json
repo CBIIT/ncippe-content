@@ -14,12 +14,12 @@
 			"0": {
 				"description": "Understand how to interpret the results of the solid tumor and multiple myeloma test report.",
 				"link": "Download PDF",
-				"title": "Solid tumor and multiple myeloma report guide"
+				"title": "Guide to solid tumors and multiple myeloma report"
 			},
 			"1": {
 				"description": "Understand how to interpret the results of the Acute Myeloid Leukemia (AML) test report.",
 				"link": "Download PDF",
-				"title": "AML report guide"
+				"title": "Guide to AML biomarker report"
 			}
 		},
 		"help": {
@@ -39,7 +39,10 @@
 			"title": "Notifications"
 		},
 		"resources": {
-			"description": "Information and advocacy organizations to support you.",
+			"description": {
+				"admin": "Resources to help you in your research and your work with patients.",
+				"participant": "Information and advocacy organizations to support you."
+			},
 			"link": "Learn more",
 			"title": "Resources and support"
 		},
