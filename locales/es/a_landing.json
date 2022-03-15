@@ -12,14 +12,14 @@
 		},
 		"guide": {
 			"0": {
-				"description": "Comprenda cómo interpretar los resultados del informe de prueba de tumor sólido y mieloma múltiple.",
+				"description": "Entienda cómo interpretar los resultados del informe de la prueba de tumores sólidos y mieloma múltiple.",
 				"link": "Descargar PDF",
-				"title": "Informe de la guía de tumores sólidos y mieloma múltiple"
+				"title": "Guía del informe de tumores sólidos y mieloma múltiple"
 			},
 			"1": {
-				"description": "Comprenda cómo interpretar los resultados del informe de prueba de Leucemia mieloide aguda (AML).",
+				"description": "Entienda cómo interpretar los resultados del informe de la prueba de leucemia mieloide aguda (LMA).",
 				"link": "Descargar PDF",
-				"title": "Informe de la guía de biomarcadores AML"
+				"title": "Guía del informe de biomarcadores de LMA"
 			}
 		},
 		"help": {
@@ -40,7 +40,7 @@
 		},
 		"resources": {
 			"description": {
-				"admin": "Recursos para ayudarlo en su investigación y su trabajo con los pacientes.",
+				"admin": "Recursos para ayudarlo con sus investigaciones y su trabajo con pacientes.",
 				"participant": "Información y organizaciones de defensoría para apoyarlo."
 			},
 			"link": "Obtenga más información",
