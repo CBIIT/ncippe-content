@@ -1,0 +1,16 @@
+{
+	"eventsTitle": "Events",
+	"metaData": {
+		"OG_description": "News and events from NCI",
+		"OG_title": "News and events | Cancer Moonshot Biobank",
+		"description": "News and events from NCI",
+		"title": "News and events | Cancer Moonshot Biobank"
+	},
+	"newsTitle": "News",
+	"pageRoute": "/about/news",
+	"pageTitle": "News and Events",
+	"tableHeaders": {
+		"date": "Date",
+		"title": "Title"
+	}
+}
