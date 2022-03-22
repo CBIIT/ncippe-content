@@ -5,23 +5,23 @@
 			"file_name": "tyner.jpg"
 		}
 	},
-	"intro_text": "El investigador Jeffrey Tyner de la Oregon Health & Science University utilizará muestras del Biobank para estudiar la genética de la leucemia mieloide aguda (AML) para comprender mejor cómo adaptar rápidamente los tratamientos para las personas en el futuro.",
+	"intro_text": "El investigador Jeffrey Tyner de la Oregon Health & Science University utilizará muestras del Biobank para estudiar la genética de la leucemia mieloide aguda (LMA) para comprender mejor cómo adaptar rápidamente los tratamientos para las personas en el futuro.",
 	"pageRoute": "/research/tyner-acute-myeloid",
 	"pageTitle": "Genética de la leucemia mieloide aguda",
 	"sections": {
 		"0": {
-			"body": "En Oregon Health & Science University, nuestro objetivo es estudiar la genética de las células de AML (leucemia mieloide aguda) para encontrar mejores tratamientos. Nuestro objetivo general es seleccionar los medicamentos que tienen más probabilidades de ayudar a cada persona con AML en función de la genética de su cáncer. A largo plazo, esperamos recopilar suficiente información que ayudará a seleccionar rápidamente los medicamentos que son mejores para cada persona.",
+			"body": "En Oregon Health & Science University, nuestro objetivo es estudiar la genética de las células de LMA (leucemia mieloide aguda) para encontrar mejores tratamientos. Nuestro objetivo general es seleccionar los medicamentos que tienen más probabilidades de ayudar a cada persona con LMA en función de la genética de su cáncer. A largo plazo, esperamos recopilar suficiente información que ayudará a seleccionar rápidamente los medicamentos que son mejores para cada persona.",
 			"title": "¿Cuáles son los principales objetivos de su investigación?"
 		},
 		"1": {
-			"body": "Aprender que tienen cáncer es muy difícil para las personas y sus familias. Esperamos ofrecer tratamientos mejorados que puedan adaptarse rápidamente a cada paciente. Estudiar muestras de personas con AML es una de las mejores maneras de saber qué medicamentos funcionan mejor para cada persona.",
+			"body": "Aprender que tienen cáncer es muy difícil para las personas y sus familias. Esperamos ofrecer tratamientos mejorados que puedan adaptarse rápidamente a cada paciente. Estudiar muestras de personas con LMA es una de las mejores maneras de saber qué medicamentos funcionan mejor para cada persona.",
 			"title": "¿Qué te inspira a ser investigador y parte del Biobanco?"
 		},
 		"2": {
-			"body": "Queremos desarrollar mejores tratamientos para las personas con AML. Para hacerlo, estamos estudiando varios medicamentos de vanguardia que se usan para tratar a las personas con AML. Si bien estos medicamentos ya han mejorado el tratamiento, aún debemos entender:<ul class='bulletList bulletList--spreadOut'><li>¿Por qué algunos medicamentos dejan de funcionar?</li><li>¿Qué genes en las células de AML los hacen más propensos a responder a medicamentos específicos?</li><li>¿Qué combinaciones de medicamentos funcionan mejor para tratar la AML?</li></ul>",
+			"body": "Queremos desarrollar mejores tratamientos para las personas con LMA. Para hacerlo, estamos estudiando varios medicamentos de vanguardia que se usan para tratar a las personas con LMA. Si bien estos medicamentos ya han mejorado el tratamiento, aún debemos entender:<ul class='bulletList bulletList--spreadOut'><li>¿Por qué algunos medicamentos dejan de funcionar?</li><li>¿Qué genes en las células de LMA los hacen más propensos a responder a medicamentos específicos?</li><li>¿Qué combinaciones de medicamentos funcionan mejor para tratar la LMA?</li></ul>",
 			"quote": {
 				"cite": "Dr. Jeffrey Tyner",
-				"text": "Queremos desarrollar mejores tratamientos para las personas con AML."
+				"text": "Queremos desarrollar mejores tratamientos para las personas con LMA."
 			},
 			"title": "¿Qué le gustaría lograr como parte del Biobanco?"
 		}
