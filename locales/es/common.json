@@ -47,6 +47,10 @@
 				"alt_text": "icono de linkedin",
 				"text": "Comparte esta página en LinkedIn"
 			},
+			"liveHelp": {
+				"link": "https://livehelp-es.cancer.gov/app/chat/chat_launch",
+				"text": "Charla del Servicio de Información de Cáncer"
+			},
 			"nci": {
 				"link": "https://www.cancer.gov/espanol",
 				"text": "Instituto Nacional del Cáncer"

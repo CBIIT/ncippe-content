@@ -47,6 +47,10 @@
 				"alt_text": "linkedin icon",
 				"text": "Share this page on LinkedIn"
 			},
+			"liveHelp": {
+				"link": "https://livehelp.cancer.gov/app/chat/chat_launch",
+				"text": "Cancer Information Service Chat"
+			},
 			"nci": {
 				"link": "https://www.cancer.gov/",
 				"text": "National Cancer Institute"
