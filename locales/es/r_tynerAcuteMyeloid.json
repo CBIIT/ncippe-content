@@ -18,13 +18,12 @@
 			"title": "¿Qué te inspira a ser investigador y parte del Biobanco?"
 		},
 		"2": {
-			"body": "Queremos desarrollar mejores tratamientos para las personas con LMA. Para hacerlo, estamos estudiando varios medicamentos de vanguardia que se usan para tratar a las personas con LMA. Si bien estos medicamentos ya han mejorado el tratamiento, aún debemos entender:<ul class='bulletList bulletList--spreadOut'><li>¿Por qué algunos medicamentos dejan de funcionar?</li><li>¿Qué genes en las células de LMA los hacen más propensos a responder a medicamentos específicos?</li><li>¿Qué combinaciones de medicamentos funcionan mejor para tratar la LMA?</li></ul>",
+			"body": "Queremos desarrollar mejores tratamientos para las personas con LMA. Para hacerlo, estamos estudiando varios medicamentos de vanguardia que se usan para tratar a las personas con LMA. Si bien estos medicamentos ya han mejorado el tratamiento, aún debemos entender:\n<ul class='bulletList bulletList--spreadOut'><li>¿Por qué algunos medicamentos dejan de funcionar?</li><li>¿Qué genes en las células de LMA los hacen más propensos a responder a medicamentos específicos?</li><li>¿Qué combinaciones de medicamentos funcionan mejor para tratar la LMA?</li></ul>",
 			"quote": {
 				"cite": "Dr. Jeffrey Tyner",
 				"text": "Queremos desarrollar mejores tratamientos para las personas con LMA."
 			},
 			"title": "¿Qué le gustaría lograr como parte del Biobanco?"
 		}
-	},
-	"title": ""
+	}
 }

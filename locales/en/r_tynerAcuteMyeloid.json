@@ -18,13 +18,12 @@
 			"title": "What inspires you to be a researcher and a part of the Biobank?"
 		},
 		"2": {
-			"body": "We want to develop better treatments for people with AML. To do so, we are studying several cutting-edge drugs that are used to treat people with AML. While these drugs have already improved treatment, we still need to understand:<ul class='bulletList bulletList--spreadOut'><li>Why do some drugs stop working?</li><li>Which genes in AML cells make them more likely to respond to specific drugs?</li><li>Which drug combinations are work best to treat AML?</li></ul>",
+			"body": "We want to develop better treatments for people with AML. To do so, we are studying several cutting-edge drugs that are used to treat people with AML. While these drugs have already improved treatment, we still need to understand:\n<ul class='bulletList bulletList--spreadOut'><li>Why do some drugs stop working?</li><li>Which genes in AML cells make them more likely to respond to specific drugs?</li><li>Which drug combinations are work best to treat AML?</li></ul>",
 			"quote": {
 				"cite": "Dr. Jeffrey Tyner",
 				"text": "We want to develop better treatments for people with AML."
 			},
 			"title": "What would you like to achieve as part of the Biobank?"
 		}
-	},
-	"title": ""
+	}
 }
