@@ -16,27 +16,27 @@
 		"1": {
 			"alt_text": "Investigadores que trabajan en un laboratorio",
 			"body": "<p>Investigadores de todo el mundo usarán el Biobanco. Tal vez trabajen en universidades, o en laboratorios y compañías farmacéuticas particulares.</p><p>A fin de recibir autorización para acceder a las muestras del Biobanco, los investigadores tendrán que cumplir normas rigurosas para el uso ético y seguro de muestras y datos.</p>",
-			"title": "¿Quién usa el Biobanco?"
+			"title": "En qué están trabajando los investigadores"
 		},
 		"2": {
 			"links": {
 				"0": {
 					"author": "Dr. Jeffrey Tyner - Universidad de Salud y Ciencia de Oregon",
 					"route": "/research/tyner-acute-myeloid",
-					"text": "Genética de la leucemia mieloide aguda"
+					"text": "Características genéticas de la leucemia mieloide aguda"
 				},
 				"1": {
 					"author": "Dr. Collin Blakely - Universidad de California San Francisco",
 					"route": "/research/blakely-improving-responses",
-					"text": "Mejora de las respuestas a los tratamientos para el cáncer de pulmón."
+					"text": "Mejores tratamientos para el cáncer de pulmón"
 				},
 				"2": {
 					"author": "Dr. Calvin Kuo - Universidad de Stanford",
 					"route": "/research/kuo-interactions-environment",
-					"text": "Interacciones de las células cancerosas con su entorno."
+					"text": "El ambiente de las células cancerosas"
 				}
 			},
-			"title": "En qué están trabajando los investigadores"
+			"title": "Actualizaciones de nuestros investigadores"
 		}
 	}
 }

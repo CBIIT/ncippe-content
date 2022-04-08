@@ -16,7 +16,7 @@
 		"1": {
 			"alt_text": "researchers working in a lab",
 			"body": "<p>Researchers from all over the world will use the Biobank. They may work for universities, or for private labs and drug companies.</p><p>To be approved to access Biobank samples, the researchers will have to meet strict standards for ethical and secure use of samples and data.</p>",
-			"title": "Who uses the Biobank?"
+			"title": "What researchers are working on"
 		},
 		"2": {
 			"links": {
@@ -36,7 +36,7 @@
 					"text": "Interactions of cancer cells with their environment"
 				}
 			},
-			"title": "What researchers are working on"
+			"title": "Updates from our researchers"
 		}
 	}
 }
