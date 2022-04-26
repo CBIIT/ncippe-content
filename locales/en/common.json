@@ -70,6 +70,10 @@
 			"usa": {
 				"link": "https://www.usa.gov/",
 				"text": "USA.gov"
+			},
+			"vulnerability": {
+				"link": "https://www.hhs.gov/vulnerability-disclosure-policy/index.html",
+				"text": "HHS Vulnerability Disclosure"
 			}
 		},
 		"logo": {
