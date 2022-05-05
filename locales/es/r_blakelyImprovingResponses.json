@@ -5,21 +5,21 @@
 			"file_name": "blakely.jpg"
 		}
 	},
-	"intro_text": "El investigador Collin Blakely de la Universidad de California en San Francisco utilizará muestras del Biobanco para estudiar por qué algunos cánceres de pulmón no responden bien a la terapia dirigida y descubren tratamientos más efectivos.",
+	"intro_text": "El investigador Collin Blakely y el personal de su laboratorio en la Universidad de California en San Francisco (UCSF) usarán muestras del Biobanco para estudiar por qué algunos cánceres de pulmón no responden bien a la terapia dirigida y para descubrir tratamientos más eficaces.",
 	"pageRoute": "/research/blakely-improving-responses",
-	"pageTitle": "Mejora de las respuestas a los tratamientos para el cáncer de pulmón.",
+	"pageTitle": "Mejores respuestas a los tratamientos del cáncer de pulmón",
 	"sections": {
 		"0": {
-			"body": "El objetivo de mi investigación en UCSF es saber por qué algunos cánceres de pulmón no responden bien o solo responden parcialmente a la terapia dirigida. Por ejemplo, ¿cuál es el papel de la genética de un tumor o del sistema inmune en la respuesta a la terapia? Estudio muestras de tumores de cáncer de pulmón para encontrar nuevos tratamientos que pueden funcionar cuando otros medicamentos dejan de funcionar.",
-			"title": "¿Cuáles son los principales objetivos de su investigación?"
+			"body": "Mi investigación en UCSF se centra en averiguar por qué algunos cánceres de pulmón no responden bien o solo responden parcialmente a la terapia dirigida. Por ejemplo, ¿cuál es la función de las características genéticas de un tumor o del sistema inmunitario en la respuesta a la terapia? Estudio muestras de tumores de cáncer de pulmón para identificar nuevos tratamientos que funcionen cuando otros medicamentos pierden su eficacia.",
+			"title": "¿Cuáles son los objetivos principales de su investigación?"
 		},
 		"1": {
-			"body": "Estoy inspirado principalmente por mis pacientes, que necesitan desesperadamente nuevos tratamientos. También estoy motivado por mi propia curiosidad y el impulso de hacer nuevos descubrimientos que superan los límites de nuestro conocimiento.",
-			"title": "¿Qué te inspira a ser investigador y parte del Biobanco?"
+			"body": "Mis pacientes, que necesitan con urgencia nuevos tratamientos, son mi máxima inspiración. También me impulsa mi propia curiosidad y el deseo de hacer nuevos descubrimientos que superen los límites de nuestro conocimiento.",
+			"title": "¿Qué lo inspira a ser investigador y a formar parte del Biobanco?"
 		},
 		"2": {
-			"body": "Me gustaría entender mejor por qué algunas personas no responden completamente a los tratamientos para el cáncer de pulmón. Espero utilizar los resultados de mi investigación para planificar nuevos ensayos clínicos que prueben diferentes medicamentos en personas con cáncer de pulmón.",
-			"title": "¿Qué le gustaría lograr como parte del Biobanco?"
+			"body": "Me gustaría entender mejor por qué algunas personas no responden por completo a los tratamientos del cáncer de pulmón. Espero usar los resultados de mi investigación para planificar nuevos estudios clínicos donde se prueben distintos medicamentos en personas con cáncer de pulmón.",
+			"title": "¿Qué le gustaría lograr al usar las muestras del Biobanco?"
 		}
 	}
 }
