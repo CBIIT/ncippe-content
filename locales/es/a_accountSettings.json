@@ -8,7 +8,10 @@
 		"title": "Configuración de la cuenta | Cuenta | Cancer Moonshot Biobank"
 	},
 	"profile": {
-		"email": "Correo electrónico",
+		"email": {
+			"helper_text": "Introduzca una dirección de correo electrónico válida",
+			"title": "Email"
+		},
 		"lang": {
 			"english": "English",
 			"spanish": "Español",
