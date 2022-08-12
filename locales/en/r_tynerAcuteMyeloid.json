@@ -5,7 +5,7 @@
 			"file_name": "tyner.jpg"
 		}
 	},
-	"intro_text": "Researcher Jeffrey Tyner from Oregon Health & Science University will be using samples from the Biobank to study the genetics of acute myeloid leukemia (AML) to better understand how to quickly tailor treatments for individuals in the future.",
+	"intro_text": "Researcher Jeffrey Tyner from Oregon Health & Science University studies the genetics of acute myeloid leukemia (AML) to better understand how to quickly tailor treatments for individuals in the future.",
 	"pageRoute": "/research/tyner-acute-myeloid",
 	"pageTitle": "Genetics of acute myeloid leukemia",
 	"sections": {
@@ -14,16 +14,19 @@
 			"title": "What are the top goals of your research?"
 		},
 		"1": {
-			"body": "Learning they have cancer is very difficult for people and their families. We hope to offer improved treatments that can quickly be tailored to each patient. Studying samples from people with AML is one of the best ways to know which drugs work best for each person.",
-			"title": "What inspires you to be a researcher and a part of the Biobank?"
+			"body": "Learning they have cancer is very difficult for people and their families. We hope to offer improved treatments that can quickly be tailored to each patient.",
+			"title": "What inspires you to be a researcher?"
 		},
 		"2": {
-			"body": "We want to develop better treatments for people with AML. To do so, we are studying several cutting-edge drugs that are used to treat people with AML. While these drugs have already improved treatment, we still need to understand:\n<ul class='bulletList bulletList--spreadOut'><li>Why do some drugs stop working?</li><li>Which genes in AML cells make them more likely to respond to specific drugs?</li><li>Which drug combinations are work best to treat AML?</li></ul>",
 			"quote": {
 				"cite": "Dr. Jeffrey Tyner",
 				"text": "We want to develop better treatments for people with AML."
 			},
-			"title": "What would you like to achieve as part of the Biobank?"
+			"title": "What would you like to achieve in your research?"
+		},
+		"3": {
+			"body": "We want to develop better treatments for people with AML. Studying samples from people with AML is one of the best ways to know which drugs work best for each person. To do so, we are studying several cutting-edge drugs that are used to treat people with AML. While these drugs have already improved treatment, we still need to understand:\n<ul class='bulletList bulletList--spreadOut'><li>Why do some drugs stop working?</li><li>Which genes in AML cells make them more likely to respond to specific drugs?</li><li>Which drug combinations work best to treat AML?</li></ul>",
+			"title": "How would Biobank samples help your research?"
 		}
 	}
 }

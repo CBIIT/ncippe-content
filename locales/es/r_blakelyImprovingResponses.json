@@ -5,7 +5,7 @@
 			"file_name": "blakely.jpg"
 		}
 	},
-	"intro_text": "El investigador Collin Blakely y el personal de su laboratorio en la Universidad de California en San Francisco (UCSF) usarán muestras del Biobanco para estudiar por qué algunos cánceres de pulmón no responden bien a la terapia dirigida y para descubrir tratamientos más eficaces.",
+	"intro_text": "El investigador Collin Blakely, de la Universidad de California en San Francisco (UCSF), estudia por qué algunos cánceres de pulmón no responden bien a la terapia dirigida, y su objetivo es descubrir tratamientos más eficaces.",
 	"pageRoute": "/research/blakely-improving-responses",
 	"pageTitle": "Mejores respuestas a los tratamientos del cáncer de pulmón",
 	"sections": {
@@ -15,11 +15,11 @@
 		},
 		"1": {
 			"body": "Mis pacientes, que necesitan con urgencia nuevos tratamientos, son mi máxima inspiración. También me impulsa mi propia curiosidad y el deseo de hacer nuevos descubrimientos que superen los límites de nuestro conocimiento.",
-			"title": "¿Qué lo inspira a ser investigador y a formar parte del Biobanco?"
+			"title": "¿Qué lo inspira a ser investigador?"
 		},
 		"2": {
 			"body": "Me gustaría entender mejor por qué algunas personas no responden por completo a los tratamientos del cáncer de pulmón. Espero usar los resultados de mi investigación para planificar nuevos estudios clínicos donde se prueben distintos medicamentos en personas con cáncer de pulmón.",
-			"title": "¿Qué le gustaría lograr al usar las muestras del Biobanco?"
+			"title": "¿Cómo le ayudarían las muestras del Biobanco en sus investigaciones?"
 		}
 	}
 }
