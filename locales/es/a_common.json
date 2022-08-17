@@ -80,6 +80,10 @@
 			"title": "Sus participantes"
 		},
 		"participantView": {
+			"changeEmail": {
+				"desc": "No podrá cambiar esto después de que el participante haya activado su cuenta.",
+				"title": "Editar la dirección de correo electrónico del participante"
+			},
 			"metaData": {
 				"title": "Perfil del participante | Cuenta | Cancer Moonshot Biobank"
 			},
@@ -133,6 +137,7 @@
 	},
 	"menu": {
 		"account_actions": {
+			"edit_profile": "Editar perfil",
 			"leave_biobank": "Salir del programa del Biobanco",
 			"name": "Acciones de cuenta",
 			"upload_consent": "Subir formulario de consentimiento"
