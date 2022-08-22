@@ -10,33 +10,33 @@
 	"sections": {
 		"0": {
 			"alt_text": "Investigadores que comparten resultados",
-			"body": "<p>Las causas principales de muerte por cáncer son cuando la enfermedad se disemina o se vuelve resistente al tratamiento. Para entender por qué sucede esto, los investigadores necesitan analizar el tejido canceroso que los pacientes donan durante el trascurso de su tratamiento.</p><p>Ha sido difícil obtener estos tipos de muestras, pero queremos cambiar eso con el Cancer Moonshot<sup>SM</sup> Biobank. Con las muestras que usted dona al Biobanco en el trascurso de su atención, por hasta 5 años, los investigadores pueden estudiar cómo los cánceres cambian con el tiempo, y cómo luchar contra los cánceres en estadios avanzados.</p>",
+			"body": "<p>Las causas principales de muerte por cáncer son cuando la enfermedad se disemina o se vuelve resistente al tratamiento. Para entender por qué sucede esto, los investigadores necesitan estudiar el tejido canceroso que los pacientes donan durante el trascurso de su tratamiento.</p><p>Ha sido difícil obtener estos tipos de muestras, pero queremos cambiar eso con el Cancer Moonshot Biobank. Con las muestras que usted dona al Biobanco en el trascurso de su atención, los investigadores pueden estudiar cómo los cánceres cambian con el tiempo, y cómo combatir los cánceres en estadio avanzado.</p>",
 			"title": "Necesitamos entender cómo el cáncer cambia con el tiempo."
 		},
 		"1": {
 			"alt_text": "Investigadores que trabajan en un laboratorio",
-			"body": "<p>Investigadores de todo el mundo usarán el Biobanco. Tal vez trabajen en universidades, o en laboratorios y compañías farmacéuticas particulares.</p><p>A fin de recibir autorización para acceder a las muestras del Biobanco, los investigadores tendrán que cumplir normas rigurosas para el uso ético y seguro de muestras y datos.</p>",
-			"title": "En qué están trabajando los investigadores"
+			"body": "<p>Investigadores de todo el mundo usarán el Biobanco. Puede que trabajen en universidades, o en laboratorios y compañías farmacéuticas particulares.</p><p>A fin de recibir autorización para acceder a las muestras del Biobanco, los investigadores tendrán que cumplir normas rigurosas para el uso ético y seguro de muestras y datos.</p>",
+			"title": "¿Quién usará el Biobanco?"
 		},
 		"2": {
 			"links": {
 				"0": {
-					"author": "Dr. Jeffrey Tyner - Universidad de Salud y Ciencia de Oregon",
+					"author": "Dr. Jeffrey Tyner, Universidad de Salud y Ciencia de Oregón (OHSU)",
 					"route": "/research/tyner-acute-myeloid",
 					"text": "Características genéticas de la leucemia mieloide aguda"
 				},
 				"1": {
-					"author": "Dr. Collin Blakely - Universidad de California San Francisco",
+					"author": "Dr. Collin Blakely, Universidad de California en San Francisco (UCSF)",
 					"route": "/research/blakely-improving-responses",
-					"text": "Mejores tratamientos para el cáncer de pulmón"
+					"text": "Mejores respuestas a los tratamientos del cáncer de pulmón"
 				},
 				"2": {
-					"author": "Dr. Calvin Kuo - Universidad de Stanford",
+					"author": "Dr. Calvin Kuo, Universidad Stanford",
 					"route": "/research/kuo-interactions-environment",
-					"text": "El ambiente de las células cancerosas"
+					"text": "Interacciones de las células cancerosas con su ambiente"
 				}
 			},
-			"title": "Actualizaciones de nuestros investigadores"
+			"title": "Estos son ejemplos de cómo se usarían las muestras del Biobanco"
 		}
 	}
 }
