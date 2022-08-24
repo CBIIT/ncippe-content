@@ -80,10 +80,6 @@
 			"title": "Your Participants"
 		},
 		"participantView": {
-			"changeEmail": {
-				"desc": "You will not be able to change this after the participant has activated their account.",
-				"title": "Edit participant's email address"
-			},
 			"metaData": {
 				"title": "Participant profile | Account | Cancer Moonshot Biobank"
 			},
@@ -137,7 +133,6 @@
 	},
 	"menu": {
 		"account_actions": {
-			"edit_profile": "Edit profile",
 			"leave_biobank": "Leave the Biobank",
 			"name": "Account actions",
 			"upload_consent": "Upload consent form"

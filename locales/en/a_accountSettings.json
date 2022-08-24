@@ -8,10 +8,7 @@
 		"title": "Account settings | Account | Cancer Moonshot Biobank"
 	},
 	"profile": {
-		"email": {
-			"helper_text": "Enter a valid email address",
-			"title": "Email"
-		},
+		"email": "Email",
 		"lang": {
 			"english": "English",
 			"spanish": "Español",

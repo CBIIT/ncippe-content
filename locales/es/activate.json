@@ -12,7 +12,7 @@
 			"question": "¿Qué hago si ya tengo una cuenta de login.gov?"
 		},
 		"2": {
-			"answer": "<p>Sí, puede cambiar su correo electrónico después de que haya terminado de configurar una cuenta con la dirección de correo electrónico donde recibió la invitación.</p><p>Después de cambiar el correo electrónico de login.gov, el usuario debe contactar al equipo del Cancer Moonshot Biobank (<a href=\"mailto:moonshotbiobank@nih.gov\">moonshotbiobank@nih.gov</a>) e indicarle tanto el antiguo correo electrónico como el nuevo. El equipo de asistencia actualizará la base de datos con el nuevo correo electrónico. El usuario podrá iniciar una sesión de la forma habitual con el nuevo correo electrónico.</p>",
+			"answer": "<p>Sí, puede cambiar su correo electrónico después de que haya terminado de configurar una cuenta con la dirección de correo electrónico donde recibió la invitación.</p><p>Para cambiar su dirección de correo electrónico, inicie una sesión en su cuenta de login.gov en <a href='https://secure.login.gov'> https://secure.login.gov</a>. Desde ese sitio podrá administrar su cuenta, lo cual incluye agregar un nuevo correo electrónico y borrar los que ya no desee. Una vez que cambie su correo electrónico en login.gov, usaremos esa dirección de correo electrónico para enviarle noticias y notificaciones del Biobanco.</p>",
 			"question": "¿Puedo cambiar el correo electrónico que uso con mi cuenta de Biobanco en línea?"
 		},
 		"3": {
