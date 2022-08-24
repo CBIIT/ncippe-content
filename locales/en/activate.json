@@ -12,7 +12,7 @@
 			"question": "What if I already have a login.gov account?"
 		},
 		"2": {
-			"answer": "<p>Yes, you can change your email after you finish setting up an account using the email you were invited with.</p><p>After the login.gov email is changed, the user should contact the Cancer Moonshot Biobank team (<a href=\"mailto:moonshotbiobank@nih.gov\">moonshotbiobank@nih.gov</a>) with the previous email and the new email. The support team will update the database with the new email. The user will be able to log in normally with the new email.</p>",
+			"answer": "<p>Yes, you can change your email after you finish setting up an account using the email you were invited with.</p><p>To change your email address, sign in to your login.gov account at <a href='https://secure.login.gov'>https://secure.login.gov</a>. From here you can manage your account, including adding a new email and deleting unwanted ones. Once you change your email in login.gov, we will use that email to send you Biobank notifications and news.</p>",
 			"question": "Can I change the email I use with my online Biobank account?"
 		},
 		"3": {
