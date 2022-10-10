@@ -74,7 +74,11 @@
 			"usa": {
 				"link": "https://www.usa.gov/espanol/",
 				"text": "USA.gov"
-			}
+			},
+            "vulnerability": {
+                "link": "https://www.hhs.gov/es/vulnerability-disclosure-policy/index.html",
+                "text": "Política de Divulgación de Vulnerabilidad"
+            }
 		},
 		"logo": {
 			"alt_text": "Logotipo de Instituto Nacional del Cáncer | Cancer Moonshot Biobank",
