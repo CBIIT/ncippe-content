@@ -1,25 +1,70 @@
 {
-	"metaData": {
+    "charts": {
+        "0": {
+            "alt_text": "Patient Demographics - By Cancer Type Pie-chart",
+            "subtitle": "By Cancer Type",
+            "title": "Patient Demographics - By Cancer Type"
+        },
+        "1": {
+            "alt_text": "Participant Demographics Age Bar-chart",
+            "subtitle": "Age",
+            "title": "Participant Demographic"
+        },
+        "2": {
+            "alt_text": "Participant Demographics Sex Bar-chart",
+            "subtitle": "Sex",
+            "title": "Participant Demographic"
+        },
+        "chart_data": [
+            [
+                {
+                    "label": "Colon cancer"
+                },
+                {
+                    "label": "Lung cancer"
+                },
+                {
+                    "label": "Prostate cancer"
+                },
+                {
+                    "label": "Melanoma"
+                },
+                {
+                    "label": "Gastroesophageal cancer"
+                },
+                {
+                    "label": "Multiple myeloma"
+                },
+                {
+                    "label": "Acute myeloid"
+                },
+                {
+                    "label": "leukemia"
+                }
+            ]
+        ]
+    },
+    "metaData": {
 		"OG_description": "The Cancer Moonshot Biobank aims to accelerate research into why cancers become resistant to treatment. With your help we can improve future cancer therapies.",
-		"OG_title": "About the Biobank | Cancer Moonshot Biobank",
-		"description": "The Cancer Moonshot Biobank aims to accelerate research into why cancers become resistant to treatment. With your help we can improve future cancer therapies.",
+        "OG_title": "About the Biobank | Cancer Moonshot Biobank",
+        "description": "The Cancer Moonshot Biobank aims to accelerate research into why cancers become resistant to treatment. With your help we can improve future cancer therapies.",
 		"title": "About the Biobank | Cancer Moonshot Biobank"
-	},
-	"pageRoute": "/about",
-	"pageTitle": "About the Biobank",
-	"sections": {
-		"0": {
-			"alt_text": "father and son",
-			"body": "<p>The Cancer Moonshot Biobank is an unprecedented effort to learn how cancers behave over time.</p><p>The Biobank is asking people with <a href='/about/eligibility' data-route>certain kinds of cancers</a> to donate samples of their blood and tissue, throughout their treatment, for up to 5 years. Those samples will be stored in a biobank&mdash;a secure library of samples and medical information.</p><p>Researchers will be able to access donated samples and shared information to study how cancer responds to treatment and why some become treatment-resistant.</p><p>The Biobank is a part of the <a href='https://www.cancer.gov/research/key-initiatives/moonshot-cancer-initiative' rel='noopener noreferrer' target='_blank'>Cancer Moonshot</a>, an initiative to accelerate cancer research. It's run by the <a href='https://biospecimens.cancer.gov/default.asp' rel='noopener noreferrer' target='_blank'>Biorepositories and Biospecimen Research Branch</a> at the <a href='https://www.cancer.gov/' rel='noopener noreferrer' target='_blank'>National Cancer Institute</a>, part of the <a href='https://www.nih.gov/' rel='noopener noreferrer' target='_blank'>National Institutes of Health (NIH)</a>.</p>",
-			"subtitle": "The Biobank starts with you.",
-			"title": "What is the Cancer<br />Moonshot<sup>SM</sup> Biobank?"
-		},
-		"1": {
-			"alt_text": "infographic",
-			"body": "<p>The process starts with inviting a patient to join the study, providing electronic informed consent, and recording clinical data from their medical record.</p><p>The participant’s biospecimens (tumor and blood) are collected at the clinic or hospital and shipped to the Biobank’s central biorepository for processing and storage. Both DNA and RNA are extracted from the tumor tissue and sent to the NCI Molecular Characterization Laboratory to run a tumor biomarker test; the test results are sent to the participant and their provider through their secure accounts on the Participant and Provider Engagement Website. Study and research updates are also posted on the Participant and Provider Engagement Website.</p><p>Tissue may also be sent to the NCI Patient-Derived Models Repository to develop cancer models for research. Biomarker and health data are stripped of personal identifying information, stored securely within NCI data repositories, and made available to qualified cancer researchers. Program staff use the Web Reporting System to monitor and review study data to ensure compliance with the protocol and regulatory requirements.</p>",
-			"caption": "Click on image to enlarge",
-			"intro": "<p>The Cancer Moonshot Biobank aims to accelerate cancer discoveries with the help of participants who donate samples and provide clinical data during their cancer treatment. This infographic provides a general overview of the Biobank project.</p>",
-			"title": "How the Cancer Moonshot<sup>SM</sup> Biobank works"
-		}
-	}
+    },
+    "pageRoute": "/about",
+    "pageTitle": "About the Biobank",
+    "sections": [
+        {
+            "alt_text": "father and son",
+            "body": "<p>The Cancer Moonshot Biobank is an unprecedented effort to learn how cancers behave over time.</p><p>The Biobank is asking people with <a href='/about/eligibility' data-route>certain kinds of cancers</a> to donate samples of their blood and tissue, throughout their treatment, for up to 5 years. Those samples will be stored in a biobank&mdash;a secure library of samples and medical information.</p><p>Researchers will be able to access donated samples and shared information to study how cancer responds to treatment and why some become treatment-resistant.</p><p>The Biobank is a part of the <a href='https://www.cancer.gov/research/key-initiatives/moonshot-cancer-initiative' rel='noopener noreferrer' target='_blank'>Cancer Moonshot</a>, an initiative to accelerate cancer research. It's run by the <a href='https://biospecimens.cancer.gov/default.asp' rel='noopener noreferrer' target='_blank'>Biorepositories and Biospecimen Research Branch</a> at the <a href='https://www.cancer.gov/' rel='noopener noreferrer' target='_blank'>National Cancer Institute</a>, part of the <a href='https://www.nih.gov/' rel='noopener noreferrer' target='_blank'>National Institutes of Health (NIH)</a>.</p>",
+            "subtitle": "The Biobank starts with you.",
+            "title": "What is the Cancer<br />Moonshot<sup>SM</sup> Biobank?"
+        },
+        {
+            "alt_text": "infographic",
+            "body": "<p>The process starts with inviting a patient to join the study, providing electronic informed consent, and recording clinical data from their medical record.</p><p>The participant’s biospecimens (tumor and blood) are collected at the clinic or hospital and shipped to the Biobank’s central biorepository for processing and storage. Both DNA and RNA are extracted from the tumor tissue and sent to the NCI Molecular Characterization Laboratory to run a tumor biomarker test; the test results are sent to the participant and their provider through their secure accounts on the Participant and Provider Engagement Website. Study and research updates are also posted on the Participant and Provider Engagement Website.</p><p>Tissue may also be sent to the NCI Patient-Derived Models Repository to develop cancer models for research. Biomarker and health data are stripped of personal identifying information, stored securely within NCI data repositories, and made available to qualified cancer researchers. Program staff use the Web Reporting System to monitor and review study data to ensure compliance with the protocol and regulatory requirements.</p>",
+            "caption": "Click on image to enlarge",
+            "intro": "<p>The Cancer Moonshot Biobank aims to accelerate cancer discoveries with the help of participants who donate samples and provide clinical data during their cancer treatment. This infographic provides a general overview of the Biobank project.</p>",
+            "title": "How the Cancer Moonshot<sup>SM</sup> Biobank works"
+        }
+    ]
 }
