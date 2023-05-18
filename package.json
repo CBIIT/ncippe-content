@@ -1,7 +1,7 @@
 {
   "name": "ncippe-content",
   "description": "Content used by ncippe-front-end project. Made to be compatible with BabelEdit",
-  "version": "2.6.0",
+  "version": "2.7.0",
   "private": true,
   "repository": {
     "type": "git",
