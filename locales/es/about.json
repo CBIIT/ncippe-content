@@ -35,6 +35,9 @@
 				"AcuteMyeloid": {
 					"label": "Leucemia mieloide "
 				},
+				"BreastCancer": {
+					"label": "Cáncer de seno"
+				},
 				"ColonCancer": {
 					"label": "Cáncer de colon"
 				},
@@ -52,6 +55,9 @@
 				},
 				"MultipleMyeloma": {
 					"label": "Mieloma múltiple"
+				},
+				"OvarianCancer": {
+					"label": "Cáncer de ovario"
 				},
 				"ProstateCancer": {
 					"label": "Cancer de prostata"
