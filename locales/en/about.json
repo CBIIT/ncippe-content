@@ -35,6 +35,9 @@
 				"AcuteMyeloid": {
 					"label": "Acute myeloid"
 				},
+				"BreastCancer": {
+					"label": "Breast cancer"
+				},
 				"ColonCancer": {
 					"label": "Colon cancer"
 				},
@@ -52,6 +55,9 @@
 				},
 				"MultipleMyeloma": {
 					"label": "Multiple myeloma"
+				},
+				"OvarianCancer": {
+					"label": "Ovarian cancer"
 				},
 				"ProstateCancer": {
 					"label": "Prostate cancer"
