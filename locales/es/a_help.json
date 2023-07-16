@@ -4,20 +4,20 @@
 		"title": "Obtenga ayuda | Cuenta | Cancer Moonshot Biobank"
 	},
 	"pageTitle": "Obtenga ayuda",
-	"sections": {
-		"0": {
+	"sections": [
+		{
 			"body": "El cierre de su cuenta de Biobanco en línea significa que usted, de todos modos, seguirá siendo un participante del Biobanco, pero no podrá descargar directamente sus informes de pruebas de biomarcadores o formularios de consentimiento firmados ni recibir otras comunicaciones por medio de la cuenta en línea. Todavía podrá obtener copias de sus informes y formularios de consentimiento por medio de su médico o de su coordinador de investigación.",
 			"title": "Cierre su cuenta de Biobanco en línea"
 		},
-		"1": {
+		{
 			"alt_text": "Tableta",
 			"body": "Salirse del Biobanco significa que dejará de donar muestras de sangre y tejido. Al dejar el programa, puede elegir si desea que las muestras que donó anteriormente se continúen distribuyendo o si las muestras almacenadas deben destruirse. Si las muestras ya se han enviado a investigadores, puede que no podamos recuperarlas.",
 			"title": "Salirse del programa del Biobanco"
 		},
-		"2": {
+		{
 			"alt_text": "edificio del hospital",
 			"body": "Si cambia de médico o se cambia a un hospital diferente y estos no participan en el Biobanco, es probable que usted ya no pueda donar más muestras. Las que ya haya donado permanecerán en el Biobanco y se usarán para investigación, a menos que usted pida que se destruyan.",
 			"title": "Cambio de médico o de hospital"
 		}
-	}
+	]
 }

@@ -10,18 +10,18 @@
 			"link": "Vea los formularios",
 			"title": "Formularios de consentimiento"
 		},
-		"guide": {
-			"0": {
+		"guide": [
+			{
 				"description": "Entienda cómo interpretar los resultados del informe de la prueba de tumores sólidos y mieloma múltiple.",
 				"link": "Descargar PDF",
 				"title": "Guía del informe de tumores sólidos y mieloma múltiple"
 			},
-			"1": {
+			{
 				"description": "Entienda cómo interpretar los resultados del informe de la prueba de leucemia mieloide aguda (LMA).",
 				"link": "Descargar PDF",
 				"title": "Guía del informe de biomarcadores de LMA"
 			}
-		},
+		],
 		"help": {
 			"description": "Obtenga información sobre cómo cambiar su participación en el Biobanco.",
 			"link": "Obtenga más información",

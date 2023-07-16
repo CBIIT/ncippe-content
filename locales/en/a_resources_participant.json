@@ -4,22 +4,22 @@
 		"title": "Resources | Account | Cancer Moonshot Biobank"
 	},
 	"pageTitle": "Resources for patients and caregivers",
-	"sections": {
-		"0": {
+	"sections": [
+		{
 			"body": "<a href='https://supportorgs.cancer.gov/home.aspx' rel='noopener noreferrer' target='_blank'>Advocacy and support organizations</a><br />A searchable database of more than 100 organizations nationwide that provide emotional, practical, and financial support services for people with cancer and their families.",
 			"title": "Support organizations"
 		},
-		"1": {
+		{
 			"body": "<p><a href='https://www.cancer.gov/resources-for/patients' rel='noopener noreferrer' target='_blank'>Resources for patients</a><br />Authoritative information about your type of cancer as well as information on a wide range of cancer topics and the latest cancer research</p><p><a href='https://www.cancer.gov/types/aya' rel='noopener noreferrer' target='_blank'>Adolescents and young adults with cancer</a><br />What adolescents and young adults need to know after a cancer diagnosis.</p><p><a href='https://www.cancer.gov/publications/dictionaries/cancer-terms' rel='noopener noreferrer' target='_blank'>Dictionary of Cancer Terms</a><br />Terms related to cancer and medicine.</p>",
 			"title": "Cancer information"
 		},
-		"2": {
+		{
 			"body": "<a href='https://www.cancer.gov/resources-for/caregivers' rel='noopener noreferrer' target='_blank'>Resources for caregivers</a><br />Information to help you care for the cancer patient in your life — and yourself.",
 			"title": "Caregivers"
 		},
-		"3": {
+		{
 			"body": "<p><a href='https://www.cancer.gov/about-cancer/treatment/clinical-trials/search/trial-guide' rel='noopener noreferrer' target='_blank'>Steps to find a clinical trial</a><br />Learn how to find the right clinical trial for you.</p><p><a href='https://www.cancer.gov/about-cancer/treatment/clinical-trials/search' rel='noopener noreferrer' target='_blank'>NCI-Supported clinical trials search</a><br />Search for trials for your particular kind of cancer.</p>",
 			"title": "Clinical trials"
 		}
-	}
+	]
 }

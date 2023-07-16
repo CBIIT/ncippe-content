@@ -1,19 +1,19 @@
 {
-	"alt_text": {
-		"0": "Médico y paciente",
-		"1": "tubos de ensayo"
-	},
+	"alt_text": [
+		"Médico y paciente",
+		"tubos de ensayo"
+	],
 	"body": "<h3>Muestras de sangre</h3>El personal hospitalario le extraerá unos cuantos tubos de sangre adicionales para el Biobanco durante su atención habitual.<h3>Muestras de tejido</h3>Su médico obtendrá muestras adicionales para el Biobanco durante una biopsia habitual siempre que se pueda. También es posible que el médico programe una biopsia solo con el fin de obtener tejido para el Biobanco.<h3>Información médica</h3><p>Obtendremos información de su historia clínica, como el diagnóstico y los tratamientos anteriores. Se protegerá su información. <a data-route href='/participation/privacy'> Obtenga más información sobre la privacidad y el Biobanco</a>.</p><p>Hay muchas cosas que pueden influir en que alguien llegue a tener cáncer y en cómo responde al tratamiento. Los investigadores usarán sus muestras e información médica para realizar investigaciones que los puedan ayudar a entender mejor cómo tratar el cáncer.</p>",
-	"faqs": {
-		"0": {
+	"faqs": [
+		{
 			"answer": "No les comunicaremos a los investigadores ni su nombre ni ninguna otra información que lo pueda identificar. Solo el personal del programa del Biobanco en su hospital lo contactará directamente si hay preguntas sobre su participación.",
 			"question": "¿Me contactarán directamente los investigadores?"
 		},
-		"1": {
+		{
 			"answer": "Comunicaremos información actualizada sobre las investigaciones realizadas con la ayuda de las muestras del Biobanco. No podremos decirle si se usaron sus muestras en específico, porque estas no incluirán ni su nombre ni ninguna otra información que lo pueda identificar para proteger su privacidad.",
 			"question": "¿Me dirán algo sobre las investigaciones realizadas con mis muestras?"
 		}
-	},
+	],
 	"faqs_title": "Preguntas frecuentes sobre la donación de muestras",
 	"intro_text": "Durante el trascurso de su tratamiento, donará muestras de sangre y tejido. Esas muestras se guardarán de manera segura en el Biobanco hasta que se distribuyan a investigadores.",
 	"metaData": {

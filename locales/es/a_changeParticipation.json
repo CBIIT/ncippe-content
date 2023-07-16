@@ -19,22 +19,22 @@
 		},
 		"pageTitle": "Cambie su participación en el Biobanco"
 	},
-	"leave": {
-		"0": {
+	"leave": [
+		{
 			"body": "<p>Tiene el derecho a dejar de participar en el programa del Biobanco y a salirse de este cuando lo desee.</p><p>Tiene algunas opciones respecto a cómo utilizaremos las muestras y la información que ya hayamos obtenido. En la siguiente sección le explicaremos paso a paso estas opciones. Si tiene preguntas, contacte a su coordinador de investigación.</p>",
 			"pageTitle": "Salirse del programa del Biobanco",
 			"submit": "Lo entiendo",
 			"subtitle": "Sentimos que se vaya."
 		},
-		"1": {
+		{
 			"description": {
 				"admin": "Guíe al participante a través de las siguientes preguntas para que podamos manejar sus muestras biológicas y la información relacionada de manera adecuada.",
 				"participant": "Antes de que se salga del Biobanco, necesitamos hacerle unas cuantas preguntas sobre cómo administrar sus muestras e información."
 			},
 			"form": {
 				"error": "Debe completar este campo",
-				"questions": {
-					"0": {
+				"questions": [
+					{
 						"helper_text": {
 							"admin": "Lamentablemente, no podremos recuperar ni las muestras ni la información que ya se hayan distribuido.",
 							"participant": "Lamentablemente, no podremos recuperar ni las muestras ni la información que ya se hayan distribuido."
@@ -44,7 +44,7 @@
 							"participant": "¿Podemos seguir distribuyendo las muestras e información médica que ya hayamos obtenido a los investigadores?"
 						}
 					},
-					"1": {
+					{
 						"helper_text": {
 							"admin": "Podemos recopilar información del registro médico del participante durante 10 años o más. Esto puede incluir información sobre su diagnóstico y tratamientos anteriores. Pueden optar por no participar en cualquier momento.",
 							"participant": "Podemos obtener información de su historia clínica por 10 años o más tiempo. Esto puede incluir información sobre su diagnóstico y tratamientos anteriores. Tendrá la opción de cancelar esta autorización en cualquier momento."
@@ -54,7 +54,7 @@
 							"participant": "¿Podemos seguir usando la información de su historia clínica para investigación?"
 						}
 					},
-					"2": {
+					{
 						"helper_text": {
 							"admin": "Si seleccionan “sí”, usted u otro coordinador de investigación los llamará.",
 							"participant": "Si selecciona que “sí”, su coordinador de investigación lo llamará por teléfono."
@@ -64,7 +64,7 @@
 							"participant": "¿Le gustaría que lo contactemos para hablar sobre su salida del programa y responder cualquier pregunta que pueda tener?"
 						}
 					},
-					"3": {
+					{
 						"helper_text": {
 							"admin": "Decirnos por qué se van nos ayudará a mejorar el programa para futuros participantes.",
 							"participant": "Informarnos sobre por qué se va nos ayudará a mejorar el programa para participantes futuros."
@@ -78,7 +78,7 @@
 							"label": "Motivo de salirse (opcional)"
 						}
 					}
-				}
+				]
 			},
 			"pageTitle": "Salirse del programa del Biobanco",
 			"submit": "Salirse del programa del Biobanco",
@@ -86,7 +86,7 @@
 				"admin": "Esto terminará la participación de {{firstName}} {{lastName}}"
 			}
 		},
-		"2": {
+		{
 			"body": {
 				"admin": "El participante deberá hablar con su coordinador de investigación si quiere volver a unirse en el futuro.",
 				"participant": "Si le gustaría volver a inscribirse en el futuro, tendrá que hablar con su coordinador de investigación."
@@ -97,7 +97,7 @@
 			},
 			"submit": "Confirmar"
 		}
-	},
+	],
 	"metaData": {
 		"title": "Cambiar participación | Cuenta | Cancer Moonshot Biobank"
 	}

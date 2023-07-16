@@ -7,36 +7,36 @@
 	},
 	"pageRoute": "/research",
 	"pageTitle": "Biobanks are important for research",
-	"sections": {
-		"0": {
+	"sections": [
+		{
 			"alt_text": "researchers share results",
 			"body": "<p>The main causes of death from cancer are when the disease spreads or becomes resistant to treatment. To understand why these happen, researchers need to look at cancer tissue donated by patients over the course of their treatment.</p><p>These kinds of samples have been hard to get&mdash;but the Cancer Moonshot<sup>SM</sup>  Biobank wants to change that. By donating your samples to the Biobank over the course of your care, for up to 5 years, researchers can study how cancers change over time, and how to fight later-stage cancers.</p>",
 			"title": "We need to understand how cancer changes over time."
 		},
-		"1": {
+		{
 			"alt_text": "researchers working in a lab",
 			"body": "<p>Researchers from all over the world will use the Biobank. They may work for universities, or for private labs and drug companies.</p><p>To be approved to access Biobank samples, the researchers will have to meet strict standards for ethical and secure use of samples and data.</p>",
 			"title": "What researchers are working on"
 		},
-		"2": {
-			"links": {
-				"0": {
+		{
+			"links": [
+				{
 					"author": "Dr. Jeffrey Tyner — Oregon Health & Science University",
 					"route": "/research/tyner-acute-myeloid",
 					"text": "Genetics of acute myeloid leukemia"
 				},
-				"1": {
+				{
 					"author": "Dr. Collin Blakely — University of California San Francisco",
 					"route": "/research/blakely-improving-responses",
 					"text": "Improving responses to lung cancer treatments"
 				},
-				"2": {
+				{
 					"author": "Dr. Calvin Kuo — Stanford University",
 					"route": "/research/kuo-interactions-environment",
 					"text": "Interactions of cancer cells with their environment"
 				}
-			},
+			],
 			"title": "Updates from our researchers"
 		}
-	}
+	]
 }

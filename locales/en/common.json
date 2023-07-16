@@ -120,11 +120,11 @@
 		"research": "Research",
 		"research_subNav": {
 			"0": "Research Overview",
-			"0_subNav": {
-				"0": "Genetics of acute myeloid leukemia",
-				"1": "Improving lung cancer treatment",
-				"2": "Cancer cell environment"
-			}
+			"0_subNav": [
+				"Genetics of acute myeloid leukemia",
+				"Improving lung cancer treatment",
+				"Cancer cell environment"
+			]
 		}
 	},
 	"search": {

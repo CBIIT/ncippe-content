@@ -1,34 +1,34 @@
 {
-	"faqs": {
-		"0": {
+	"faqs": [
+		{
 			"answer": "A biomarker is a biological molecule found in blood, tissue, or other bodily fluids. It can be used to indicate a disease, or as a way to see if the body is responding to treatment.",
 			"question": "What is a biomarker, exactly?"
 		},
-		"1": {
+		{
 			"answer": "A biomarker test only analyzes the genes in your cancer. It’s different from genetic testing like commercially available ancestry tests or cancer risk testing which look at the genes you inherited from your parents.",
 			"question": "Is a biomarker test the same as a genetic test?"
 		},
-		"2": {
+		{
 			"answer": "<p>You, your doctor, and the research coordinator will get your biomarker report.</p><p>A version of your biomarker report without any personal information will also be included in the Biobank so approved researchers can see the results.</p><p>The Biobank won’t share your biomarker test results with your insurance companies or your employer. <a href='/participation/privacy' data-route>Learn more about how we protect your privacy.</a></p>",
 			"question": "Who can see the results of my biomarker test?"
 		},
-		"3": {
+		{
 			"answer": "No, there’s no cost to you for the biomarker test.",
 			"question": "Will I have to pay to get the test?"
 		},
-		"4": {
+		{
 			"answer": "<p>If you have a cancer in a solid tissue, then the Molecular Characterization Laboratory (MoCha) at the <a href='https://frederick.cancer.gov/' rel='noopener noreferrer' target='_blank'>Frederick National Laboratory for Cancer Research</a> will do the biomarker test on your tissue sample.</p>",
 			"question": "Who will do the biomarker test?"
 		},
-		"5": {
+		{
 			"answer": "The results of your biomarker test may help your doctor find more individualized treatments for your care, such as a targeted therapy that will work for your kind of cancer. The results may also include information that shows you might qualify for another research study or a clinical trial. It’s possible that the biomarker test won’t change your treatment plan at all if it shows that your current treatment is the best one for you.",
 			"question": "Can results of my biomarker test change my treatment plan?"
 		},
-		"6": {
+		{
 			"answer": "The biomarker report lists genes that are known to be related to cancer in some way. It also lists changes (variants) in those genes found in the tumor. Doctors may find this information useful when recommending treatment. There are still some changes in cancer genes that are not understood yet. They may be included in the report if they were detected, since they have been found in many cancers. This is another reason why research on these biomarkers is important.",
 			"question": "What genes will be included in my biomarker report?"
 		}
-	},
+	],
 	"faqs_title": "Frequently asked questions about biomarker tests",
 	"intro_text": "<p>Your cancer is unique to you.</p><p>After you donate blood and tissue samples to the Biobank, we'll run a biomarker test on your samples. Your doctor may be able to use the report to create a more personalized treatment plan for you.</p>",
 	"metaData": {
@@ -39,83 +39,83 @@
 	},
 	"pageRoute": "/expect/testing",
 	"pageTitle": "What to expect if you join the Biobank",
-	"sections": {
-		"0": {
+	"sections": [
+		{
 			"alt_text": "doctor working with a microscope",
 			"body": "<h3>Biomarker testing</h3><p>A biomarker test looks specifically at the genetic errors and other changes in your cancer. It does not provide information about genes you were born with.</p><p>Biomarker testing may also be called tumor profiling, genomic profiling, molecular testing, tumor DNA sequencing, or genomic cancer testing.</p>"
 		},
-		"1": {
+		{
 			"body": "The biomarker test involves three steps:",
-			"stepper": {
-				"0": {
+			"stepper": [
+				{
 					"description": "The Biobank will send your donated blood or tissue sample to a lab.",
 					"label": "Share"
 				},
-				"1": {
+				{
 					"description": "The lab will analyze the sample for certain genetic changes, or biomarkers. These biomarkers can help suggest the targeted therapies, immunotherapies, or clinical trials that might be right for you.",
 					"label": "Analyze"
 				},
-				"2": {
+				{
 					"description": "Your report will be available for you to download through your online Biobank account. It will also be sent to your doctor so you can discuss the results together.",
 					"label": "Report"
 				}
-			},
+			],
 			"title": "How is the test performed?"
 		},
-		"2": {
-			"samples": {
-				"0": {
+		{
+			"samples": [
+				{
 					"alt_text": "Solid tumor and multiple myeloma test report page sample",
 					"link": "View sample report",
 					"title": " Sample biomarker report – Solid tumors and multiple myeloma",
 					"title_aria": "View a solid tumor and multiple myeloma test report PDF sample file"
 				},
-				"1": {
+				{
 					"alt_text": "cover of solid tumor and multiple myeloma biomarker report",
 					"link": "View guide",
 					"title": "Guide to solid tumors and multiple myeloma report",
 					"title_aria": "View the PDF guide document for reviewing a solid tumor and multiple myeloma test report"
 				},
-				"2": {
+				{
 					"alt_text": "Blood cancer test report page sample",
 					"link": "View sample report",
 					"title": "Sample biomarker report - blood cancers",
 					"title_aria": "View a blood cancer test report PDF sample file"
 				},
-				"3": {
+				{
 					"alt_text": "cover of blood cancer biomarker test",
 					"link": "View guide",
 					"title": "Guide to the biomarker report for blood cancers",
 					"title_aria": "View the PDF guide document for reviewing a blood cancer test report"
 				},
-				"4": {
+				{
 					"alt_text": "AML test report page sample",
 					"link": "View sample report",
 					"title": "Sample biomarker report - AML",
 					"title_aria": "View an AML test report PDF sample file"
 				},
-				"5": {
+				{
 					"alt_text": "cover of AML biomarker test",
 					"link": "View guide",
 					"title": "Guide to AML biomarker report",
 					"title_aria": "View the PDF guide document for reviewing an AML test report"
 				}
-			},
-			"subtitle": {
-				"0": "Solid tumors and multiple myeloma",
-				"1": "Blood cancers",
-				"2": "Acute Myeloid Leukemia (AML)"
-			},
+			],
+			"subtitle": [
+				"Solid tumors and multiple myeloma",
+				"Blood cancers",
+				"Acute Myeloid Leukemia (AML)"
+			],
 			"title": "Sample reports and guides"
 		},
-		"3": {
+		{
 			"alt_text": "man working on a laptop",
-			"links": {
-				"0": "Biomarker Testing for Cancer Treatment",
-				"1": "Resources for health care providers and educators",
-				"2": "NCI Cancer Information Service"
-			},
+			"links": [
+				"Biomarker Testing for Cancer Treatment",
+				"Resources for health care providers and educators",
+				"NCI Cancer Information Service"
+			],
 			"title": "Where can I learn more?"
 		}
-	}
+	]
 }

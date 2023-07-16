@@ -1,6 +1,6 @@
 {
-	"hospitals": {
-		"0": {
+	"hospitals": [
+		{
 			"address_1": "2240 West Ogden Avenue",
 			"address_2": "Floor 12",
 			"city": "Chicago",
@@ -12,7 +12,7 @@
 			"title": "Stroger Hospital of Cook County Minority Underserved NCORP",
 			"zip": "60612"
 		},
-		"1": {
+		{
 			"address_1": "Baptist Cancer Center",
 			"address_2": "1995 Highway 51 South",
 			"city": "Covington",
@@ -24,7 +24,7 @@
 			"title": "Baptist Memorial Health Care/Mid South Minority Underserved NCORP",
 			"zip": "38019"
 		},
-		"2": {
+		{
 			"address_1": "The University of New Mexico",
 			"address_2": "MSC 09 5220",
 			"city": "Albuquerque",
@@ -36,7 +36,7 @@
 			"title": "New Mexico Minority Underserved NCORP",
 			"zip": "87131"
 		},
-		"3": {
+		{
 			"address_1": "800 East Leigh Street",
 			"address_2": "",
 			"city": "Richmond",
@@ -48,7 +48,7 @@
 			"title": "VCU Massey Cancer Center Minority Underserved NCORP",
 			"zip": "23298"
 		},
-		"4": {
+		{
 			"address_1": "111 East 210th Street",
 			"address_2": "",
 			"city": "Bronx",
@@ -60,7 +60,7 @@
 			"title": "Montefiore Minority Underserved NCORP",
 			"zip": "10467"
 		}
-	},
+	],
 	"pageRoute": "/about/eligibility",
 	"pageTitle": "Elegibilidad y ubicaciones"
 }

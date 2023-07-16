@@ -19,22 +19,22 @@
 		},
 		"pageTitle": "Change your Biobank participation"
 	},
-	"leave": {
-		"0": {
+	"leave": [
+		{
 			"body": "<p>You have the right to stop participating and leave the Biobank program when you want to.</p><p>You have a few choices for how we'll use samples and information we've already collected. The next section will walk you through these choices. If you have questions, please contact your research coordinator.</p>",
 			"pageTitle": "Leave the Biobank",
 			"submit": "I understand",
 			"subtitle": "We're sorry to see you go."
 		},
-		"1": {
+		{
 			"description": {
 				"admin": "Please guide the participant through the following questions so that we can handle their biospecimens and related information in an appropriate manner.",
 				"participant": "Before you leave the Biobank, we need to ask you a few questions about how to handle your samples and information."
 			},
 			"form": {
 				"error": "You must complete this field",
-				"questions": {
-					"0": {
+				"questions": [
+					{
 						"helper_text": {
 							"admin": "Unfortunately, we can't get back samples and information that have already been shared.",
 							"participant": "Unfortunately, we can't get back samples and information that have already been shared."
@@ -44,7 +44,7 @@
 							"participant": "May we continue to share the samples and medical information we already collected with researchers?"
 						}
 					},
-					"1": {
+					{
 						"helper_text": {
 							"admin": "We may collect information from the participant's medical record for 10 years or longer. This may include information about their diagnosis and past treatments. They may opt out at any time.",
 							"participant": "We may collect information from your medical record for 10 years or longer. This may include information about your diagnosis and past treatments. You may opt out at any time."
@@ -54,7 +54,7 @@
 							"participant": "May we continue to use the information in your medical record for research?"
 						}
 					},
-					"2": {
+					{
 						"helper_text": {
 							"admin": "If they select yes, you or another research coordinator will call them.",
 							"participant": "If you select yes, your research coordinator will call you."
@@ -64,7 +64,7 @@
 							"participant": "Would you like us to contact you to talk about leaving the program and answer any questions you may have?"
 						}
 					},
-					"3": {
+					{
 						"helper_text": {
 							"admin": "Telling us why they are leaving will help us improve the program for future participants.",
 							"participant": "Telling us why you're leaving will help us improve the program for future participants."
@@ -78,7 +78,7 @@
 							"label": "Reason for leaving (optional)"
 						}
 					}
-				}
+				]
 			},
 			"pageTitle": "Leave the Biobank",
 			"submit": "Leave the Biobank",
@@ -86,7 +86,7 @@
 				"admin": "This will end {{firstName}} {{lastName}}'s participation"
 			}
 		},
-		"2": {
+		{
 			"body": {
 				"admin": "The participant will need to speak to their research coordinator if they want to rejoin in the future.",
 				"participant": "You'll need to talk to your research coordinator if you'd like to rejoin in the future."
@@ -97,7 +97,7 @@
 			},
 			"submit": "Confirm"
 		}
-	},
+	],
 	"metaData": {
 		"title": "Change participation | Account | Cancer Moonshot Biobank"
 	}

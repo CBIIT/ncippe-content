@@ -4,20 +4,20 @@
 		"title": "Carga del informe de biomarcadores | Cancer Moonshot Biobank"
 	},
 	"pageTitle": "Subir informes de prueba de biomarcadores",
-	"stepper": {
-		"0": {
+	"stepper": [
+		{
 			"label": "Ingrese la identificación del participante"
 		},
-		"1": {
+		{
 			"label": "Seleccione el informe de su computadora"
 		},
-		"2": {
+		{
 			"label": "Subida completa"
 		}
-	},
+	],
 	"stepper_title": "Proceso de carga",
-	"upload": {
-		"0": {
+	"upload": [
+		{
 			"error": {
 				"message": "Verifique la ID del participante en la copia impresa del informe y vuelva a ingresarla arriba. Si este problema persiste, comuníquese con el administrador del sistema.",
 				"title": "Este participante no está en el sistema."
@@ -27,7 +27,7 @@
 			"input_helper_text": "Este número está en la parte superior del informe.",
 			"input_label": "Ingrese la identificación del participante"
 		},
-		"1": {
+		{
 			"button_select": "Seleccione un informe",
 			"error": {
 				"fileType": {
@@ -42,15 +42,15 @@
 			"form_subtitle": "Seleccione un informe para cargar",
 			"form_title": "Partícipe"
 		},
-		"2": {
+		{
 			"progress": "Cargando informe ..."
 		},
-		"3": {
+		{
 			"success": {
 				"button_reset": "Subir otro informe",
 				"message": "Enviamos un correo electrónico para informar al participante, sus proveedores y su coordinador de investigación.",
 				"title": "¡Informe de biomarcador cargado correctamente!"
 			}
 		}
-	}
+	]
 }

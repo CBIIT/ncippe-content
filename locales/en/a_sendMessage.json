@@ -37,20 +37,20 @@
 		},
 		"title": "Select the audience for your message"
 	},
-	"stepper": {
-		"0": {
+	"stepper": [
+		{
 			"label": "Choose recipients"
 		},
-		"1": {
+		{
 			"label": "Compose message"
 		},
-		"2": {
+		{
 			"label": "Preview"
 		},
-		"3": {
+		{
 			"label": "Complete"
 		}
-	},
+	],
 	"stepper_title": "Send a new message",
 	"success": {
 		"buttons": {

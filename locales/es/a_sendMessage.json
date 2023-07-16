@@ -37,20 +37,20 @@
 		},
 		"title": "Seleccione la audiencia de su mensaje"
 	},
-	"stepper": {
-		"0": {
+	"stepper": [
+		{
 			"label": "Elija destinatarios"
 		},
-		"1": {
+		{
 			"label": "Crear Mensaje"
 		},
-		"2": {
+		{
 			"label": "Avance"
 		},
-		"3": {
+		{
 			"label": "Completar"
 		}
-	},
+	],
 	"stepper_title": "Envíe un mensaje nuevo",
 	"success": {
 		"buttons": {

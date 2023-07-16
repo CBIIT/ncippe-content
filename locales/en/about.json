@@ -97,6 +97,14 @@
 					"label": "White"
 				}
 			},
+			"PatientDemographicsSex": {
+				"Female": {
+					"label": "Female"
+				},
+				"Male": {
+					"label": "Male"
+				}
+			},
 			"ProjectSummary": {
 				"BiomarkerTestReturned": "# of biomarker test returned to providers and participants",
 				"CancerTypes": "# of Cancer types for which samples have been collected in the study",

@@ -1,23 +1,23 @@
 {
-	"img": {
-		"0": {
+	"img": [
+		{
 			"alt_text": "Dr. Jeffrey Tyner",
 			"file_name": "tyner.jpg"
 		}
-	},
+	],
 	"intro_text": "El investigador Jeffrey Tyner y el personal de su laboratorio en la Universidad de Salud y Ciencia de Oregón (OHSU) usarán muestras del Biobanco para estudiar las características genéticas de la leucemia mieloide aguda (LMA) a fin de entender mejor cómo adaptar con rapidez los tratamientos a las personas en el futuro.",
 	"pageRoute": "/research/tyner-acute-myeloid",
 	"pageTitle": "Características genéticas de la leucemia mieloide aguda",
-	"sections": {
-		"0": {
+	"sections": [
+		{
 			"body": "En la Universidad de Salud y Ciencia de Oregón (OHSU), nuestro objetivo es estudiar las características genéticas de las células de la leucemia mieloide aguda (LMA) para encontrar mejores tratamientos. Nuestra meta general es seleccionar los medicamentos que tengan la mayor probabilidad de ayudar a cada persona con LMA, según las características genéticas del cáncer que padece. A largo plazo, esperamos obtener suficiente información para seleccionar con rapidez los mejores medicamentos para cada persona.",
 			"title": "¿Cuáles son los objetivos principales de su investigación?"
 		},
-		"1": {
+		{
 			"body": "Cuando alguien se entera de que tiene cáncer, esto es muy difícil para la persona y su familia. Esperamos ofrecer mejores tratamientos que se puedan adaptar con rapidez a cada paciente. Estudiar muestras de personas con LMA es una de las mejores formas de saber qué medicamentos son los más eficaces para cada paciente.",
 			"title": "¿Qué lo inspira a ser investigador y a formar parte del Biobanco?"
 		},
-		"2": {
+		{
 			"body": "Deseamos crear mejores tratamientos para las personas con LMA. Para lograrlo, estudiamos varios medicamentos de vanguardia que se usan para tratar a las personas con LMA. Aunque estos medicamentos ya mejoraron el tratamiento, aún necesitamos entender:\n<ul class='bulletList bulletList--spreadOut'><li>¿Por qué algunos medicamentos pierden su eficacia?</li><li>¿Qué genes en las células de la LMA hacen que estas tengan más probabilidades de responder a medicamentos específicos?</li><li>¿Qué combinaciones de medicamentos son más eficaces para tratar la LMA?</li></ul>",
 			"quote": {
 				"cite": "Dr. Jeffrey Tyner",
@@ -25,5 +25,5 @@
 			},
 			"title": "¿Qué le gustaría lograr al usar las muestras del Biobanco?"
 		}
-	}
+	]
 }

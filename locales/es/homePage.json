@@ -6,24 +6,24 @@
 		"title": "The Cancer Moonshot<sup>SM</sup> Biobank"
 	},
 	"how_it_works": {
-		"cards": {
-			"0": {
+		"cards": [
+			{
 				"alt_text": "Ícono de paciente",
 				"body": "Las personas con cáncer donan muestras de sangre y tejido durante su tratamiento, por hasta 5años."
 			},
-			"1": {
+			{
 				"alt_text": "Ícono de varios tubos de ensayo",
 				"body": "El Biobanco recibe las muestras y las envía a los investigadores."
 			},
-			"2": {
+			{
 				"alt_text": "Ícono de foco",
 				"body": "Los investigadores desarrollan ideas que ponen a prueba con muchas muestras distintas para mejorar su entendimiento del cáncer."
 			},
-			"3": {
+			{
 				"alt_text": "Ícono de un gran avance",
 				"body": "Los investigadores trabajan para hacer descubrimientos que mejoren los tratamientos del cáncer y aumenten la supervivencia de los pacientes."
 			}
-		},
+		],
 		"title": "Cómo funciona"
 	},
 	"metaData": {
@@ -47,26 +47,26 @@
 	"pageTitle": "Página de Inicio",
 	"participate": {
 		"body": "Al inscribirse en el Biobanco, usted puede formar parte del descubrimiento de nuevas terapias contra el cáncer y ayudar a pacientes de todo el mundo.",
-		"cards": {
-			"0": {
+		"cards": [
+			{
 				"alt_text": "médico revisando información con el paciente",
 				"body": "A los participantes se les hace una prueba de biomarcadores, que puede ayudar al médico a encontrar otros tratamientos o estudios clínicos específicos de su cáncer individual. La prueba es gratuita.",
 				"link": "Obtenga más información sobre las pruebas de biomarcadores",
 				"title": "Las pruebas de biomarcadores le dan más información sobre su cáncer."
 			},
-			"1": {
+			{
 				"alt_text": "Amigos y familia",
 				"body": "Los tratamientos del cáncer no funcionan de la misma manera para todos, por lo tanto, las muestras de una gran variedad de comunidades nos ayudarán a entender el motivo de ello y cómo mejorar la atención médica del cáncer.",
 				"link": "",
 				"title": "La diversidad en la participación mejora la atención médica del cáncer."
 			},
-			"2": {
+			{
 				"alt_text": "Tubos de ensayo",
 				"body": "Al obtener muestras al paso del tiempo, los investigadores pueden observar cómo cambia el cáncer y aprender a cómo ponerle un alto a su proliferación y diseminación.",
 				"link": "Obtenga más información sobre las investigaciones",
 				"title": "Juntos podemos mejorar nuestro entendimiento del cáncer."
 			}
-		},
+		],
 		"title": "¿Por qué debería participar?"
 	}
 }

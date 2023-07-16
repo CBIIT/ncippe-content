@@ -1,7 +1,7 @@
 {
-	"alt_text": {
-		"0": "Médico y paciente"
-	},
+	"alt_text": [
+		"Médico y paciente"
+	],
 	"form_link_adult": "Formulario de consentimiento para adultos",
 	"form_link_minors": "Formulario de asentimiento para menores de edad",
 	"form_link_parental": "Formulario de autorización de padres",

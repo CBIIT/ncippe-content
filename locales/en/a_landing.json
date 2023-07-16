@@ -10,18 +10,18 @@
 			"link": "View forms",
 			"title": "Consent forms"
 		},
-		"guide": {
-			"0": {
+		"guide": [
+			{
 				"description": "Understand how to interpret the results of the solid tumor and multiple myeloma test report.",
 				"link": "Download PDF",
 				"title": "Guide to solid tumors and multiple myeloma report"
 			},
-			"1": {
+			{
 				"description": "Understand how to interpret the results of the Acute Myeloid Leukemia (AML) test report.",
 				"link": "Download PDF",
 				"title": "Guide to AML biomarker report"
 			}
-		},
+		],
 		"help": {
 			"description": "Learn about changing your participation in the Biobank.",
 			"link": "Learn more",

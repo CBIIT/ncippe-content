@@ -1,34 +1,34 @@
 {
-	"faqs": {
-		"0": {
+	"faqs": [
+		{
 			"answer": "Un biomarcador es una molécula biológica que se encuentra en la sangre, los tejidos o en otros líquidos corporales. Se puede usar para indicar una enfermedad o como una manera de averiguar si el cuerpo está respondiendo al tratamiento.",
 			"question": "¿Qué es, exactamente, un biomarcador?"
 		},
-		"1": {
+		{
 			"answer": "Con una prueba de biomarcadores solo se analizan los genes del tumor. Es diferente de las pruebas genéticas, como las de linaje que están a la venta, o de las pruebas de riesgo de cáncer con las que se analizan los genes que heredó de sus padres.",
 			"question": "¿Es una prueba de biomarcadores lo mismo que una prueba genética? "
 		},
-		"2": {
+		{
 			"answer": "<p>Usted, su médico y el coordinador de la investigación recibirán su informe de biomarcadores.</p><p>También se incluirá en el Biobanco una versión de su informe de biomarcadores sin ninguna información personal para que los investigadores autorizados puedan consultar los resultados.</p><p>El Biobanco no comunicará los resultados de su prueba de biomarcadoresa las compañías de seguros ni a su empleador. <a href='/participation/privacy' data-route>Obtenga más información sobre cómo protegemos su privacidad</a></p>",
 			"question": "¿Quién recibirá los resultados de mi prueba de biomarcadores?"
 		},
-		"3": {
+		{
 			"answer": "No, no se le cobrará nada por la prueba de biomarcadores.",
 			"question": "¿Me costará algo hacerme la prueba?"
 		},
-		"4": {
+		{
 			"answer": "<p>Si tiene cáncer en un tejido sólido, el Laboratorio de Caracterización Molecular (MoCha) del <a href='https://frederick.cancer.gov/' rel='noopener noreferrer' target='_blank'>Laboratorio Nacional Frederick de Investigación Oncológica</a> realizará la prueba de biomarcadores con su muestra de tejido.</p>",
 			"question": "¿Quién hará la prueba de biomarcadores?"
 		},
-		"5": {
+		{
 			"answer": "Los resultados de la prueba de biomarcadores pueden ayudar a que su médico encuentre tratamientos más individualizados para su atención, como una terapia dirigida que funcione para el tipo de cáncer que padezca. Es probable que los resultados también incluyan información que muestre que usted podría calificar para otro estudio de investigación o un estudio clínico. Es posible que la prueba de biomarcadores no cambie su plan de tratamiento en lo absoluto si indica que su tratamiento actual es el mejor para usted. ",
 			"question": "¿Puede cambiar mi plan de tratamiento según los resultados de mi prueba de biomarcadores?"
 		},
-		"6": {
+		{
 			"answer": "En el informe de biomarcadores se anotan los genes que sabemos que, de alguna manera,están relacionados con el cáncer. También se anotan cambios (variantes) en esos genes que se encuentran en su tumor. Esta información puede ser útil para los médicos cuando recomiendan un tratamiento. Además, hay algunos cambios en los genes del cáncer que no entendemos todavía. Si estos se detectan, tal vez se incluyan en el informe porque se han encontrado en muchos cánceres. Este es otro motivo por el que la investigación de estos biomarcadores es importante.",
 			"question": "¿Qué genes se incluirán en mi informe de biomarcadores?"
 		}
-	},
+	],
 	"faqs_title": "Preguntas frecuentes sobre las pruebas de biomarcadores",
 	"intro_text": "<p>El cáncer de cada personaes único.</p><p>Después de que done las muestras de sangre y tejido al Biobanco, haremos una prueba de biomarcadores con estas. Su médico tal vez pueda usar el informe para crear un plan de tratamiento más personalizado para usted.</p>",
 	"metaData": {
@@ -39,83 +39,83 @@
 	},
 	"pageRoute": "/expect/testing",
 	"pageTitle": "Obtenga su prueba de biomarcadores",
-	"sections": {
-		"0": {
+	"sections": [
+		{
 			"alt_text": "Doctora que trabaja con un microscopio",
 			"body": "<h3>Prueba de biomarcadores</h3><p>Con la prueba de biomarcadores se analizan específicamente los errores genéticos y otros cambios en su cáncer. La prueba no ofrece información sobre los genes con los que nació.</p><p>A las pruebas de biomarcadores también se les conoce como identificación tumoral, identificación genómica, pruebas moleculares, secuenciación del ADN de tumores o pruebas genómicas oncológicas.</p>"
 		},
-		"1": {
+		{
 			"body": "La prueba de biomarcadores incluye tres pasos:",
-			"stepper": {
-				"0": {
+			"stepper": [
+				{
 					"description": "El personal del Biobanco enviará su muestra donada de sangre o tejido a un laboratorio.",
 					"label": "Distribuir"
 				},
-				"1": {
+				{
 					"description": "En el laboratorio se analizará la muestra para detectar ciertos cambios genéticos o biomarcadores. Estos pueden ayudar a indicar las terapias dirigidas, las inmunoterapias o los estudios clínicos que puedan ser los adecuados para usted.",
 					"label": "Analizar"
 				},
-				"2": {
+				{
 					"description": "Su informe estará disponible para que lo descargue desde su cuenta de Biobanco en línea (por Internet). También se le enviará a su médico para que puedan conversar sobre los resultados.",
 					"label": "Proporcionar un informe"
 				}
-			},
+			],
 			"title": "¿Cómo se realiza la prueba?"
 		},
-		"2": {
-			"samples": {
-				"0": {
+		{
+			"samples": [
+				{
 					"alt_text": "Ejemplo de portada de un Informe de la prueba de biomarcadores de tumores sólidos y mieloma múltiple",
 					"link": "Vea el ejemplo del informe",
 					"title": " Ejemplo de informe de biomarcadores: Tumores sólidos y mieloma múltiple",
 					"title_aria": "Ver un informe de prueba de tumor sólido y mieloma múltiple archivo de muestra PDF"
 				},
-				"1": {
+				{
 					"alt_text": "portada del informe de biomarcadores de tumores sólidos y mieloma múltiple",
 					"link": "Vea la guía",
 					"title": "Guía del informe de tumores sólidos y mieloma múltiple",
 					"title_aria": "Vea el documento de guía en PDF para revisar un informe de prueba de tumor sólido y mieloma múltiple"
 				},
-				"2": {
+				{
 					"alt_text": "Ejemplo de portada de un Informe de la prueba de biomarcadores de cáncer de la sangre",
 					"link": "Vea el ejemplo de un informe",
 					"title": "Ejemplo de informe de biomarcadores: cánceres de la sangre",
 					"title_aria": "Ver un informe de prueba de cáncer de sangre Archivo de muestra en PDF"
 				},
-				"3": {
+				{
 					"alt_text": "Portada de la guía para interpretar un informe de la prueba de biomarcadores de cánceres de la sangre",
 					"link": "Vea la guía ",
 					"title": "Guía del informe de biomarcadores para cánceres de la sangre",
 					"title_aria": "Vea el documento de guía en PDF para revisar un informe de prueba de cáncer de sangre"
 				},
-				"4": {
+				{
 					"alt_text": "Ejemplo de portada de un Informe de la prueba de biomarcadores de LMA",
 					"link": "Vea el ejemplo de un informe",
 					"title": "Ejemplo de informe de biomarcadores: LMA",
 					"title_aria": "Ver un informe de prueba de LMA archivo de muestra en PDF"
 				},
-				"5": {
+				{
 					"alt_text": "portada del informe de biomarcadores LMA",
 					"link": "Vea la guía ",
 					"title": "Guía del informe de biomarcadores de LMA",
 					"title_aria": "Vea el documento de guía en PDF para revisar un informe de prueba de LMA"
 				}
-			},
-			"subtitle": {
-				"0": "Tumores sólidos y mieloma múltiple",
-				"1": "Cáncer de la sangre",
-				"2": "Leucemia mieloide aguda (LMA)"
-			},
+			],
+			"subtitle": [
+				"Tumores sólidos y mieloma múltiple",
+				"Cáncer de la sangre",
+				"Leucemia mieloide aguda (LMA)"
+			],
 			"title": "Ejemplos de informes y guías"
 		},
-		"3": {
+		{
 			"alt_text": "Hombre que trabaja con una computadora portátil",
-			"links": {
-				"0": "Pruebas de biomarcadores para el tratamiento de cáncer",
-				"1": "Recursos para profesionales e instructores del campo médico",
-				"2": "Servicio de Información de Cáncer del NCI"
-			},
+			"links": [
+				"Pruebas de biomarcadores para el tratamiento de cáncer",
+				"Recursos para profesionales e instructores del campo médico",
+				"Servicio de Información de Cáncer del NCI"
+			],
 			"title": "¿Dónde puedo obtener más información?"
 		}
-	}
+	]
 }

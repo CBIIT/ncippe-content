@@ -4,20 +4,20 @@
 		"title": "Biomarker report upload | Cancer Moonshot Biobank"
 	},
 	"pageTitle": "Upload biomarker test reports",
-	"stepper": {
-		"0": {
+	"stepper": [
+		{
 			"label": "Input Participant ID"
 		},
-		"1": {
+		{
 			"label": "Select report from your computer"
 		},
-		"2": {
+		{
 			"label": "Complete upload"
 		}
-	},
+	],
 	"stepper_title": "Upload process",
-	"upload": {
-		"0": {
+	"upload": [
+		{
 			"error": {
 				"message": "Please double check the Participant ID on the hard copy of the report and re-enter it above. If this problem persists, contact the system administrator.",
 				"title": "This participant is not in the system"
@@ -27,7 +27,7 @@
 			"input_helper_text": "This number is on the top of the report",
 			"input_label": "Input Participant ID"
 		},
-		"1": {
+		{
 			"button_select": "Select a report",
 			"error": {
 				"fileType": {
@@ -42,15 +42,15 @@
 			"form_subtitle": "Select a report to upload",
 			"form_title": "Participant"
 		},
-		"2": {
+		{
 			"progress": "Uploading report..."
 		},
-		"3": {
+		{
 			"success": {
 				"button_reset": "Upload another report",
 				"message": "We sent an email to let the participant, their providers, and their research coordinator know.",
 				"title": "Biomarker report uploaded successfully!"
 			}
 		}
-	}
+	]
 }

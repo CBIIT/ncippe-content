@@ -1,23 +1,23 @@
 {
-	"img": {
-		"0": {
+	"img": [
+		{
 			"alt_text": "Dr. Jeffrey Tyner",
 			"file_name": "tyner.jpg"
 		}
-	},
+	],
 	"intro_text": "Researcher Jeffrey Tyner from Oregon Health & Science University will be using samples from the Biobank to study the genetics of acute myeloid leukemia (AML) to better understand how to quickly tailor treatments for individuals in the future.",
 	"pageRoute": "/research/tyner-acute-myeloid",
 	"pageTitle": "Genetics of acute myeloid leukemia",
-	"sections": {
-		"0": {
+	"sections": [
+		{
 			"body": "At Oregon Health & Science University we aim to study the genetics of AML (acute myeloid leukemia) cells to find better treatments. Our overall goal is to select the drugs that are most likely to help each person with AML based on the genetics of their cancer. Long term, we hope to collect enough information that will help quickly select the drugs that are best for each person.",
 			"title": "What are the top goals of your research?"
 		},
-		"1": {
+		{
 			"body": "Learning they have cancer is very difficult for people and their families. We hope to offer improved treatments that can quickly be tailored to each patient. Studying samples from people with AML is one of the best ways to know which drugs work best for each person.",
 			"title": "What inspires you to be a researcher and a part of the Biobank?"
 		},
-		"2": {
+		{
 			"body": "We want to develop better treatments for people with AML. To do so, we are studying several cutting-edge drugs that are used to treat people with AML. While these drugs have already improved treatment, we still need to understand:\n<ul class='bulletList bulletList--spreadOut'><li>Why do some drugs stop working?</li><li>Which genes in AML cells make them more likely to respond to specific drugs?</li><li>Which drug combinations are work best to treat AML?</li></ul>",
 			"quote": {
 				"cite": "Dr. Jeffrey Tyner",
@@ -25,5 +25,5 @@
 			},
 			"title": "What would you like to achieve as part of the Biobank?"
 		}
-	}
+	]
 }

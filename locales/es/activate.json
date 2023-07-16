@@ -1,37 +1,37 @@
 {
-	"alt_text": {
-		"0": "Padre e hija que miran una tableta electrónica"
-	},
-	"faqs": {
-		"0": {
+	"alt_text": [
+		"Padre e hija que miran una tableta electrónica"
+	],
+	"faqs": [
+		{
 			"answer": "Deberá usar la misma dirección de correo electrónico que proporcionó cuando se inscribió en el Biobanco. Es la misma dirección de correo electrónico donde recibió un aviso para activar su cuenta. Contacte a su coordinador de investigación si tiene más preguntas.",
 			"question": "¿Qué correo electrónico debería usar para crear mi cuenta de login.gov?"
 		},
-		"1": {
+		{
 			"answer": "Es posible que haya creado una cuenta de login.gov para acceder a USAJobs o a otro servicio gubernamental. En ese caso, no será necesario que cree otra cuenta. Solo asegúrese de que el correo electrónico que usó para inscribirse en el Biobanco esté asociado a su cuenta de login.gov, o agréguelo antes de iniciar una sesión en el Biobanco.",
 			"question": "¿Qué hago si ya tengo una cuenta de login.gov?"
 		},
-		"2": {
+		{
 			"answer": "<p>Sí, puede cambiar su correo electrónico después de que haya terminado de configurar una cuenta con la dirección de correo electrónico donde recibió la invitación.</p><p>Para cambiar su dirección de correo electrónico, inicie una sesión en su cuenta de login.gov en <a href='https://secure.login.gov'> https://secure.login.gov</a>. Desde ese sitio podrá administrar su cuenta, lo cual incluye agregar un nuevo correo electrónico y borrar los que ya no desee. Una vez que cambie su correo electrónico en login.gov, usaremos esa dirección de correo electrónico para enviarle noticias y notificaciones del Biobanco.</p>",
 			"question": "¿Puedo cambiar el correo electrónico que uso con mi cuenta de Biobanco en línea?"
 		},
-		"3": {
+		{
 			"answer": "Si cierra su cuenta de login.gov, su cuenta de Biobanco en línea se cerrará automáticamente. Cerrar su cuenta de Biobanco en línea no pondrá fin a su participación en el Biobanco.",
 			"question": "¿Qué sucede si cierro mi cuenta de login.gov?"
 		},
-		"4": {
+		{
 			"answer": "No. Si prefiere no acceder a su cuenta de Biobanco en línea, siempre podrá obtener copias de los resultados de su prueba de biomarcadores y de los formularios de consentimiento firmados por medio de su coordinador de investigación o de su médico.",
 			"question": "¿Necesito una cuenta de Biobanco en línea para participar en el Biobanco? "
 		},
-		"5": {
+		{
 			"answer": "<p>En el caso de los adultos, en estos momentos, solo los participantes del programa pueden administrar sus propias cuentas del Biobanco.</p><p>Si eres menor de 18 años de edad, tu padre, madreo tutor legal puede crear una cuenta en línea para administrar tu participación en el Biobanco. Una vez que cumplas 18 años, se te transferirá la cuenta.</p>",
 			"question": "¿Puede alguien administrar mi cuenta de Biobanco en línea por mí?"
 		},
-		"6": {
+		{
 			"answer": "Login.gov agrega una capa de seguridad a su cuenta de Biobanco en línea al requerir autenticación multifactorial y contraseñas seguras para acceder a su cuenta. Para obtener más información, lea la <a href='https://www.login.gov/policy/' rel='noopener noreferrer' target='_blank'>política de seguridad y privacidad de login.gov</a>.",
 			"question": "¿Cómo mantiene login.gov mi información segura?"
 		}
-	},
+	],
 	"faqs_title": "Preguntas frecuentes sobre su cuenta de Biobanco en línea",
 	"intro_text": "<p>Después de que se inscriba en el Biobanco por medio de su médico o coordinador de investigación, recibirá una invitación por correo electrónico para que active su cuenta de Biobanco en línea.</p><p>Por medio de su cuenta podrá descargar informes de la prueba de biomarcadores y formularios de consentimiento firmados, administrar su participación en el Biobanco y recibir mensajes directos del Biobanco.</p>",
 	"metaData": {
@@ -42,71 +42,71 @@
 	},
 	"pageRoute": "/participation/activate",
 	"pageTitle": "Active su cuenta de Biobanco en línea",
-	"sections": {
-		"0": {
+	"sections": [
+		{
 			"alt_text": "Captura de pantalla de Login.gov",
-			"links": {
-				"0": "Necesito crear una cuenta de login.gov",
-				"1": "Ya tengo una cuenta de login.gov"
-			},
+			"links": [
+				"Necesito crear una cuenta de login.gov",
+				"Ya tengo una cuenta de login.gov"
+			],
 			"title": "Para mantener su información segura, el Biobanco utiliza el sistema de login.gov"
 		},
-		"1": {
+		{
 			"link": "Cree una cuenta login.gov",
-			"security_options": {
-				"0": {
+			"security_options": [
+				{
 					"alt_text": "Ícono de teléfono celular",
 					"description": "Reciba un código por mensaje de texto (SMS) o llamada telefónica.",
 					"label": "Teléfono"
 				},
-				"1": {
+				{
 					"alt_text": "Ícono de aplicación de autenticación",
 					"description": "Reciba un código seguro por medio de una aplicación de autenticación (como Google Authenticator o Microsoft Authenticator).",
 					"label": "Aplicación de autenticación"
 				},
-				"2": {
+				{
 					"alt_text": "Ícono de dispositivo USB de seguridad",
 					"description": "Conecte un dispositivo USB de seguridad para acceder a su cuenta.",
 					"label": "Dispositivo USB de seguridad"
 				},
-				"3": {
+				{
 					"alt_text": "Ícono de computadora portátil",
 					"description": "Reciba una serie de 10 códigos que podrá usar cuando inicie una sesión. Si selecciona esta opción, asegúrese de guardar sus códigos en un lugar seguro. ",
 					"label": "Códigos de respaldo"
 				}
-			},
-			"stepper": {
-				"0": {
+			],
+			"stepper": [
+				{
 					"description": "Esta deberá ser la misma donde recibió la invitación para el Biobanco.",
 					"label": "Escriba y confirme su dirección de correo electrónico"
 				},
-				"1": {
+				{
 					"description": "Esta deberá incluir 12 caracteres y no ser una contraseña que se use con frecuencia.",
 					"label": "Cree una contraseña segura"
 				},
-				"2": {
+				{
 					"description": "Cada método funciona un poco diferente. Elija entre los siguientes:",
 					"label": "Seleccione un segundo método de seguridad"
 				},
-				"3": {
+				{
 					"description": "No utilizará este método cada vez que inicie una sesión, pero es importante que lo configure en caso de que pierda acceso a su segundo método.",
 					"label": "Seleccione un método de seguridad de respaldo"
 				},
-				"4": {
+				{
 					"description": "La próxima vez que inicie una sesión, escribirá su correo electrónico y contraseña, y utilizará el segundo método de seguridad que eligió.",
 					"label": "¡Habrá iniciado una sesión en su cuenta de Biobanco en línea!"
 				}
-			},
+			],
 			"title": "Para crear su cuenta de login.gov:"
 		},
-		"2": {
+		{
 			"alt_text": "logotipo de login.gov",
-			"links": {
-				"0": "Centro de ayuda de login.gov",
-				"1": "Contacte al equipo de login.gov",
-				"2": "Revise las instrucciones paso a paso con imágenes de capturas de pantalla"
-			},
+			"links": [
+				"Centro de ayuda de login.gov",
+				"Contacte al equipo de login.gov",
+				"Revise las instrucciones paso a paso con imágenes de capturas de pantalla"
+			],
 			"title": "Más información sobre login.gov"
 		}
-	}
+	]
 }

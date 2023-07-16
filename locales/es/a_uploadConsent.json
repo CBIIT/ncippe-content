@@ -1,8 +1,8 @@
 {
 	"description": "Una vez que complete esta carga, el participante podrá ver y descargar este formulario de consentimiento.",
 	"title": "Subir un formulario de consentimiento",
-	"upload": {
-		"0": {
+	"upload": [
+		{
 			"button_select": "Seleccione un archivo para cargar",
 			"error": {
 				"fileType": {
@@ -15,8 +15,8 @@
 				}
 			}
 		},
-		"1": {
+		{
 			"progress": "Subiendo archivo ..."
 		}
-	}
+	]
 }

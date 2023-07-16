@@ -1,8 +1,8 @@
 {
 	"description": "Once you complete this upload, the participant will be able to view and download this consent form.",
 	"title": "Upload a consent form",
-	"upload": {
-		"0": {
+	"upload": [
+		{
 			"button_select": "Select a file to upload",
 			"error": {
 				"fileType": {
@@ -15,8 +15,8 @@
 				}
 			}
 		},
-		"1": {
+		{
 			"progress": "Uploading file..."
 		}
-	}
+	]
 }

@@ -1,19 +1,19 @@
 {
-	"alt_text": {
-		"0": "doctor and patient",
-		"1": "test tubes"
-	},
+	"alt_text": [
+		"doctor and patient",
+		"test tubes"
+	],
 	"body": "<h3>Blood samples</h3>The hospital staff will draw a few extra tubes of blood for the Biobank during your routine care.<h3>Tissue samples</h3>Your doctor will collect extra samples for the Biobank during a routine biopsy whenever possible. It's also possible your doctor may schedule a biopsy just to get tissue for the Biobank.<h3>Medical information</h3><p>We’ll collect information from your medical record, such as your diagnosis and past treatments. Your information will remain secure. <a data-route href='/participation/privacy'>Learn more about privacy and the Biobank</a>.</p><p>Many things can influence whether someone gets cancer and how they respond to treatment. Researchers will use your medical information along with your samples to do research that can help them better understand how to treat cancer.</p>",
-	"faqs": {
-		"0": {
+	"faqs": [
+		{
 			"answer": "We won't share your name or any other information that identifies you with researchers. Only the Biobank program staff at your hospital will contact you directly if there are questions about your participation.",
 			"question": "Will researchers contact me directly?"
 		},
-		"1": {
+		{
 			"answer": "We'll share updates about research done with help of Biobank samples. We can't tell you if your particular samples were used, because samples will not have your name or any other information that identifies you on them to protect your privacy.",
 			"question": "Will I be told anything about the research done on my samples?"
 		}
-	},
+	],
 	"faqs_title": "Frequently asked questions about sample donation",
 	"intro_text": "During the course of your treatment, you’ll donate samples of blood and tissue. Those samples will be securely stored in the Biobank until they’re shared with researchers.",
 	"metaData": {

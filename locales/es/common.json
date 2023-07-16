@@ -120,11 +120,11 @@
 		"research": "Investigación",
 		"research_subNav": {
 			"0": "Resumen de la investigación",
-			"0_subNav": {
-				"0": "Genéticas de la leucemia mieloide aguda",
-				"1": "Mejores tratamientos para el cáncer de pulmón",
-				"2": "El ambiente de las células cancerosas"
-			}
+			"0_subNav": [
+				"Genéticas de la leucemia mieloide aguda",
+				"Mejores tratamientos para el cáncer de pulmón",
+				"El ambiente de las células cancerosas"
+			]
 		}
 	},
 	"search": {

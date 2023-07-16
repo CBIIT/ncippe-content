@@ -26,20 +26,20 @@
 	"components": {
 		"biomarkerView": {
 			"description": "Por favor, descargue y guarde su informe de biomarcadores con sus documentos. También se le ha enviado una copia a su médico.",
-			"guide": {
-				"0": {
+			"guide": [
+				{
 					"alt_text": "portada del informe de biomarcadores de tumores sólidos",
 					"link": "Ver guía",
 					"title": "Guía del informe de tumores sólidos y mieloma múltiple",
 					"title_aria": "Vea el documento de guía en PDF para revisar un informe de prueba de tumor sólido"
 				},
-				"1": {
+				{
 					"alt_text": "portada del informe de biomarcadores LMA",
 					"link": "Ver guía",
 					"title": "Guía del informe de biomarcadores de leucemia mieloide aguda (LMA)",
 					"title_aria": "Vea el documento de guía en PDF para revisar un informe de prueba de Leucemia mieloide aguda (LMA)"
 				}
-			},
+			],
 			"metaData": {
 				"title": "Informes de biomarcadores | Cuenta | Cancer Moonshot Biobank"
 			},

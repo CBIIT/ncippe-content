@@ -1,7 +1,7 @@
 {
-	"alt_text": {
-		"0": "Doctor and patient"
-	},
+	"alt_text": [
+		"Doctor and patient"
+	],
 	"form_link_adult": "Adult consent form",
 	"form_link_minors": "Assent form for minors",
 	"form_link_parental": "Parental permission form",

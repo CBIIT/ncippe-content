@@ -1,37 +1,37 @@
 {
-	"alt_text": {
-		"0": "Father and daughter looking at tablet computer"
-	},
-	"faqs": {
-		"0": {
+	"alt_text": [
+		"Father and daughter looking at tablet computer"
+	],
+	"faqs": [
+		{
 			"answer": "You must use the same email you provided when you signed up for the Biobank. This is the same email where you received an email notice to activate your account. Please contact your research coordinator if you have further questions.",
 			"question": "What email should I use to create my login.gov account?"
 		},
-		"1": {
+		{
 			"answer": "You may have created a login.gov account to access USAJobs or another government service. In that case, you don’t need to create another account. Just make sure that that the email you used to sign up for the Biobank is associated with your login.gov account, or add it before signing into the Biobank.",
 			"question": "What if I already have a login.gov account?"
 		},
-		"2": {
+		{
 			"answer": "<p>Yes, you can change your email after you finish setting up an account using the email you were invited with.</p><p>To change your email address, sign in to your login.gov account at <a href='https://secure.login.gov'>https://secure.login.gov</a>. From here you can manage your account, including adding a new email and deleting unwanted ones. Once you change your email in login.gov, we will use that email to send you Biobank notifications and news.</p>",
 			"question": "Can I change the email I use with my online Biobank account?"
 		},
-		"3": {
+		{
 			"answer": "If you close your login.gov account, your online Biobank account will automatically close. Closing your online Biobank account won’t end your participation in the Biobank.",
 			"question": "What happens if I close my login.gov account?"
 		},
-		"4": {
+		{
 			"answer": "No. If you prefer not to access your online Biobank account, you can always get copies of your biomarker test results and signed consent forms from your research coordinator or your provider.",
 			"question": "Do I need an online Biobank account to participate in the Biobank?"
 		},
-		"5": {
+		{
 			"answer": "<p>For adults, at this time only program participants can manage their own Biobank accounts.</p><p>If you’re under 18, your parent or legal guardian can create an online account to manage your participation in the Biobank. Once you turn 18, the account will be transferred to you.</p>",
 			"question": "Can someone manage my online Biobank account for me?"
 		},
-		"6": {
+		{
 			"answer": "Login.gov adds a layer of security to your online Biobank account by requiring multi-factor authentication and strong passwords to access your account. For more information, read the <a href='https://www.login.gov/policy/' rel='noopener noreferrer' target='_blank'>login.gov security and privacy policy</a>.",
 			"question": "How does login.gov keep my information safe?"
 		}
-	},
+	],
 	"faqs_title": "Frequently asked questions about your online Biobank account",
 	"intro_text": "<p>After you enroll in the Biobank through your doctor or research coordinator, you’ll receive an email invitation to activate your online Biobank account.</p><p>Your account will let you download biomarker test reports and signed consent forms, manage your Biobank participation, and hear directly from the Biobank.</p>",
 	"metaData": {
@@ -42,71 +42,71 @@
 	},
 	"pageRoute": "/participation/activate",
 	"pageTitle": "Activate your online Biobank account",
-	"sections": {
-		"0": {
+	"sections": [
+		{
 			"alt_text": "Login.gov screenshot",
-			"links": {
-				"0": "I need to create a login.gov account",
-				"1": "I already have a login.gov account"
-			},
+			"links": [
+				"I need to create a login.gov account",
+				"I already have a login.gov account"
+			],
 			"title": "To keep your information secure, the Biobank uses login.gov"
 		},
-		"1": {
+		{
 			"link": "Create a login.gov account",
-			"security_options": {
-				"0": {
+			"security_options": [
+				{
 					"alt_text": "cell phone icon",
 					"description": "Receive a code via text message (SMS) or phone call.",
 					"label": "Phone"
 				},
-				"1": {
+				{
 					"alt_text": "authentication application icon",
 					"description": "Receive a secure code through an authentication application (like Google Authenticator or Microsoft Authenticator).",
 					"label": "Authentication application"
 				},
-				"2": {
+				{
 					"alt_text": "USB security key icon",
 					"description": "Plug in a USB key to access your account.",
 					"label": "Security key"
 				},
-				"3": {
+				{
 					"alt_text": "laptop icon",
 					"description": "Receive a set of 10 codes that you can use when you sign in. If you select this option, make sure to keep your codes in a safe place.",
 					"label": "Backup codes"
 				}
-			},
-			"stepper": {
-				"0": {
+			],
+			"stepper": [
+				{
 					"description": "This must be the same email address where you received the invitation to the Biobank.",
 					"label": "Enter and confirm your email"
 				},
-				"1": {
+				{
 					"description": "This password must be 12 characters long and not be a commonly used password.",
 					"label": "Create a strong password"
 				},
-				"2": {
+				{
 					"description": "Each method works differently. Choose from:",
 					"label": "Select a second method for security"
 				},
-				"3": {
+				{
 					"description": "You won’t use this to sign in each time, but it is important to set up in case you lose access to your second method.",
 					"label": "Select a backup method for security"
 				},
-				"4": {
+				{
 					"description": "The next time you sign in, you'll enter your email and password and use the second method you chose for security.",
 					"label": "You'll be signed into your online Biobank account!"
 				}
-			},
+			],
 			"title": "To create your login.gov account:"
 		},
-		"2": {
+		{
 			"alt_text": "login.gov logo",
-			"links": {
-				"0": "login.gov help center",
-				"1": "Contact the login.gov team",
-				"2": "Review step-by-step instructions with screen shots"
-			},
+			"links": [
+				"login.gov help center",
+				"Contact the login.gov team",
+				"Review step-by-step instructions with screen shots"
+			],
 			"title": "More information about login.gov"
 		}
-	}
+	]
 }
