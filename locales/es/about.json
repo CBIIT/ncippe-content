@@ -106,10 +106,10 @@
 				}
 			},
 			"ProjectSummary": {
-				"BiomarkerTestReturned": "# de pruebas de biomarcadores devueltas a proveedores y participantes",
-				"CancerTypes": "# de tipos de cáncer para los que se han recolectado muestras en el estudio",
-				"ParticipantsEnrolled": "# de participantes inscritos en el estudio",
-				"SitesThatHaveEnrolledParticipants": "# de sitios que han inscrito participantes y recolectado y enviado especímenes"
+				"BiomarkerTestReturned": "Pruebas de biomarcadores devueltas a proveedores y participantes",
+				"CancerTypes": "Tipos de cáncer para los que se han recolectado muestras en el estudio",
+				"ParticipantsEnrolled": "Participantes inscritos en el estudio",
+				"SitesThatHaveEnrolledParticipants": "Sitios que han inscrito participantes y recolectado y enviado especímenes"
 			}
 		}
 	},
