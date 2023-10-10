@@ -12,7 +12,7 @@
 		"0": {
 			"alt_text": "nurse reassuring elderly patient",
 			"body": {
-				"list": "<ul class='bulletList bulletList--spreadOut'><li>Have been diagnosed with locally advanced or metastatic:<ul><li>Colon cancer</li><li>Lung cancer</li><li>Prostate cancer</li><li>Melanoma</li><li>Gastroesophageal cancer</li><li>Multiple myeloma</li><li>Acute myeloid leukemia</li></ul></li><li>Are being treated at a hospital that is taking part in the Biobank</li><li>Are receiving standard treatment (not experimental treatment)</li><li>Are at least 13 years old</li></ul>"
+				"list": "<ul class='bulletList bulletList--spreadOut'><li>Have been diagnosed with locally advanced or metastatic:<ul><li>Colon cancer</li><li>Lung cancer</li><li>Prostate cancer</li><li>Melanoma</li><li>Gastroesophageal cancer</li><li>Breast cancer</li><li>Ovarian cancer</li><li>Multiple myeloma</li><li>Acute myeloid leukemia</li></ul></li><li>Are being treated at a hospital that is taking part in the Biobank</li><li>Are receiving standard treatment (not experimental treatment)</li><li>Are at least 13 years old</li></ul>"
 			},
 			"subtitle": "You may be eligible if you:",
 			"title": "Eligibility"
