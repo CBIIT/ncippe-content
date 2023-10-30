@@ -12,7 +12,7 @@
 		"0": {
 			"alt_text": "Enfermera que reconforta a un paciente anciano",
 			"body": {
-				"list": "<ul class='bulletList bulletList--spreadOut'><li>Ha recibido un diagnóstico de cáncer localmente avanzado o metastásico de:<ul><li>Colon</li><li>Pulmón</li><li>Próstata</li><li>Melanoma</li><li>Gastroesofágico</li><li>Mama</li><li>Ovárica</li><li>Mieloma múltiple</li><li>Leucemia mieloide aguda</li></ul></li><li>Está recibiendo tratamiento en un hospital que participa en el Biobanco</li><li>Está recibiendo tratamiento habitual (es decir, que no es experimental)</li><li>Tiene por lo menos 13 años de edad</li></ul>"
+				"list": "<ul class='bulletList bulletList--spreadOut'><li>Ha recibido un diagnóstico de cáncer localmente avanzado o metastásico de:<ul><li>Colon</li><li>Pulmón</li><li>Próstata</li><li>Mama(seno)</li><li>Ovario</li><li>Melanoma</li><li>Gastroesofágico</li><li>Mieloma múltiple</li><li>Leucemia mieloide aguda</li></ul></li><li>Está recibiendo tratamiento en un hospital que participa en el Biobanco</li><li>Está recibiendo tratamiento habitual (es decir, que no es experimental)</li><li>Tiene por lo menos 13 años de edad</li></ul>"
 			},
 			"subtitle": "Tal vez sea apto para participar si usted:",
 			"title": "Idoneidad para participar"
