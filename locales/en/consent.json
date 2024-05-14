@@ -8,9 +8,9 @@
 	"intro_text": "<p>After you and your doctor discuss the Biobank and you decide you'd like to take part, you’ll be given a consent form to review and sign.</p><p>Participation in the Biobank is voluntary and deciding not to participate won’t affect your care. You can also leave the program at any time.</p>",
 	"link": "Review a sample adult consent form",
 	"metaData": {
+		"description": "After you and your doctor discuss the Biobank and you decide you'd like to join you’ll be given a consent form to review and sign.",
 		"OG_description": "After you and your doctor discuss the Biobank and you decide you'd like to join you’ll be given a consent form to review and sign.",
 		"OG_title": "What to expect – giving consent | Cancer Moonshot Biobank",
-		"description": "After you and your doctor discuss the Biobank and you decide you'd like to join you’ll be given a consent form to review and sign.",
 		"title": "What to expect – giving consent | Cancer Moonshot Biobank"
 	},
 	"pageRoute": "/expect/consent",

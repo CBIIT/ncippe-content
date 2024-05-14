@@ -1,17 +1,13 @@
 {
-	"PII": {
-		"body": "<p>Personally Identifiable Information (PII) is any information that is &quot;linked&quot; or is &quot;linkable&quot; to a particular individual. &quot;Linked&quot; means the Biobank can identify the individual from the information itself. &quot;Linkable&quot; means the information could be linked to a particular individual only if it is combined with other information derived from another source.</p>",
-		"title": "Personally Identifiable Information"
-	},
 	"description": "<p>Thank you for visiting the Cancer Moonshot<sup>SM</sup> Biobank website and reviewing our privacy policy. This policy explains how we collect, use, and maintain the personally identifiable information (PII) you provide when you visit our site. Your privacy is important to us, and we are required by law to protect the information you entrust to us. </p>\n<p>The Cancer Moonshot Biobank (herein referred to as the &quot;Biobank&quot;) website is hosted on Cancer.gov and is composed of both a public and an authenticated area (herein referred to as the &quot;engagement portal&quot;). The public pages are available to any member of the public that visits the Biobank websites. The authenticated area is only accessible to approved Biobank participants and healthcare providers. The website privacy information below is divided into two sections (public website and engagement portal) that describe what you can expect when you visit each.</p>",
 	"disclosure": {
 		"body": "<p>The Biobank does not disclose, give, sell, or transfer any personally identifiable information about our website visitors without explicit permission unless required for law enforcement or by statute.</p>",
 		"title": "Disclosure"
 	},
 	"metaData": {
+		"description": "This policy explains how we collect, use, and maintain the personally identifiable information (PII) you provide when you visit the public site or log in to the portal.",
 		"OG_description": "This policy explains how we collect, use, and maintain the personally identifiable information (PII) you provide when you visit the public site or log in to the portal.",
 		"OG_title": "Website Privacy and Security Policy | Cancer Moonshot Biobank",
-		"description": "This policy explains how we collect, use, and maintain the personally identifiable information (PII) you provide when you visit the public site or log in to the portal.",
 		"title": "Website Privacy and Security Policy | Cancer Moonshot Biobank"
 	},
 	"nav": {
@@ -20,6 +16,10 @@
 	},
 	"pageRoute": "/website-privacy-security",
 	"pageTitle": "Cancer Moonshot Biobank website privacy and security policy",
+	"PII": {
+		"body": "<p>Personally Identifiable Information (PII) is any information that is &quot;linked&quot; or is &quot;linkable&quot; to a particular individual. &quot;Linked&quot; means the Biobank can identify the individual from the information itself. &quot;Linkable&quot; means the information could be linked to a particular individual only if it is combined with other information derived from another source.</p>",
+		"title": "Personally Identifiable Information"
+	},
 	"portal": {
 		"body": "<p>This section contains privacy information for the authenticated, sign-in portion of the Biobank website (herein referred to as the engagement portal) accessible to Biobank approved participants and healthcare providers.</p>",
 		"sections": [

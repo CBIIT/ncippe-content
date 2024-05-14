@@ -17,9 +17,9 @@
 	"faqs_title": "Preguntas frecuentes sobre la donación de muestras",
 	"intro_text": "Durante el trascurso de su tratamiento, donará muestras de sangre y tejido. Esas muestras se guardarán de manera segura en el Biobanco hasta que se distribuyan a investigadores.",
 	"metaData": {
+		"description": "Durante el trascurso de su tratamiento, donará muestras de sangre y tejido. Esas muestras se guardarán de manera segura en el Biobanco hasta que se distribuyan a investigadores.",
 		"OG_description": "Durante el trascurso de su tratamiento, donará muestras de sangre y tejido. Esas muestras se guardarán de manera segura en el Biobanco hasta que se distribuyan a investigadores.",
 		"OG_title": "Qué puede esperar – donar muestras | Cancer Moonshot Biobank",
-		"description": "Durante el trascurso de su tratamiento, donará muestras de sangre y tejido. Esas muestras se guardarán de manera segura en el Biobanco hasta que se distribuyan a investigadores.",
 		"title": "Qué puede esperar – donar muestras | Cancer Moonshot Biobank"
 	},
 	"pageRoute": "/expect/donate",

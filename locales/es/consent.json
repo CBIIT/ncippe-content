@@ -8,9 +8,9 @@
 	"intro_text": "<p>Después de que usted y el médico conversen sobre el Biobanco y usted decida que le gustaría participar, se le dará un formulario de consentimiento para que lo lea con atención y lo firme.</p><p>La participación en el Biobanco es voluntaria, y la decisión de no participar no afectará su atención. También puede salirse del programa en cualquier momento.</p>",
 	"link": "Revisar una muestra de formulario de consentimiento para adultos",
 	"metaData": {
+		"description": "Después de que converse con el médico sobre el Biobanco y usted decida que le gustaría inscribirse, se le dará un formulario de consentimiento para que lo lea con atención y lo firme.",
 		"OG_description": "Después de que converse con el médico sobre el Biobanco y usted decida que le gustaría inscribirse, se le dará un formulario de consentimiento para que lo lea con atención y lo firme.",
 		"OG_title": "Qué puede esperar – dar consentimiento | Cancer Moonshot Biobank",
-		"description": "Después de que converse con el médico sobre el Biobanco y usted decida que le gustaría inscribirse, se le dará un formulario de consentimiento para que lo lea con atención y lo firme.",
 		"title": "Qué puede esperar – dar consentimiento | Cancer Moonshot Biobank"
 	},
 	"pageRoute": "/expect/consent",

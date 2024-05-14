@@ -33,9 +33,9 @@
 	],
 	"disclaimer": "Una vez que su información se trasmita al Biobanco, ya no la protegerán las reglas de privacidad para pacientes (como la Ley HIPAA). Sin embargo, otras reglas y acuerdos de privacidad la protegerán todavía. Estas incluyen las reglas y los acuerdos que los investigadores deberán cumplir para acceder a la base de datos científica del Biobanco.",
 	"metaData": {
+		"description": "Protegemos sus datos y su privacidad al controlar quién puede acceder a la información que lo puede identificar, al no revelar su participación y al evaluar nuestros sistemas con regularidad.",
 		"OG_description": "Protegemos sus datos y su privacidad al controlar quién puede acceder a la información que lo puede identificar, al no revelar su participación y al evaluar nuestros sistemas con regularidad.",
 		"OG_title": "Protección de su privacidad | Cancer Moonshot Biobank",
-		"description": "Protegemos sus datos y su privacidad al controlar quién puede acceder a la información que lo puede identificar, al no revelar su participación y al evaluar nuestros sistemas con regularidad.",
 		"title": "Protección de su privacidad | Cancer Moonshot Biobank"
 	},
 	"pageRoute": "/participation/privacy",

@@ -35,9 +35,9 @@
 	"faqs_title": "Preguntas frecuentes sobre su cuenta de Biobanco en línea",
 	"intro_text": "<p>Después de que se inscriba en el Biobanco por medio de su médico o coordinador de investigación, recibirá una invitación por correo electrónico para que active su cuenta de Biobanco en línea.</p><p>Por medio de su cuenta podrá descargar informes de la prueba de biomarcadores y formularios de consentimiento firmados, administrar su participación en el Biobanco y recibir mensajes directos del Biobanco.</p>",
 	"metaData": {
+		"description": "Después de que se inscriba en el Biobanco por medio de su médico o coordinador de investigación, recibirá una invitación por correo electrónico para que active su cuenta de Biobanco en línea.",
 		"OG_description": "Después de que se inscriba en el Biobanco por medio de su médico o coordinador de investigación, recibirá una invitación por correo electrónico para que active su cuenta de Biobanco en línea.",
 		"OG_title": "Active su cuenta | Cancer Moonshot Biobank",
-		"description": "Después de que se inscriba en el Biobanco por medio de su médico o coordinador de investigación, recibirá una invitación por correo electrónico para que active su cuenta de Biobanco en línea.",
 		"title": "Active su cuenta | Cancer Moonshot Biobank"
 	},
 	"pageRoute": "/participation/activate",

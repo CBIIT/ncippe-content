@@ -104,7 +104,8 @@
 		"about_subNav": {
 			"about": "Acerca del Biobanco",
 			"eligibility": "Idoneidad para participar y ubicaciones",
-			"news": "Noticias y eventos"
+			"news": "Noticias y eventos",
+			"studyprogress": "Study Progress"
 		},
 		"expect": "Qué puede esperar",
 		"expect_subNav": {
@@ -131,6 +132,12 @@
 		"input_placeholder": "Buscar"
 	},
 	"tabs": {
+		"about": {
+			"abouts": "Acerca del Biobanco",
+			"eligibility": "Idoneidad para participar y ubicaciones",
+			"news": "",
+			"studyprogress": ""
+		},
 		"expect": {
 			"consent": "Dar su consentimiento",
 			"donate": "Done muestras",

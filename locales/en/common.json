@@ -104,7 +104,8 @@
 		"about_subNav": {
 			"about": "About the Biobank",
 			"eligibility": "Eligibility and locations",
-			"news": "News and events"
+			"news": "News and events",
+			"studyprogress": "Study Progress"
 		},
 		"expect": "What to expect",
 		"expect_subNav": {
@@ -131,6 +132,12 @@
 		"input_placeholder": "Search"
 	},
 	"tabs": {
+		"about": {
+			"abouts": "About the Biobank",
+			"eligibility": "Eligibility and locations",
+			"news": "noticias y eventos",
+			"studyprogress": "Study Progress"
+		},
 		"expect": {
 			"consent": "Give your consent",
 			"donate": "Donate samples",

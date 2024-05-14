@@ -17,9 +17,9 @@
 	"faqs_title": "Frequently asked questions about sample donation",
 	"intro_text": "During the course of your treatment, you’ll donate samples of blood and tissue. Those samples will be securely stored in the Biobank until they’re shared with researchers.",
 	"metaData": {
+		"description": "During the course of your treatment, you’ll donate samples of blood and tissue. Those samples will be securely stored in the Biobank until they’re shared with researchers.",
 		"OG_description": "During the course of your treatment, you’ll donate samples of blood and tissue. Those samples will be securely stored in the Biobank until they’re shared with researchers.",
 		"OG_title": "What to expect – donating samples | Cancer Moonshot Biobank",
-		"description": "During the course of your treatment, you’ll donate samples of blood and tissue. Those samples will be securely stored in the Biobank until they’re shared with researchers.",
 		"title": "What to expect – donating samples | Cancer Moonshot Biobank"
 	},
 	"pageRoute": "/expect/donate",

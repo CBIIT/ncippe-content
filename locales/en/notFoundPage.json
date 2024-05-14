@@ -1,9 +1,9 @@
 {
 	"buttonText": "Go to Homepage",
 	"metaData": {
+		"description": "The requested url could not be found.",
 		"OG_description": "The requested url could not be found.",
 		"OG_title": "Page Not Found | Cancer Moonshot Biobank",
-		"description": "The requested url could not be found.",
 		"title": "Page Not Found | Cancer Moonshot Biobank"
 	},
 	"pageRoute": "/notfound",

@@ -32,9 +32,9 @@
 	"faqs_title": "Preguntas frecuentes sobre las pruebas de biomarcadores",
 	"intro_text": "<p>El cáncer de cada personaes único.</p><p>Después de que done las muestras de sangre y tejido al Biobanco, haremos una prueba de biomarcadores con estas. Su médico tal vez pueda usar el informe para crear un plan de tratamiento más personalizado para usted.</p>",
 	"metaData": {
+		"description": "En el Biobanco se realizará una prueba de biomarcadores con su muestra de tumor donada. Esta prueba tal vez ayude a su médico a entender mejor cómo tratarle el cáncer o a encontrarle opciones de estudios clínicos.",
 		"OG_description": "En el Biobanco se realizará una prueba de biomarcadores con su muestra de tumor donada. Esta prueba tal vez ayude a su médico a entender mejor cómo tratarle el cáncer o a encontrarle opciones de estudios clínicos.",
 		"OG_title": "Qué puede esperar – hacerse una prueba de biomarcadores | Cancer Moonshot Biobank",
-		"description": "En el Biobanco se realizará una prueba de biomarcadores con su muestra de tumor donada. Esta prueba tal vez ayude a su médico a entender mejor cómo tratarle el cáncer o a encontrarle opciones de estudios clínicos.",
 		"title": "Qué puede esperar – hacerse una prueba de biomarcadores | Cancer Moonshot Biobank"
 	},
 	"pageRoute": "/expect/testing",

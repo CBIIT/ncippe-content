@@ -1,9 +1,9 @@
 {
 	"buttonText": "Go to Homepage",
 	"metaData": {
+		"description": "You have encountered a page error.",
 		"OG_description": "You have encountered a page error.",
 		"OG_title": "Error Page | Cancer Moonshot Biobank",
-		"description": "You have encountered a page error.",
 		"title": "Error Page | Cancer Moonshot Biobank"
 	},
 	"pageRoute": "/errorPage",

@@ -1,17 +1,13 @@
 {
-	"PII": {
-		"body": "<p>La información de identificación personal (PII) es cualquier información que esté “relacionada” o que “se pueda relacionar” con una persona específica. En este caso, “relacionada” significa que el personal del Biobanco puede identificar a la persona por medio de la información en sí. “Se pueda relacionar” significa que la información se podría relacionar con una persona específica solo si dicha información se reúne con otros datos que se obtengan de otra fuente.</p>",
-		"title": "Información de Identificación Personal"
-	},
 	"description": "<p>Muchas gracias por visitar el sitio web del Cancer Moonshot<sup>SM</sup> Biobank y por leer nuestra política de privacidad. En esta política se explica cómo obtenemos, usamos y mantenemos la información de identificación personal (PII) que usted proporciona cuando visita nuestro sitio. Su privacidad es importante para nosotros, y la ley dispone que protejamos la información que usted nos confía.</p>\n<p>El sitio web del Cancer Moonshot Biobank (en lo sucesivo, el “Biobanco”) se aloja en Cancer.gov y está formado tanto por un área pública como por un área que requiere autenticación (en lo sucesivo, el “portal de interacción”). Las páginas públicas están disponibles para cualquier miembro del público que visite los sitios web del Biobanco. Al área de autenticación solo pueden entrar los proveedores de atención médica y los participantes del Biobanco aprobados. A continuación, la información de privacidad del sitio web se divide en dos secciones (el sitio web público y el portal de interacción) en las que se describe lo que usted puede esperar cuando visite cada una de ellas.</p>",
 	"disclosure": {
 		"body": "<p>El Biobanco no divulga, proporciona, vende ni transfiere ninguna información de identificación personal sobre los visitantes de su sitio web sin su autorización explícita, a menos que lo exijan las fuerzas del orden público o la ley.</p>",
 		"title": "Divulgación de información"
 	},
 	"metaData": {
+		"description": "En esta política se explica cómo obtenemos, usamos y mantenemos la información de identificación personal (PII) que usted proporciona cuando visita el sitio público o cuando inicia una sesión en el portal. ",
 		"OG_description": "En esta política se explica cómo obtenemos, usamos y mantenemos la información de identificación personal (PII) que usted proporciona cuando visita el sitio público o cuando inicia una sesión en el portal. ",
 		"OG_title": "Política de privacidad y seguridad del sitio web | Cancer Moonshot Biobank",
-		"description": "En esta política se explica cómo obtenemos, usamos y mantenemos la información de identificación personal (PII) que usted proporciona cuando visita el sitio público o cuando inicia una sesión en el portal. ",
 		"title": "Política de privacidad y seguridad del sitio web | Cancer Moonshot Biobank"
 	},
 	"nav": {
@@ -20,6 +16,10 @@
 	},
 	"pageRoute": "/website-privacy-security",
 	"pageTitle": "Política de privacidad y seguridad del sitio web del Cancer Moonshot Biobank",
+	"PII": {
+		"body": "<p>La información de identificación personal (PII) es cualquier información que esté “relacionada” o que “se pueda relacionar” con una persona específica. En este caso, “relacionada” significa que el personal del Biobanco puede identificar a la persona por medio de la información en sí. “Se pueda relacionar” significa que la información se podría relacionar con una persona específica solo si dicha información se reúne con otros datos que se obtengan de otra fuente.</p>",
+		"title": "Información de Identificación Personal"
+	},
 	"portal": {
 		"body": "<p>Esta sección incluye la información de privacidad para la parte del sitio web del Biobanco cuyo acceso requiere el inicio de una sesión con autenticación (en lo sucesivo, el portal de interacción) y a la que solo pueden entrar los proveedores de atención médica y los participantes del Biobanco aprobados.</p>",
 		"sections": [
