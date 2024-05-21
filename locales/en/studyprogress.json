@@ -1,4 +1,18 @@
 {
+	"cards": [
+		{
+			"title": "Enrolled participants"
+		},
+		{
+			"title": "Sites with collected specimens"
+		},
+		{
+			"title": "Cancer types of collected samples"
+		},
+		{
+			"title": "Returned Biomarker tests"
+		}
+	],
 	"charts": {
 		"chart_data": {
 			"PatientDemographics": {
@@ -87,14 +101,19 @@
 			"subtitle": "Age",
 			"title": "Participant Demographic"
 		},
+		"ParticipantDemographicsBioSpecimen": {
+			"alt_text": "Participant Demographics Biospecimens Donated by Participants-chart",
+			"subtitle": "Biospecimens Donated by Participants",
+			"title": "Participant Demographic"
+		},
 		"ParticipantDemographicsSex": {
 			"alt_text": "Participant Demographics Sex Bar-chart",
 			"subtitle": "Sex",
 			"title": "Participant Demographic"
 		},
-		"PatientDemographics": {
+		"PatientDemographicsCancerType": {
 			"alt_text": "Patient Demographics - By Cancer Type Pie-chart",
-			"subtitle": "By Cancer Type",
+			"subtitle": "Cancer Type",
 			"title": "Patient Demographics"
 		},
 		"PatientDemographicsEthnicity": {
@@ -105,6 +124,11 @@
 		"PatientDemographicsRace": {
 			"alt_text": "Patient Demographics - By Race  Bar chart",
 			"subtitle": "Race",
+			"title": "Patient Demographics"
+		},
+		"PatientDemographicsRuralUrban": {
+			"alt_text": "Patient Demographics - Rural vs. Urban",
+			"subtitle": "Rural vs. Urban",
 			"title": "Patient Demographics"
 		},
 		"ProjectSummary": {

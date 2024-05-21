@@ -1,4 +1,18 @@
 {
+	"cards": [
+		{
+			"title": "Participantes inscritas"
+		},
+		{
+			"title": "Sitios con especímenes recolectados"
+		},
+		{
+			"title": "Tipos de cáncer de muestras recolectadas"
+		},
+		{
+			"title": "Pruebas de biomarcadores devueltas"
+		}
+	],
 	"charts": {
 		"chart_data": {
 			"PatientDemographics": {
@@ -87,14 +101,19 @@
 			"subtitle": "Eedad",
 			"title": "Datos demográficos de los participantes"
 		},
+		"ParticipantDemographicsBioSpecimen": {
+			"alt_text": "Gráfico de barras de datos demográficos del participante edad",
+			"subtitle": "Bioespecímenes donados por las participantes",
+			"title": "Datos demográficos de los participantes"
+		},
 		"ParticipantDemographicsSex": {
 			"alt_text": "Gráfico de barras de datos demográficos del participante sexo",
 			"subtitle": "Sexo",
 			"title": "Datos demográficos de los participantes"
 		},
-		"PatientDemographics": {
+		"PatientDemographicsCancerType": {
 			"alt_text": "Datos demográficos del paciente: por tipo de cáncer Gráfico circular",
-			"subtitle": "Por tipo de cáncer",
+			"subtitle": "tipo de cáncer",
 			"title": "Datos demográficos del paciente"
 		},
 		"PatientDemographicsEthnicity": {
@@ -104,7 +123,12 @@
 		},
 		"PatientDemographicsRace": {
 			"alt_text": "Datos demográficos del paciente: gráfico de barras por raza",
-			"subtitle": "Etnicidad",
+			"subtitle": "carrera",
+			"title": "Datos demográficos del paciente"
+		},
+		"PatientDemographicsRuralUrban": {
+			"alt_text": "Datos demográficos del paciente: gráfico de barras por raza",
+			"subtitle": "Rural vs. Urbano",
 			"title": "Datos demográficos del paciente"
 		},
 		"ProjectSummary": {
@@ -132,14 +156,14 @@
 			"body": "<p>El proceso comienza cuando se invita a un paciente a participar en un estudio, cuando este proporciona su consentimiento informado electrónico y se registran los datos clínicos de sus registros médicos.</p><p>Las muestras biológicas del participante (tumor y sangre) se obtienen en la clínica o en el hospital y se envían al repositorio de muestras biológicas central de Biobank para su procesamiento y almacenamiento. Tanto el ADN como el ARN se extraen del tejido tumoral y se envían al laboratorio de caracterización molecular del NCI para realizar una prueba de biomarcadores tumorales; los resultados de la prueba se envían al participante y a su proveedor a través de sus cuentas seguras en el sitio web de compromiso de participantes y proveedores. Las actualizaciones del estudio y la investigación también se publican en el sitio web de compromiso de participantes y proveedores.</p><p>También se puede enviar tejido al repositorio de modelos derivados del paciente del NCI para desarrollar modelos de cáncer para la investigación. Los biomarcadores y los datos médicos están desprovistos de información personal identificativa, se almacenan de forma segura en los repositorios de datos del NCI y se ponen a disposición de investigadores del cáncer cualificados. El personal del programa utiliza el sistema de notificación por Internet para monitorear y revisar los datos del estudio con el fin de garantizar el cumplimiento del protocolo y de los requisitos reguladores.</p>",
 			"caption": "Haga clic en la imagen para ampliar",
 			"intro": "<p>El Cancer Moonshot Biobank tiene como objetivo acelerar los descubrimientos del cáncer con la ayuda de participantes que donan muestras y proporcionan datos clínicos durante su tratamiento contra el cáncer. Esta infografía proporciona una visión general del proyecto Biobank.</p>",
-			"title": "Project Summary"
+			"title": "Resumen del proyecto"
 		},
 		{
 			"alt_text": "Infografía",
 			"body": "",
 			"caption": "Haga clic en la imagen para ampliar",
 			"intro": "<p>El Cancer Moonshot Biobank tiene como objetivo acelerar los descubrimientos del cáncer con la ayuda de participantes que donan muestras y proporcionan datos clínicos durante su tratamiento contra el cáncer. Esta infografía proporciona una visión general del proyecto Biobank.</p>",
-			"title": "Participant Demographics and Other Metrics"
+			"title": "Datos demográficos de los participantes y otras métricas"
 		}
 	]
 }
