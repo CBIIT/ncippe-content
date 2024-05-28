@@ -17,7 +17,7 @@
 		"chart_data": {
 			"PatientDemographics": {
 				"AcuteMyeloid": {
-					"label": "Leucemia mieloide "
+					"label": "Leucemia mieloide aguda"
 				},
 				"BreastCancer": {
 					"label": "Cáncer de seno"
@@ -61,12 +61,29 @@
 					"label": "Desconocido"
 				}
 			},
+			"PatientDemographicsParticipantBio": {
+				"BloodSamples": {
+					"label": "Muestras de sangre"
+				},
+				"Participants": {
+					"label": "Las participantes"
+				},
+				"TumorSamples": {
+					"label": "Muestras de tumores"
+				}
+			},
 			"PatientDemographicsRace": {
+				"AmericanIndian": {
+					"label": "India americana o nativa de Alaska"
+				},
 				"Asian": {
 					"label": "Asiático"
 				},
 				"BlackOrAfricanAmerican": {
 					"label": "Negro o afroamericano"
+				},
+				"MoreThanOne": {
+					"label": "Más de una carrera"
 				},
 				"NativeHawaiianOrOtherPacificIslander": {
 					"label": "Nativo de Hawai u otra isla del Pacífico"
@@ -79,6 +96,14 @@
 				},
 				"White": {
 					"label": "Blanco"
+				}
+			},
+			"PatientDemographicsRuralUrban": {
+				"Rural": {
+					"label": "Rural"
+				},
+				"Urban": {
+					"label": "Urbana"
 				}
 			},
 			"PatientDemographicsSex": {
@@ -102,8 +127,8 @@
 			"title": "Datos demográficos de los participantes"
 		},
 		"ParticipantDemographicsBioSpecimen": {
-			"alt_text": "Gráfico de barras de datos demográficos del participante edad",
-			"subtitle": "Bioespecímenes donados por las participantes",
+			"alt_text": "Participant Demographics Participants and Specimens Collected",
+			"subtitle": "Participantes y muestras recolectadas",
 			"title": "Datos demográficos de los participantes"
 		},
 		"ParticipantDemographicsSex": {
@@ -113,7 +138,7 @@
 		},
 		"PatientDemographicsCancerType": {
 			"alt_text": "Datos demográficos del paciente: por tipo de cáncer Gráfico circular",
-			"subtitle": "tipo de cáncer",
+			"subtitle": "Tipo de cáncer",
 			"title": "Datos demográficos del paciente"
 		},
 		"PatientDemographicsEthnicity": {
@@ -123,7 +148,7 @@
 		},
 		"PatientDemographicsRace": {
 			"alt_text": "Datos demográficos del paciente: gráfico de barras por raza",
-			"subtitle": "carrera",
+			"subtitle": "Carrera",
 			"title": "Datos demográficos del paciente"
 		},
 		"PatientDemographicsRuralUrban": {

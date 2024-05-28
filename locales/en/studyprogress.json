@@ -10,14 +10,14 @@
 			"title": "Cancer types of collected samples"
 		},
 		{
-			"title": "Returned Biomarker tests"
+			"title": "Returned biomarker tests"
 		}
 	],
 	"charts": {
 		"chart_data": {
 			"PatientDemographics": {
 				"AcuteMyeloid": {
-					"label": "Acute myeloid"
+					"label": "Acute Myeloid Leukemia"
 				},
 				"BreastCancer": {
 					"label": "Breast cancer"
@@ -61,12 +61,29 @@
 					"label": "Unknown"
 				}
 			},
+			"PatientDemographicsParticipantBio": {
+				"BloodSamples": {
+					"label": "Blood Samples"
+				},
+				"Participants": {
+					"label": "Participants"
+				},
+				"TumorSamples": {
+					"label": "Tumor Samples"
+				}
+			},
 			"PatientDemographicsRace": {
+				"AmericanIndian": {
+					"label": "American Indian or Alaska Native"
+				},
 				"Asian": {
 					"label": "Asian"
 				},
 				"BlackOrAfricanAmerican": {
 					"label": "Black or African American"
+				},
+				"MoreThanOne": {
+					"label": "More Than One Race"
 				},
 				"NativeHawaiianOrOtherPacificIslander": {
 					"label": "Native Hawaiian or other Pacific Islander"
@@ -79,6 +96,14 @@
 				},
 				"White": {
 					"label": "White"
+				}
+			},
+			"PatientDemographicsRuralUrban": {
+				"Rural": {
+					"label": "Rural"
+				},
+				"Urban": {
+					"label": "Urban"
 				}
 			},
 			"PatientDemographicsSex": {
@@ -102,8 +127,8 @@
 			"title": "Participant Demographic"
 		},
 		"ParticipantDemographicsBioSpecimen": {
-			"alt_text": "Participant Demographics Biospecimens Donated by Participants-chart",
-			"subtitle": "Biospecimens Donated by Participants",
+			"alt_text": "Participant Demographics Participants and Specimens Collected",
+			"subtitle": "Participants and Specimens Collected",
 			"title": "Participant Demographic"
 		},
 		"ParticipantDemographicsSex": {

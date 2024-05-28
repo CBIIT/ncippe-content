@@ -102,10 +102,10 @@
 	"nav": {
 		"about": "Acerca de",
 		"about_subNav": {
-			"about": "Acerca del Biobanco",
+			"about": "Acerca del biobanco",
 			"eligibility": "Idoneidad para participar y ubicaciones",
 			"news": "Noticias y eventos",
-			"studyprogress": "progreso del estudio"
+			"studyprogress": "Progreso del estudio"
 		},
 		"expect": "Qué puede esperar",
 		"expect_subNav": {
@@ -133,9 +133,9 @@
 	},
 	"tabs": {
 		"about": {
-			"abouts": "Acerca del Biobanco",
+			"abouts": "Acerca del biobanco",
 			"eligibility": "Idoneidad para participar y ubicaciones",
-			"news": "noticias y eventos",
+			"news": "Noticias y eventos",
 			"studyprogress": "Progreso del estudio"
 		},
 		"expect": {

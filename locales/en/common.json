@@ -102,10 +102,10 @@
 	"nav": {
 		"about": "About",
 		"about_subNav": {
-			"about": "About the Biobank",
+			"about": "About the biobank",
 			"eligibility": "Eligibility and locations",
 			"news": "News and events",
-			"studyprogress": "Study Progress"
+			"studyprogress": "Study progress"
 		},
 		"expect": "What to expect",
 		"expect_subNav": {
@@ -133,10 +133,10 @@
 	},
 	"tabs": {
 		"about": {
-			"abouts": "About the Biobank",
+			"abouts": "About the biobank",
 			"eligibility": "Eligibility and locations",
-			"news": "News and Events",
-			"studyprogress": "Study Progress"
+			"news": "News and events",
+			"studyprogress": "Study progress"
 		},
 		"expect": {
 			"consent": "Give your consent",
