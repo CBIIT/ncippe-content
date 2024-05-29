@@ -123,7 +123,7 @@
 		},
 		"ParticipantDemographicsAge": {
 			"alt_text": "Gráfico de barras de datos demográficos del participante edad",
-			"subtitle": "Eedad",
+			"subtitle": "Edad",
 			"title": "Datos demográficos de los participantes"
 		},
 		"ParticipantDemographicsBioSpecimen": {
