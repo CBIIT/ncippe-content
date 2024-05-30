@@ -29,7 +29,7 @@
 					"label": "Cáncer gastroesofágico"
 				},
 				"Leukemia": {
-					"label": "Aguda"
+					"label": "Leucemia"
 				},
 				"LungCancer": {
 					"label": "Cáncer de pulmón"
@@ -172,7 +172,7 @@
 	"pageTitle": "Acerca del Biobanco",
 	"sections": [
 		{
-			"body": "<p>Muchas gracias a todos los pacientes con cáncer y proveedores de atención médica que han contribuido al Biobanco. </p><p>Aquí hay un informe de progreso de las bioespecímenes (muestras) donadas por los participantes y algunos de los detalles sobre los participantes. El estudio recopila información demográfica (tipo de cáncer, raza, origen étnico, zona rural versus urbana, edad, sexo) para comprobar nuestro progreso en la participación de un conjunto de participantes que reflejan la diversidad racial y étnica de los Estados Unidos.  Cuando los investigadores trabajan para encontrar descubrimientos que mejoren los tratamientos contra el cáncer y aumenten la supervivencia, es importante que tengan acceso a muestras de personas de muchas comunidades diferentes, para que todos puedan beneficiarse de la investigación.</p><p><em>La Las siguientes métricas se actualizaron el 25/05/2024</em>.</p>",
+			"body": "<p>Muchas gracias a todos los pacientes con cáncer y proveedores de atención médica que han contribuido al Biobanco. </p><p>Aquí hay un informe de progreso de las bioespecímenes (muestras) donadas por los participantes y algunos de los detalles sobre los participantes. El estudio recopila información demográfica (tipo de cáncer, raza, origen étnico, zona rural versus urbana, edad, sexo) para comprobar nuestro progreso en la participación de un conjunto de participantes que reflejan la diversidad racial y étnica de los Estados Unidos.  Cuando los investigadores trabajan para encontrar descubrimientos que mejoren los tratamientos contra el cáncer y aumenten la supervivencia, es importante que tengan acceso a muestras de personas de muchas comunidades diferentes, para que todos puedan beneficiarse de la investigación.</p><p><em>La Las siguientes métricas se actualizaron el {{lastUpdateDate, datetime}}</em>.</p>",
 			"subtitle": "El Biobanco comienza con usted.",
 			"title": "Progreso del estudio"
 		},
