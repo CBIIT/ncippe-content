@@ -1,18 +1,18 @@
 {
-	"cards": [
-		{
-			"title": "Participantes inscritas"
+	"cards": {
+		"BioMarkerReturnedCount": {
+			"title": "Pruebas de biomarcadores devueltas"
 		},
-		{
-			"title": "Sitios con especímenes recolectados"
-		},
-		{
+		"CancerTypesCount": {
 			"title": "Tipos de cáncer de muestras recolectadas"
 		},
-		{
-			"title": "Pruebas de biomarcadores devueltas"
+		"ParticipantsCount": {
+			"title": "Participantes inscritas"
+		},
+		"SitesCount": {
+			"title": "Sitios con especímenes recolectados"
 		}
-	],
+	},
 	"charts": {
 		"chart_data": {
 			"PatientDemographics": {
@@ -45,6 +45,14 @@
 				},
 				"ProstateCancer": {
 					"label": "Cancer de prostata"
+				}
+			},
+			"PatientDemographicsArea": {
+				"Rural": {
+					"label": "Rural"
+				},
+				"Urban": {
+					"label": "Urbana"
 				}
 			},
 			"PatientDemographicsEthnicity": {
@@ -96,14 +104,6 @@
 				},
 				"White": {
 					"label": "Blanco"
-				}
-			},
-			"PatientDemographicsRuralUrban": {
-				"Rural": {
-					"label": "Rural"
-				},
-				"Urban": {
-					"label": "Urbana"
 				}
 			},
 			"PatientDemographicsSex": {

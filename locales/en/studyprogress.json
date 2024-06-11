@@ -1,18 +1,18 @@
 {
-	"cards": [
-		{
-			"title": "Enrolled participants"
+	"cards": {
+		"BioMarkerReturnedCount": {
+			"title": "Returned biomarker tests"
 		},
-		{
-			"title": "Sites with collected specimens"
-		},
-		{
+		"CancerTypesCount": {
 			"title": "Cancer types of collected samples"
 		},
-		{
-			"title": "Returned biomarker tests"
+		"ParticipantsCount": {
+			"title": "Enrolled participants"
+		},
+		"SitesCount": {
+			"title": "Sites with collected specimens"
 		}
-	],
+	},
 	"charts": {
 		"chart_data": {
 			"PatientDemographics": {
@@ -45,6 +45,14 @@
 				},
 				"ProstateCancer": {
 					"label": "Prostate cancer"
+				}
+			},
+			"PatientDemographicsArea": {
+				"Rural": {
+					"label": "Rural"
+				},
+				"Urban": {
+					"label": "Urban"
 				}
 			},
 			"PatientDemographicsEthnicity": {
@@ -96,14 +104,6 @@
 				},
 				"White": {
 					"label": "White"
-				}
-			},
-			"PatientDemographicsRuralUrban": {
-				"Rural": {
-					"label": "Rural"
-				},
-				"Urban": {
-					"label": "Urban"
 				}
 			},
 			"PatientDemographicsSex": {

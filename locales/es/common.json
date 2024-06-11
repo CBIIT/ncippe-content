@@ -89,7 +89,8 @@
 		"tagline": "NIH ... Transformación de Descubrimientos en Salud ®"
 	},
 	"links": {
-		"language_toggle": "View in English"
+		"banner": "Un sitio oficial del Gobierno de Estados Unidos\nEnglish",
+		"language_toggle": "English"
 	},
 	"logo": {
 		"alt_text": "Logotipo del NCI Cancer Moonshot Biobank",
