@@ -81,7 +81,7 @@
 				}
 			},
 			"PatientDemographicsRace": {
-				"AmericanIndian": {
+				"AmericanIndianOrAlaskaNative": {
 					"label": "American Indian or Alaska Native"
 				},
 				"Asian": {
@@ -90,7 +90,7 @@
 				"BlackOrAfricanAmerican": {
 					"label": "Black or African American"
 				},
-				"MoreThanOne": {
+				"MoreThanOneRace": {
 					"label": "More Than One Race"
 				},
 				"NativeHawaiianOrOtherPacificIslander": {
