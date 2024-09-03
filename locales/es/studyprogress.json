@@ -4,13 +4,13 @@
 			"title": "Pruebas de biomarcadores devueltas"
 		},
 		"CancerTypesCount": {
-			"title": "Tipos de cáncer de muestras recolectadas"
+			"title": "Tipos de cáncer de las muestras obtenidas"
 		},
 		"ParticipantsCount": {
-			"title": "Participantes inscritas"
+			"title": "Participantes inscritos"
 		},
 		"SitesCount": {
-			"title": "Sitios con especímenes recolectados"
+			"title": "Centros con muestras obtenidas"
 		}
 	},
 	"charts": {
@@ -60,13 +60,13 @@
 					"label": "Hispano o latino"
 				},
 				"NotHispanicOrLatino": {
-					"label": "No Hispano o Latino"
+					"label": "Ni hispano ni latino"
 				},
 				"NotReported": {
-					"label": "No reportado"
+					"label": "No se informó"
 				},
 				"Unknown": {
-					"label": "Desconocido"
+					"label": "Se desconoce"
 				}
 			},
 			"PatientDemographicsParticipantBio": {
@@ -74,41 +74,41 @@
 					"label": "Muestras de sangre"
 				},
 				"Participants": {
-					"label": "Las participantes"
+					"label": "Participantes"
 				},
 				"TumorSamples": {
-					"label": "Muestras de tumores"
+					"label": "Muestras de tumor"
 				}
 			},
 			"PatientDemographicsRace": {
 				"AmericanIndianOrAlaskaNative": {
-					"label": "India americana o nativa de Alaska"
+					"label": "Indígena americano o nativo de Alaska"
 				},
 				"Asian": {
-					"label": "Asiático"
+					"label": "Asiática"
 				},
 				"BlackOrAfricanAmerican": {
-					"label": "Negro o afroamericano"
+					"label": "Negra o afroamericana"
 				},
 				"MoreThanOneRace": {
-					"label": "Más de una carrera"
+					"label": "Más de una raza"
 				},
 				"NativeHawaiianOrOtherPacificIslander": {
-					"label": "Nativo de Hawai u otra isla del Pacífico"
+					"label": "Nativo de Hawái u otra isla del Pacífico"
 				},
 				"NotReported": {
-					"label": "No reportado"
+					"label": "No se informó"
 				},
 				"Unknown": {
-					"label": "Desconocido"
+					"label": "Se desconoce"
 				},
 				"White": {
-					"label": "Blanco"
+					"label": "Blanca"
 				}
 			},
 			"PatientDemographicsSex": {
 				"Female": {
-					"label": "Femenina"
+					"label": "Femenio"
 				},
 				"Male": {
 					"label": "Masculino"
@@ -128,7 +128,7 @@
 		},
 		"ParticipantDemographicsBioSpecimen": {
 			"alt_text": "Participant Demographics Participants and Specimens Collected",
-			"subtitle": "Participantes y muestras recolectadas",
+			"subtitle": "Participantes y muestras obtenidas",
 			"title": "Datos demográficos de los participantes"
 		},
 		"ParticipantDemographicsSex": {
@@ -143,17 +143,17 @@
 		},
 		"PatientDemographicsEthnicity": {
 			"alt_text": "Datos demográficos del paciente: gráfico de barras por grupo étnico",
-			"subtitle": "Etnicidad",
+			"subtitle": "Grupo étnico",
 			"title": "Datos demográficos del paciente"
 		},
 		"PatientDemographicsRace": {
 			"alt_text": "Datos demográficos del paciente: gráfico de barras por raza",
-			"subtitle": "Carrera",
+			"subtitle": "Raza",
 			"title": "Datos demográficos del paciente"
 		},
 		"PatientDemographicsRuralUrban": {
-			"alt_text": "Datos demográficos del paciente: gráfico de barras por raza",
-			"subtitle": "Rural vs. Urbano",
+			"alt_text": "Datos demográficos del paciente: Zona rural frente a urbana",
+			"subtitle": "Zona rural frente a urbana",
 			"title": "Datos demográficos del paciente"
 		},
 		"ProjectSummary": {
@@ -172,7 +172,7 @@
 	"pageTitle": "Acerca del Biobanco",
 	"sections": [
 		{
-			"body": "<p>Muchas gracias a todos los pacientes con cáncer y proveedores de atención médica que han contribuido al Biobanco. </p><p>Aquí hay un informe de progreso de las bioespecímenes (muestras) donadas por los participantes y algunos de los detalles sobre los participantes. El estudio recopila información demográfica (tipo de cáncer, raza, origen étnico, zona rural versus urbana, edad, sexo) para comprobar nuestro progreso en la participación de un conjunto de participantes que reflejan la diversidad racial y étnica de los Estados Unidos.  Cuando los investigadores trabajan para encontrar descubrimientos que mejoren los tratamientos contra el cáncer y aumenten la supervivencia, es importante que tengan acceso a muestras de personas de muchas comunidades diferentes, para que todos puedan beneficiarse de la investigación.</p><p><em>La Las siguientes métricas se actualizaron el {{lastUpdateDate, datetime}}</em>.</p>",
+			"body": "<p>Les damos las gracias a todos los pacientes de cáncer y proveedores de atención médica que han contribuido al Biobanco. </p><p>Aquí presentamos un informe de avances sobre las muestras biológicas donadas por los participantes y un poco de información sobre ellos. En el estudio se recopila información demográfica (tipo de cáncer, raza, grupo étnico, zona rural frente a urbana, edad, sexo) para evaluar nuestro avance respecto a la inclusión de un conjunto de participantes que reflejen la diversidad racial y étnica de los Estados Unidos. Cuando los investigadores buscan descubrimientos para mejorar los tratamientos del cáncer y aumentar la supervivencia, es importante que tengan acceso a muestras de personas de muchas comunidades diferentes para que todos se beneficien de la investigación.</p><p><em>Los siguientes parámetros se actualizaron el {{lastUpdateDate, datetime}}</em>.</p>",
 			"subtitle": "El Biobanco comienza con usted.",
 			"title": "Progreso del estudio"
 		},
@@ -188,7 +188,7 @@
 			"body": "",
 			"caption": "Haga clic en la imagen para ampliar",
 			"intro": "<p>El Cancer Moonshot Biobank tiene como objetivo acelerar los descubrimientos del cáncer con la ayuda de participantes que donan muestras y proporcionan datos clínicos durante su tratamiento contra el cáncer. Esta infografía proporciona una visión general del proyecto Biobank.</p>",
-			"title": "Datos demográficos de los participantes y otras métricas"
+			"title": "Información demográfica y otros parámetros de los participantes"
 		}
 	]
 }

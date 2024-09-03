@@ -89,7 +89,7 @@
 		"tagline": "NIH ... Transformación de Descubrimientos en Salud ®"
 	},
 	"links": {
-		"banner": "Un sitio oficial del Gobierno de Estados Unidos\nEnglish",
+		"banner": "Un sitio web oficial del gobierno de los Estados Unidos",
 		"language_toggle": "English"
 	},
 	"logo": {
@@ -106,7 +106,7 @@
 			"about": "Acerca del biobanco",
 			"eligibility": "Idoneidad para participar y ubicaciones",
 			"news": "Noticias y eventos",
-			"studyprogress": "Progreso del estudio"
+			"studyprogress": "Avances del estudio"
 		},
 		"expect": "Qué puede esperar",
 		"expect_subNav": {
@@ -137,7 +137,7 @@
 			"abouts": "Acerca del biobanco",
 			"eligibility": "Idoneidad para participar y ubicaciones",
 			"news": "Noticias y eventos",
-			"studyprogress": "Progreso del estudio"
+			"studyprogress": "Avances del estudio"
 		},
 		"expect": {
 			"consent": "Dar su consentimiento",
