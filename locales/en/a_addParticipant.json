@@ -31,7 +31,9 @@
 			"label": "What language does the participant prefer to use?"
 		},
 		"lastName": "Last name",
-		"save": "Save and continue",
+		"save": "Save",
+		"saveActivate": "Save and Activate",
+		"saveContinue": "Save and continue",
 		"submit": "Activate account"
 	},
 	"progress": "Uploading file...",

@@ -80,6 +80,10 @@
 			"title": "Sus participantes"
 		},
 		"participantView": {
+			"changeEmail": {
+				"desc": "",
+				"title": "Perfil del participante | Cuenta | Cancer Moonshot Biobank"
+			},
 			"metaData": {
 				"title": "Perfil del participante | Cuenta | Cancer Moonshot Biobank"
 			},
