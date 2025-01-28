@@ -16,6 +16,7 @@
 				"title": "Ningún archivo seleccionado"
 			},
 			"updateUser": {
+				"existingEmail": "Se encontró un correo electrónico existente. Proporcione un correo electrónico único.",
 				"message": "Lo sentimos. Algo salió mal. Si este problema persiste, comuníquese con el administrador del sistema.",
 				"title": "No se puede actualizar la información del participante"
 			},

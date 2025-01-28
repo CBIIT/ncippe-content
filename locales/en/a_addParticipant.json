@@ -16,6 +16,7 @@
 				"title": "No file selected"
 			},
 			"updateUser": {
+				"existingEmail": "Existing email found. Please provide an unique email.",
 				"message": "We're sorry, something went wrong. If this problem persists, contact your system administrator.",
 				"title": "Unable to update participant information"
 			},
