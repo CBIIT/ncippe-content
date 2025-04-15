@@ -43,6 +43,9 @@
 			"title": "Su cuenta está cerrada."
 		}
 	},
+	"noticeBanner": {
+		"message": "Este aviso proporciona avisos de privacidad y seguridad, de conformidad con las leyes federales, directivas y demás directrices federales aplicables, para acceder a este sistema gubernamental, que incluye (1) esta red informática, (2) todas las computadoras conectadas a esta red y (3) todos los dispositivos y medios de almacenamiento conectados a esta red o a una computadora de la misma.\n\n\nEste sistema se proporciona exclusivamente para uso autorizado por el Gobierno.\n\nEl uso no autorizado o indebido de este sistema está prohibido y puede dar lugar a medidas disciplinarias o sanciones civiles y penales.\n\nEl uso personal de las redes sociales y sitios de redes sociales en este sistema está limitado a no interferir con las tareas laborales oficiales y está sujeto a supervisión.\n\nAl utilizar este sistema, usted comprende y acepta lo siguiente:\n\nEl Gobierno puede supervisar, registrar y auditar el uso de su sistema, incluido el uso de dispositivos personales y sistemas de correo electrónico para tareas oficiales o para llevar a cabo actividades del HHS. Por lo tanto, no tiene ninguna expectativa razonable de privacidad con respecto a ninguna comunicación o dato que se transmita o almacene en este sistema. En cualquier momento y para cualquier propósito legítimo del Gobierno, este podrá monitorear, interceptar, registrar e incautar cualquier comunicación o dato que transite o almacene en este sistema.\n\nCualquier comunicación o dato que transite o almacene en este sistema podrá ser divulgado o utilizado para cualquier propósito legítimo del Gobierno.\n"
+	},
 	"pageRoute": "/",
 	"pageTitle": "Página de Inicio",
 	"participate": {
